@@ -1,20 +1,46 @@
-- caption: Friday Theme on GitHub
-  href: https://github.com/sfreytag/friday-theme
+- caption: Github
+  href: https://github.com/goktugyil
   icon: entypo/github.svg
 
 - caption: Stack Overflow
-  href: https://stackoverflow.com
+  href: https://stackoverflow.com/users/2589276/esqarrouth
   icon: icons/stackoverflow.svg
 
-- caption: Facebook
-  href: https://www.facebook.com
-  icon: entypo/facebook.svg
-
 - caption: Twitter
-  href: https://www.twitter.com
+  href: https://twitter.com/Esqarrouth
   icon: entypo/twitter.svg
 
-- caption: London
-  href: https://www.google.co.uk/maps/place/London/@51.528308,-0.3817765,10z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5073509!4d-0.1277583
+- caption: Medium
+  href: https://medium.com/@goktug
+  icon: entypo/medium.svg
+
+- caption: Goodreads
+  href: https://www.goodreads.com/user/show/44243874-goktug-yilmaz
+  icon: entypo/book.svg
+
+- caption: Linkedin
+  href: https://www.linkedin.com/in/goktugyilmaz/
+  icon: entypo/linkedin.svg
+
+- caption: Angellist
+  href: https://angel.co/goktugyil
+  icon: icons/angellist.svg
+
+- caption: Lastfm
+  href: https://www.last.fm/user/goktugyil
+  icon: entypo/lastfm.svg
+
+- caption: Steam
+  href: https://steamcommunity.com/id/esqarrouth
+  icon: icons/steam.svg
+
+- caption: Email
+  href: gok-2@hotmail.com
+  icon: entypo/mail.svg
+  
+- caption: Waterloo, Canada
+  href: https://www.google.co.uk/maps/place/Waterloo,+ON/@43.4823216,-80.616931,12z/data=!3m1!4b1!4m5!3m4!1s0x882bf1565ffe672b:0x5037b28c7231d90!8m2!3d43.4642578!4d-80.5204096
   icon: entypo/location-pin.svg
+
+
 
