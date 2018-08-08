@@ -4,12 +4,14 @@
 - title: About
   href: about.html
 
-- title: Posts
-  href: list/posts.html
+- title: Blog
+  href: blog.html
 
-- title: Projects
-  href: list/projects.html
+- title: Quotes
+  href: quotes.html
 
-- title: Portfolio
-  href: list/portfolio.html
+- title: Book Summaries
+  href: booksummaries.html
 
+- title: Contact
+  href: contact.html

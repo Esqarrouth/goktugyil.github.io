@@ -8,3 +8,6 @@
 
 The theme is free to use, but if you do use it, it would be great to hear from you. Email simon@freytag.org.uk - thanks!
 
+## Run
+
+`jekyll serve`
