@@ -1,5 +1,5 @@
 ---
-layout: defaults/post
+layout: defaults/page
 permalink: book_notes.html
 narrow: true
 ---
