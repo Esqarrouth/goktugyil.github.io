@@ -1,3 +1,13 @@
-This is the homepage of an imaginary person called John Smith who lives in London, UK. It exists as a demo of the Friday Theme, which is a portfolio and blog theme for Jekyll.
+I'm an engineer, entrepreneur, investor, gamer. 
 
-Let's imagine John Smith is a freelance software engineer. He blogs occasionally, maintains some project pages for things he has on GitHub, and has a portfolio of work that he maintains instead of a CV. Friday Theme has layouts and collections for exactly that. This web site is a demo of it in action.
+Currently:   
+- Founder of Breakpoint Labs. We're working on various projects in the cryptocurrency space.   
+- Advisor @ Barakatech  
+
+Previously I've founded:  
+- Dawn of Crafting  
+- Mobile Monday Ankara  
+- Metu eSports Society  
+- Bunch of failed companies and projects.  
+
+~~I'm open to~~ I crave any and all sort of feedback for every aspect and decision of my life. Humans are pathetically weak at spotting their weaknesses. At the same time they dread any sort of criticism. Please tell me what I need to hear, increase my awareness and make me wiser. Links are over there <===
