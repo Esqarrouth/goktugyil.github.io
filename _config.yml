@@ -17,7 +17,7 @@ baseurl: ""
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
 include: ["_pages", "_portfolio"]
-exclude: ["_layouts/defaults/post.html"] 
+
 # Turn the projects into a collection.
 collections:
   projects:
