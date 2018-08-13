@@ -1,4 +1,4 @@
-I'm an engineer, entrepreneur, investor, gamer. 
+### Engineer, entrepreneur, investor, gamer. 
 
 Currently:   
 - Founder of Breakpoint Labs: Various projects in the cryptocurrency field  
