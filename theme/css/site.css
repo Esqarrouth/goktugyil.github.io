@@ -75,3 +75,12 @@ table tr th :first-child, table tr td :first-child {
 table tr th :last-child, table tr td :last-child {
     margin-bottom: 0; }
 
+/* Goku addition for anchor links https://github.com/sfreytag/friday-theme/issues/10#issuecomment-414272853 */
+
+a[id]:before {
+    content: '';
+    height: 53px;
+    margin-top: -53px;
+    display: block;
+    visibility: hidden;
+}

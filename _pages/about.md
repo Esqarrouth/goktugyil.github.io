@@ -4,7 +4,19 @@ permalink: about.html
 narrow: true
 ---
 
-{% include components/intro.md %}
+### Engineer, entrepreneur, investor, gamer. 
+
+Currently:   
+- <a href="#breakpoint">Founder of Breakpoint Labs: Various projects in the cryptocurrency field</a>  
+- <a href="#barakatech">Advisor @ Barakatech</a>
+
+Previously I've founded:  
+- <a href="#dawnofcrafting">Dawn of Crafting</a>
+- <a href="#mobilemonday">Mobile Monday Ankara</a>  
+- <a href="#metuesports">Metu eSports Society</a>  
+- <a href="#kreix">Bunch of failed companies and projects</a>
+
+~~I'm open to~~ I crave any and all sort of feedback for every aspect and decision of my life. Please tell me what I need to hear, increase my awareness and make me wiser.
 
 <hr />
 
@@ -16,14 +28,14 @@ narrow: true
 
 ## Founded Companies
 
-#### <a href="https://www.breakpointcapital.net/">**Breakpoint Labs**</a> 
+#### <a id="breakpoint" href="https://www.breakpointcapital.net/">**Breakpoint Labs**</a> 
 We’re working on various projects in the cryptocurrency space. These include:  
 - <a href="https://www.breakpointcapital.net/">**Breakpoint Capital:**</a> A private crypto fund  
 - <a href="https://bitses.org/">**Bitses:**</a> A website with fundamental analyses of 100+ crypto assets, one of the biggest websites of its kind  
 - <a href="https://amoveo.exchange/">**Amoveo Exchange:**</a> A crypto to crypto exchange focused for the currency of Amoveo  
 - More projects coming  
 
-#### <a href="http://www.dawnofcrafting.com/">**Dawn of Crafting**</a>
+#### <a id="dawnofcrafting" href="http://www.dawnofcrafting.com/">**Dawn of Crafting**</a>
 - Crafting game for iOS devices  
 - 20% of our players play 20+ hours
 - Hundreds of people play 200+ hours  
@@ -36,7 +48,7 @@ We’re working on various projects in the cryptocurrency space. These include:
 - Self published in the West. IP licensed to <a href="https://www.taptap.com/app/74868">U77</a> for publishing in China  
 - Dan Harmon (Creator of <a href="https://www.imdb.com/title/tt2861424/">Rick and Morty</a> & <a href="https://www.imdb.com/title/tt1439629/">Community</a>) plays DoC more than I watched Rick and Morty (and I watched it all 3 times)  
 
-#### **Kreix**
+#### <a id="kreix">**Kreix**</a>
 - Raised $50K government grant
 - Built 20+ mobile apps, mostly consumer focused  
 - Couldn't find strong Product-Market-Fit  
@@ -50,7 +62,7 @@ We’re working on various projects in the cryptocurrency space. These include:
 
 ## Advisory
 
-#### <a href="http://barakatech.com/">**Barakatech**</a>
+#### <a id="barakatech" href="http://barakatech.com/">**Barakatech**</a>
 - Company founded by <a href="http://www.nokta.com">Nokta Media</a> founder's (Turkey's biggest social media conglomerate)
 - I advise the team about blockchain technologies from product, engineering and business perspectives
 
@@ -58,12 +70,12 @@ We’re working on various projects in the cryptocurrency space. These include:
 
 ## Founded Groups
 
-#### <a href="https://www.meetup.com/MobileMondayAnkara/">**Mobile Monday Ankara**</a>
+#### <a id="mobilemonday" href="https://www.meetup.com/MobileMondayAnkara/">**Mobile Monday Ankara**</a>
 - First meetup in Ankara about mobile technologies
 - Has over 1K+ members
 - Actively running
 
-#### <a href="http://metuesports.com/">**METU eSports Society**</a>
+#### <a id="metuesports" href="http://metuesports.com/">**METU eSports Society**</a>
 
 - One of first university eSports societies in the worl
 - We helped establish eSports societies at more than 100 universities
@@ -73,6 +85,8 @@ We’re working on various projects in the cryptocurrency space. These include:
 <hr />
 
 ## Open Source
+
+- Contributors and users of my open source libraries include entrepreneurs, serial hackathon winners and employees of: Amazon, Facebook, Samsung, Epic Games, Electronic Arts, Ebay, Line, Yelp, Cloudflare, Evernote, Nubank
 
 #### <a href="https://stackoverflow.com/users/2589276/esqarrouth">Stackoverflow</a>
 
@@ -90,11 +104,10 @@ We’re working on various projects in the cryptocurrency space. These include:
 <a class="github-button" href="https://github.com/goktugyil/ezswiftextensions/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork goktugyil/ezswiftextensions on GitHub">Fork</a> 
 <a class="github-button" href="https://github.com/goktugyil/ezswiftextensions/issues" data-icon="octicon-issue-opened" data-show-count="true" aria-label="Issue goktugyil/ezswiftextensions on GitHub">Issue</a>
 
-😏 How Swift standard types and classes were supposed to work. A collection of useful extensions for the Swift Standard Library, Foundation, and UIKit.
+😏 How Swift standard types and classes were supposed to work. A collection of useful extensions for the Swift Standard Library, Foundation, and UIKit
 
 - I gave 4 talks in the Bay Area about EZSwiftExtensions  
 - Thousands of people use EZSwiftExtensions to simplify their development  
-- Our contributors include entrepreneurs, serial hackathon winners and employees of: Amazon, Facebook, Electronic Arts, Ebay, Line, Cloudflare, Nubank  
 
 #### <a href="https://github.com/goktugyil/QorumLogs/">QorumLogs</a> <a href="http://cocoapods.org/pods/QorumLogs"><img src="https://img.shields.io/cocoapods/dt/QorumLogs.svg?label=Total%20Downloads&colorB=28B9FE"></a>
 
@@ -103,9 +116,7 @@ We’re working on various projects in the cryptocurrency space. These include:
 <a class="github-button" href="https://github.com/goktugyil/QorumLogs/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork goktugyil/QorumLogs on GitHub">Fork</a> 
 <a class="github-button" href="https://github.com/goktugyil/QorumLogs/issues" data-icon="octicon-issue-opened" data-show-count="true" aria-label="Issue goktugyil/QorumLogs on GitHub">Issue</a>
 
-📕 Swift Logging Utility for Xcode & Google Docs. Uses Google Sheets as a database for user logs.
-
-- Our contributors include entrepreneurs and employees of: Samsung, Facebook, Yelp, Otto, Ericsson, Cloudflare, Raywenderlich.com
+📕 Swift Logging Utility for Xcode & Google Docs. Uses Google Sheets as a database for user logs
 
 #### <a href="https://github.com/goktugyil/EZSwipeController">EZSwipeController</a> <a href="http://cocoapods.org/pods/EZSwipeController"><img src="https://img.shields.io/cocoapods/dt/EZSwipeController.svg?label=Total%20Downloads&colorB=28B9FE"></a>
 
@@ -114,9 +125,7 @@ We’re working on various projects in the cryptocurrency space. These include:
 <a class="github-button" href="https://github.com/goktugyil/EZSwipeController/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork goktugyil/EZSwipeController on GitHub">Fork</a> 
 <a class="github-button" href="https://github.com/goktugyil/EZSwipeController/issues" data-icon="octicon-issue-opened" data-show-count="true" aria-label="Issue goktugyil/EZSwipeController on GitHub">Issue</a>
 
-👆 Easy to use UIPageViewController to create a view navigation like Snapchat/Tinder/iOS Main Pages.
-
-- Our contributors include entrepreneurs and employees of: Epic Games, Evernote, Cloudflare
+👆 Easy to use UIPageViewController to create a view navigation like Snapchat/Tinder/iOS Main Pages
 
 #### <a href="https://github.com/goktugyil/EZLoadingActivity">EZLoadingActivity</a> <a href="http://cocoapods.org/pods/EZLoadingActivity"><img src="https://img.shields.io/cocoapods/dt/EZLoadingActivity.svg?label=Total%20Downloads&colorB=28B9FE"></a>
 
@@ -125,20 +134,19 @@ We’re working on various projects in the cryptocurrency space. These include:
 <a class="github-button" href="https://github.com/goktugyil/EZLoadingActivity/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork goktugyil/EZLoadingActivity on GitHub">Fork</a> 
 <a class="github-button" href="https://github.com/goktugyil/EZLoadingActivity/issues" data-icon="octicon-issue-opened" data-show-count="true" aria-label="Issue goktugyil/EZLoadingActivity on GitHub">Issue</a>
 
-🐣 Lightweight Swift loading activity for iOS7+. Really simple to use, just add the class and write 1 line of code.
-
-- Our contributors include entrepreneurs, Stackoverflow legends, employees of: Mentor Graphics, INLOOPX, Cloudflare
+🐣 Lightweight Swift loading activity for iOS7+. Really simple to use, just add the class and write 1 line of code
 
 #### <a href="http://www.easyuo.com/psl.php?page=mypsl&scripter=Esqarrouth">EasyUO Scripts</a>
 
 <a class="github-button" href="http://www.easyuo.com/psl.php?page=mypsl&scripter=Esqarrouth" aria-label="EasyUO"> EasyUO </a>
 
-- To stay competitive in the MMORPG Ultima Online I've spent years building some of the most popular character automation tools.
-- I only officially open sourced 4 of my work in the field. I have more than 50 more scripts like these.
-- I shared a lot of the private scripts with a few guild members which ended up getting passed around through word of mouth and ended up in hundreds of thousands of players libraries and websites.
-- I've later heard that some groups used my tools for farming items and selling them for more than $500K profits. 
-- My proudest economy automation was creating a spell scroll factory inside the game that required at least 5 other players to open 4 characters each. We used this method to become the richest guild in 3 months in the server UODemise (6 year server at the time). My system generated so much money that we experienced the effects of inflation. Every item in the game doubled in price. We owned the economy, we owned the game world.
-- My produest pvp automation was creating the perfect pvp mage that could take out the best 20 ping mages in the world with 300 ping connection. 
+- Spent years building some of the most popular character automation tools for Ultima Online
+- Only open sourced 4 scripts. Have 50+ more scripts like these
+- Some private scripts were leaked and were used by thousands of players 
+- Some groups used my tools for farming items and selling them for more than $500K profits
+- Produest PvP automation: Perfect PvP mage that could take out the best 20 ping mages in the world with 300 ping connection
+- Proudest economy automation: Crafting factory with 20+ agents. Used this method to become the richest guild in 3 months in the server UODemise (6 year server at the time). Made so much money that we experienced inflation. Every item doubled in price. We owned the economy, we owned the world.
+
 
 #### <a href="https://github.com/runuo/runuo">RunUO</a>
 
@@ -149,8 +157,8 @@ We’re working on various projects in the cryptocurrency space. These include:
 
 ⚔️ An open source emulator for the MMORPG Ultima Online
 
-- Unlike other open source projects in here I was merely a contributor in this project
-- This was the first large project where I contributed for years and saw my contributions having an effect on thousands of people.
+- Unlike other projects I was merely a contributor here
+- Contributed for years and affected thousands of people
 - There were hundreds of contributors at its peak days
 - The original code used SVN instead of git
 - RunUO is no longer officially supported by a core team. And the project forked into a new one called ServUO
@@ -174,6 +182,6 @@ Coming soon
 
 <hr />
 
-Oh and somewhere dusting I also have an MS in Software Engineering from METU. 
+Oh and somewhere dusting I also have an MS in Software Engineering from METU
 
 Last update: August 2018
