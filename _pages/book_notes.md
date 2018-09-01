@@ -25,6 +25,7 @@ So I keep track of what I eat using <a href="https://cronometer.com/">Cronometer
 <a href="https://www.goodreads.com/review/show/2262566290">Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World</a>|Don Tapscott,  Alex Tapscott|4/5
 <a href="https://www.goodreads.com/review/show/1327976459">The 10x Rule: The Only Difference Between Success and Failure</a>|Grant Cardone|4/5
 <a href="https://www.goodreads.com/review/show/2024230695">Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future</a>|Ashlee Vance|4/5
+<a href="https://www.goodreads.com/review/show/1316745610">Innovation and Entrepreneurship: Practice and Principles</a>|Peter F. Drucker|4/5
 <a href="https://www.goodreads.com/review/show/2262566127">Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond</a>|Chris Burniske, Jack Tatar|3/5
 <a href="https://www.goodreads.com/review/show/1461161220">Getting Things Done: The Art of Stress-Free Productivity</a>|David Allen|3/5
 <a href="https://www.goodreads.com/review/show/1316706641">How Google Works</a>|Eric Schmidt|3/5
