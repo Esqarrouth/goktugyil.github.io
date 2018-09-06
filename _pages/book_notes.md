@@ -19,6 +19,7 @@ So I keep track of what I eat using <a href="https://cronometer.com/">Cronometer
 <a href="https://www.goodreads.com/review/show/1316689349"> Rework </a>|Jason Fried, David Heinemeier Hansson|5/5
 <a href="https://www.goodreads.com/review/show/1728126024">Meditations</a>|Marcus Aurelius|4/5
 <a href="https://www.goodreads.com/review/show/1316722170">Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture</a>|David Kushner|4/5
+<a href="https://www.goodreads.com/review/show/1318537811">The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results</a>|Gary Keller|4/5
 <a href="https://www.goodreads.com/review/show/2262566722">American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road|Nick Bilton|4/5
 <a href="https://www.goodreads.com/review/show/1316689528">The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</a>|Eric Ries|4/5
 <a href="https://www.goodreads.com/review/show/1316711601">The Checklist Manifesto: How to Get Things Right</a>|Atul Gawande|4/5
