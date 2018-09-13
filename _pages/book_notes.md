@@ -29,6 +29,7 @@ So I keep track of what I eat using <a href="https://cronometer.com/">Cronometer
 <a href="https://www.goodreads.com/review/show/1316745610">Innovation and Entrepreneurship: Practice and Principles</a>|Peter F. Drucker|4/5
 <a href="https://www.goodreads.com/review/show/2262566127">Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond</a>|Chris Burniske, Jack Tatar|3/5
 <a href="https://www.goodreads.com/review/show/1461161220">Getting Things Done: The Art of Stress-Free Productivity</a>|David Allen|3/5
+<a href="https://www.goodreads.com/review/show/2001457255"> The War of Art: Break Through the Blocks & Win Your Inner Creative Battles</a>|Steven Pressfield|3/5
 <a href="https://www.goodreads.com/review/show/1316706641">How Google Works</a>|Eric Schmidt|3/5
 <a href="https://www.goodreads.com/review/show/1340043972">Hooked: How to Build Habit-Forming Products</a>|Nir Eyal|3/5
 <a href="https://www.goodreads.com/review/show/1318538109">Outwitting the Devil: The Secret to Freedom and Success</a>|Napoleon Hill|3/5
