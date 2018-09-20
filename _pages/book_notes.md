@@ -16,7 +16,8 @@ So I keep track of what I eat using <a href="https://cronometer.com/">Cronometer
 | ------------- | ------------- | ------------- |
 <a href="https://www.goodreads.com/review/show/2391652869">Homo Deus: A Brief History of Tomorrow</a>|Yuval Noah Harari|5/5
 <a href="https://www.goodreads.com/review/show/1316689708">Zero to One: Notes on Startups, or How to Build the Future</a>|Peter Thiel|5/5
-<a href="https://www.goodreads.com/review/show/1316689349"> Rework </a>|Jason Fried, David Heinemeier Hansson|5/5
+<a href="https://www.goodreads.com/review/show/1316689349">Rework</a>|Jason Fried, David Heinemeier Hansson|5/5
+<a href="https://www.goodreads.com/review/show/1316728262">Influence: The Psychology of Persuasion</a>|Robert B. Cialdini|5/5
 <a href="https://www.goodreads.com/review/show/1728126024">Meditations</a>|Marcus Aurelius|4/5
 <a href="https://www.goodreads.com/review/show/1316722170">Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture</a>|David Kushner|4/5
 <a href="https://www.goodreads.com/review/show/1318537811">The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results</a>|Gary Keller|4/5
@@ -37,6 +38,9 @@ So I keep track of what I eat using <a href="https://cronometer.com/">Cronometer
 <a href="https://www.goodreads.com/review/show/1316720416">The First 20 Hours: How to Learn Anything...Fast</a>|Josh Kaufman|3/5
 <a href="https://www.goodreads.com/review/show/2279097609">The Wealth of Nations (Giants of Political Thought)</a>|George H. Smith, Adam Smith|3/5
 <a href="https://www.goodreads.com/review/show/1316689475">Permission Marketing: Turning Strangers Into Friends And Friends Into Customers</a>|Seth Godin|3/5
+<a href="https://www.goodreads.com/review/show/1396570895">Man's Search for Meaning </a>|Viktor E. Frankl|2/5
+
+
 
 
 
