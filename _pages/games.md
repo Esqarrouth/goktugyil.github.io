@@ -60,6 +60,8 @@ I play single player games too, but can't play as much since single player game 
 
 A screen shot of my Xfire account from 2012: http://prntscr.com/kh8u5g
 
+I was roughly the first to find the cloning bug in Pokemon Silver. 
+
 <hr />
 
 ## eSports
@@ -93,3 +95,11 @@ Highlights of our tournament achievements:
 - E-Cups LoL Tournament - #3
 - EU East and Nordic 5v5 Champions Club 28 - #4
 
+<hr />
+
+#### Other Tournament Achievements:
+
+- Multiple ESL LoL 1v1 winnings
+- Multiple Hearthstone tournament winnings
+- Multiple Ultima Online 1v1 winnings
+- One DotA 1v1 winning

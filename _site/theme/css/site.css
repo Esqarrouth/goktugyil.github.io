@@ -1,0 +1,86 @@
+.profile-image {
+    border: 5px solid rgba(0, 0, 0, 0.2);
+}
+
+.site-container {
+    padding-top: 80px;
+}
+
+.icon {
+    height: 21px;
+    width: 21px;
+}
+
+.icon.grey svg path {
+    fill: #999;
+}
+
+.icon.red svg path {
+    fill: #A00;
+}
+
+.list-title {
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+}
+
+.navbar-toggler {
+    background-color: rgba(255,255,255,0.1);
+}
+
+.navbar-toggler.collapsed {
+    background-color: transparent;
+}
+
+h2[id]::before {
+    display: block;
+    height: 80px;
+    margin-top: -80px;
+    visibility: hidden;
+    content: "";
+}
+
+.sticky-top.space-before {
+    padding-top: 80px;
+    margin-top: -80px;
+}
+
+/* Goku addition for github style tables */
+table {
+    padding: 0; }
+table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+table tr:nth-child(2n) {
+    background-color: #f8f8f8; }
+table tr th {
+    font-weight: bold;
+    border: 1px solid #cccccc;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px; }
+table tr td {
+    border: 1px solid #cccccc;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px; }
+table tr th :first-child, table tr td :first-child {
+    margin-top: 0; }
+table tr th :last-child, table tr td :last-child {
+    margin-bottom: 0; }
+
+/* Goku addition for anchor links https://github.com/sfreytag/friday-theme/issues/10#issuecomment-414272853 */
+
+a[id]:before {
+    content: '';
+    height: 53px;
+    margin-top: -53px;
+    display: block;
+    visibility: hidden;
+}
