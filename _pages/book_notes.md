@@ -29,6 +29,7 @@ So I keep track of what I eat using <a href="https://cronometer.com/">Cronometer
 <a href="https://www.goodreads.com/review/show/1327976459">The 10x Rule: The Only Difference Between Success and Failure</a>|Grant Cardone|4/5
 <a href="https://www.goodreads.com/review/show/2024230695">Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future</a>|Ashlee Vance|4/5
 <a href="https://www.goodreads.com/review/show/1316745610">Innovation and Entrepreneurship: Practice and Principles</a>|Peter F. Drucker|4/5
+<a href="https://www.goodreads.com/review/show/2521527851">Economics in One Lesson: The Shortest & Surest Way to Understand Basic Economics </a>|Henry Hazlitt|4/5
 <a href="https://www.goodreads.com/review/show/2262566127">Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond</a>|Chris Burniske, Jack Tatar|3/5
 <a href="https://www.goodreads.com/review/show/1461161220">Getting Things Done: The Art of Stress-Free Productivity</a>|David Allen|3/5
 <a href="https://www.goodreads.com/review/show/2001457255"> The War of Art: Break Through the Blocks & Win Your Inner Creative Battles</a>|Steven Pressfield|3/5
