@@ -15,8 +15,7 @@ So I keep track of what I eat using <a href="https://cronometer.com/">Cronometer
 | Book        | Author           | Star |
 | ------------- | ------------- | ------------- |
 <a href="https://www.goodreads.com/review/show/2391652869">Homo Deus: A Brief History of Tomorrow</a>|Yuval Noah Harari|5/5
-<a href="https://www.goodreads.com/review/show/2190077987">It's Not Luck
-</a>|Eliyahu M. Goldratt|5/5
+<a href="https://www.goodreads.com/review/show/2190077987">It's Not Luck</a>|Eliyahu M. Goldratt|5/5
 <a href="https://www.goodreads.com/review/show/1316689708">Zero to One: Notes on Startups, or How to Build the Future</a>|Peter Thiel|5/5
 <a href="https://www.goodreads.com/review/show/1316689349">Rework</a>|Jason Fried, David Heinemeier Hansson|5/5
 <a href="https://www.goodreads.com/review/show/1316728262">Influence: The Psychology of Persuasion</a>|Robert B. Cialdini|5/5
