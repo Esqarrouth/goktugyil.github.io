@@ -41,11 +41,10 @@ I've advised:
 - Featured on 100s of blogs and videos
 
 #### <a id="breakpoint" href="https://www.breakpointcapital.net/">**Breakpoint Labs**</a> 
-We’re working on various projects in the cryptocurrency space. These include:  
+We’ve worked on various projects in the cryptocurrency space. These include:  
 - <a href="https://www.breakpointcapital.net/">**Breakpoint Capital:**</a> A private crypto fund  
 - <a href="https://bitses.org/">**Bitses:**</a> A website with fundamental analyses of 100+ crypto assets, one of the biggest websites of its kind  
 - <a href="https://amoveo.exchange/">**Amoveo Exchange:**</a> A crypto to crypto exchange focused for the currency of Amoveo  
-- More projects coming  
 
 #### <a id="dawnofcrafting" href="http://www.dawnofcrafting.com/">**Dawn of Crafting**</a>
 - Crafting game for iOS devices  
