@@ -7,14 +7,17 @@ narrow: true
 ### Engineer, entrepreneur, investor, gamer. 
 
 Currently:   
-- <a href="#breakpoint">Founder of Breakpoint Labs: Various projects in the cryptocurrency field</a>  
-- <a href="#barakatech">Advisor @ Barakatech</a>
+- <a href="#colonist">Founder of Colonist.io: A web game alternative to the top selling board game Settlers of Catan</a>  
 
 Previously I've founded:  
+- <a href="#breakpoint">Founder of Breakpoint Labs: Various projects in the cryptocurrency field</a>  
 - <a href="#dawnofcrafting">Dawn of Crafting</a>
 - <a href="#mobilemonday">Mobile Monday Ankara</a>  
 - <a href="#metuesports">Metu eSports Society</a>  
 - <a href="#kreix">Bunch of failed companies and projects</a>
+
+I've advised:
+- <a href="#barakatech">Barakatech</a>
 
 ~~I'm open to~~ I crave any and all sort of feedback for every aspect and decision of my life. Please tell me what I need to hear, increase my awareness and make me wiser.
 
@@ -27,6 +30,15 @@ Previously I've founded:
 <hr />
 
 ## Founded Companies
+
+#### <a id="colonist" href="https://colonist.io/">**Colonist.io**</a>
+- Strategy game for mobile and desktop web
+- Thousands of players played more than 2000 games
+- 1 million Monthly Active Users
+- 2000 players online playing at any given time of the day
+- <a href="https://blog.colonist.io/colonist-io-2020-summary/2020">2020 Summary</a>
+- <a href="https://www.youtube.com/watch?v=Z5VBej44TuI&ab_channel=DyLighted-Catan">Played</a> by <a href="https://www.youtube.com/c/MrBeast6000">Mr. Beast</a>, one of worlds most famous Youtubers with 70M+ subscribers. 
+- Featured on 10+ game blogs
 
 #### <a id="breakpoint" href="https://www.breakpointcapital.net/">**Breakpoint Labs**</a> 
 We’re working on various projects in the cryptocurrency space. These include:  
@@ -185,4 +197,4 @@ Coming soon
 
 Oh and somewhere dusting I also have an MS in Software Engineering from METU
 
-Last update: August 2018
+Last update: November 2021
