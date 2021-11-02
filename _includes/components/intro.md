@@ -2,6 +2,7 @@
 
 Currently:   
 - <a href="#colonist">Founder of Colonist.io: A web alternative to the top selling board game Settlers of Catan</a>  
+- <a href="#venge">Advisor @ Venge.io</a>  
 
 Previously I've founded:  
 - <a href="#breakpoint">Breakpoint Labs</a>
