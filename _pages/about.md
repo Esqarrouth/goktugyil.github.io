@@ -34,10 +34,10 @@ I've advised:
 #### <a id="colonist" href="https://colonist.io/">**Colonist.io**</a>
 - Strategy game for mobile and desktop browsers
 - 1 million Monthly Active Users
-- Thousands of players played more than 2000 games
+- Thousands played more than 2000 games
 - 2000 players online, actively playing at any given time of the day
 - You can find more mind blowing stats here in our <a href="https://blog.colonist.io/colonist-io-2020-summary/">2020 Summary</a>
-- <a href="https://www.youtube.com/watch?v=Z5VBej44TuI&ab_channel=DyLighted-Catan">Played</a> by <a href="https://www.youtube.com/c/MrBeast6000">Mr. Beast</a>, one of worlds most famous Youtubers with 70M+ subscribers. 
+- <a href="https://www.youtube.com/watch?v=Z5VBej44TuI&ab_channel=DyLighted-Catan">Played</a> by <a href="https://www.youtube.com/c/MrBeast6000">Mr. Beast</a>, one of worlds most famous Youtubers with 70M+ subscribers
 - Featured on 100s of blogs and videos
 
 #### <a id="breakpoint" href="https://www.breakpointcapital.net/">**Breakpoint Labs**</a> 
