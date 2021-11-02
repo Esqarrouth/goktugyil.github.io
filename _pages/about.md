@@ -57,6 +57,7 @@ We’re working on various projects in the cryptocurrency space. These include:
 ">Source</a>
 - \#1 Most Liked Incremental Game <a href="http://incrementalgame.com/">Source</a>
 - \#1 Highest Rated Incremental Game <a href="https://plaza.dsolver.ca/games">Source</a>
+- Passed Minecraft in the Paid Games category in App Store for a couple days <a href="https://prnt.sc/ik55qr">Source</a>
 - Featured on 10+ game blogs
 - Self published in the West. IP licensed to <a href="https://www.taptap.com/app/74868">U77</a> for publishing in China  
 - Dan Harmon (Creator of <a href="https://www.imdb.com/title/tt2861424/">Rick and Morty</a> & <a href="https://www.imdb.com/title/tt1439629/">Community</a>) plays DoC more than I watched Rick and Morty (and I watched it all 3 times)  
