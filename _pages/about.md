@@ -75,9 +75,9 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 
 ## Advisory
 
-#### <a id="barakatech" href="http://barakatech.com/">**Barakatech**</a>
+#### <a id="barakatech" href="https://www.barakatech.com/">**Barakatech**</a>
 - Company founded by <a href="http://www.nokta.com">Nokta Media</a> founder's (Turkey's biggest social media conglomerate)
-- I advise the team about blockchain technologies from product, engineering and business perspectives
+- I advised the team about blockchain technologies from product, engineering and business perspectives
 
 <hr />
 
