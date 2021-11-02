@@ -36,7 +36,7 @@ I've advised:
 - 1 million Monthly Active Users
 - Thousands of players played more than 2000 games
 - 2000 players online, actively playing at any given time of the day
-- <a href="https://blog.colonist.io/colonist-io-2020-summary/2020">2020 Summary</a>
+- <a href="https://blog.colonist.io/colonist-io-2020-summary/">2020 Summary</a>
 - <a href="https://www.youtube.com/watch?v=Z5VBej44TuI&ab_channel=DyLighted-Catan">Played</a> by <a href="https://www.youtube.com/c/MrBeast6000">Mr. Beast</a>, one of worlds most famous Youtubers with 70M+ subscribers. 
 - Featured on 100s of blogs and videos
 
