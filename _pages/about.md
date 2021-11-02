@@ -7,7 +7,7 @@ narrow: true
 ### Engineer, entrepreneur, investor, gamer. 
 
 Currently:   
-- <a href="#colonist">Founder of Colonist.io: A web game alternative to the top selling board game Settlers of Catan</a>  
+- <a href="#colonist">Founder of Colonist.io: A web alternative to the top selling board game Settlers of Catan</a>  
 
 Previously I've founded:  
 - <a href="#breakpoint">Founder of Breakpoint Labs: Various projects in the cryptocurrency field</a>  
