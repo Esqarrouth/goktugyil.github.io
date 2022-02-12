@@ -99,18 +99,18 @@ Highlights of our tournament achievements:
 
 #### Other Tournament Achievements:
 
-- Multiple ESL LoL 1v1 winnings
+- Multiple Electronic Sports League LoL 1v1 winnings
 - Multiple Hearthstone tournament winnings
 - Multiple Ultima Online 1v1 winnings
 - One DotA 1v1 winning
 
 #### Other Ranking Achievements: 
-- Raid Shadow Legends Platinum Arena (Top 200 - 0.0001%)
-- Pokemon Go Lvl30 2 weeks after release (Top 20 - 0.00001%) (I may or may not have wrote a bot that auto grinds levels ^^)
-- World of Warcraft Classic Blackwing Lair Horde Highest DPS (#1 - 0.01%)
-- Clash of Clans Champion I (Top 0.1%)
-- Hearthstone Legend (Top 0.5%)
-- Factorio 'There is no spoon' achievement, finished game in 6 hours (Top 2%)
-- Clash Royale Arena 12 (Top 2%)
-- Starcraft 2 Platinum
-- Team Fight Tactics Blue Tier
+- Raid Shadow Legends - Platinum Arena (Top 200 - 0.0001%)
+- Pokemon Go - Lvl30 2 weeks after release (Top 20 - 0.00001%) (I may or may not have wrote a bot that auto grinds levels ^^)
+- World of Warcraft Classic - Blackwing Lair Horde Highest DPS (#1 - 0.01%)
+- Clash of Clans - Champion I (Top 0.1%)
+- Hearthstone - Legend (Top 0.5%)
+- Factorio - 'There is no spoon' achievement, finished game in 6 hours (Top 2%)
+- Clash Royale - Arena 12 (Top 2%)
+- Starcraft 2 - Platinum
+- Team Fight Tactics - Hyper Roll Blue Tier
