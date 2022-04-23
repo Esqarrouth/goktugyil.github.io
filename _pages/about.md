@@ -113,8 +113,8 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 <a href="https://stackexchange.com/users/3055586/esq"><img src="https://stackexchange.com/users/flair/3055586.png" width="208" height="58" alt="profile for Esq on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Esq on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 - I regularly use Stackoverflow
-- Top 0.69% this year
-- Impact: ~9.7m people reached
+- Top 0.68% this year
+- Impact: ~10m people reached
 - The number of programmers I could help with Stackoverflow is just mind blowing
 
 #### <a href="https://github.com/goktugyil/ezswiftextensions">EZSwiftExtensions</a> <a href="http://cocoapods.org/pods/EZSwiftExtensions"><img src="https://img.shields.io/cocoapods/dt/EZSwiftExtensions.svg?label=Total%20Downloads&colorB=28B9FE"></a>
