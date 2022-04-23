@@ -27,7 +27,7 @@ This was the game we played when there wasn't much action in UO. The 3 coridors 
 I was getting dragged into LoL every 6 months by my DotA friends. It was improving tremendously fast. After 2 years of following its progress, I decided to start playing it and ended up playing for thousands of hours. I created a university society, eSports teams and achieved rating levels equivalent to chess grandmaster. 
 
 I created a spreadsheet on all the champion stats, did research and discovered the most underused jungler champions that had potential.
-I played with the underused champions in a championship which reached 100K live viewers on Twitch. Immediately after, those 3 underused champions became the top pick and bans in all games. Every single player in LoL (20M at the time) was affected and had to change their play style because of my discovery. 
+I played with the underused champions in a championship which reached 200K live viewers on Twitch. Immediately after, those 3 underused champions became the top pick and bans in all games. Every single player in LoL (20M at the time) was affected and had to change their play style because of my discovery. 
 
 I also popularized minute 5 dragon kills with 7 heroes. I was given the nickname Dragonslayer by commentators and started getting recognized by random 13 year kids on the streets.
 
