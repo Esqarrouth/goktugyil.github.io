@@ -10,6 +10,8 @@ narrow: true
 - Raid Shadow Legends - Platinum Arena (Top 200 - 0.0001%)
 - Pokemon Go - Lvl30 2 weeks after release (Top 20 - 0.00001%) (I may or may not have wrote a bot that auto grinds levels ^^)
 - World of Warcraft Classic - Blackwing Lair Horde Highest DPS (#1 - 0.01%)
+- League of Legends - Turkey Server - Challenger League (Top 50 - 0.03%)
+- League of Legends - Europe West Server - Diamond League (Top 0.1%)
 - Clash of Clans - Champion I (Top 0.1%)
 - Hearthstone - Legend (Top 0.5%)
 - Factorio - 'There is no spoon' achievement, finished game in 6 hours (Top 2%)
