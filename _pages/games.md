@@ -4,6 +4,57 @@ permalink: games.html
 narrow: true
 ---
 
+## eSports
+
+<hr />
+
+#### <a href="https://play.eslgaming.com/team/7299055/">METU AA</a>
+
+- Official League of Legends team of METU eSports Society representing the university in tournaments
+- I was team founder, captain and played as a jungler
+- Interesting fact: 4 of team from CS department. 1 physics. 
+
+Highlights of our tournament achievements:
+
+- Collegiate Starleague (World wide NCAA of video games) ( Top 16 )
+- Riot Games Turkey 1st University Tournament 2013 (3rd Place) 
+- Riot Games Turkey Grand Finals 2013
+- Riot Games Turkey - 2013 Spring Season Finals ( 4th place )
+- Riot Games Turkey - 2013 Winter Season Finals ( 4th place )
+
+<hr />
+
+#### <a href="https://play.eslgaming.com/rainbowsix/north-america-pc/r6siege/pro/challenger-league-season-8-qualifier-1/team/6218080/">Mass Dispel</a>
+
+- First eSports team I founded before eSports was a <a href="http://prntscr.com/kh9mam">thing</a>
+- I was team founder, second captain and played as AD carry and solo top
+
+Highlights of our tournament achievements:
+
+- Oyunmarketi LoL Tournament - #3
+- E-Cups LoL Tournament - #3
+- EU East and Nordic 5v5 Champions Club 28 - #4
+
+<hr />
+
+#### Other Tournament Achievements:
+
+- Multiple Electronic Sports League LoL 1v1 winnings
+- Multiple Hearthstone tournament winnings
+- Multiple Ultima Online 1v1 winnings
+- One DotA 1v1 winning
+
+#### Other Ranking Achievements: 
+- Raid Shadow Legends - Platinum Arena (Top 200 - 0.0001%)
+- Pokemon Go - Lvl30 2 weeks after release (Top 20 - 0.00001%) (I may or may not have wrote a bot that auto grinds levels ^^)
+- World of Warcraft Classic - Blackwing Lair Horde Highest DPS (#1 - 0.01%)
+- Clash of Clans - Champion I (Top 0.1%)
+- Hearthstone - Legend (Top 0.5%)
+- Factorio - 'There is no spoon' achievement, finished game in 6 hours (Top 2%)
+- Clash Royale - Arena 12 (Top 2%)
+- Starcraft 2 - Platinum
+- Team Fight Tactics - Hyper Roll Blue Tier
+
 ## Games
 
 <hr />
@@ -63,54 +114,3 @@ A screen shot of my Xfire account from 2012: http://prntscr.com/kh8u5g
 I was roughly the first to find the cloning bug in Pokemon Silver. 
 
 <hr />
-
-## eSports
-
-<hr />
-
-#### <a href="https://play.eslgaming.com/team/7299055/">METU AA</a>
-
-- Official League of Legends team of METU eSports Society representing the university in tournaments
-- I was team founder, captain and played as a jungler
-- Interesting fact: 4 of team from CS department. 1 physics. 
-
-Highlights of our tournament achievements:
-
-- Collegiate Starleague (World wide NCAA of video games) ( Top 16 )
-- Riot Games Turkey 1st University Tournament 2013 (3rd Place) 
-- Riot Games Turkey Grand Finals 2013
-- Riot Games Turkey - 2013 Spring Season Finals ( 4th place )
-- Riot Games Turkey - 2013 Winter Season Finals ( 4th place )
-
-<hr />
-
-#### <a href="https://play.eslgaming.com/rainbowsix/north-america-pc/r6siege/pro/challenger-league-season-8-qualifier-1/team/6218080/">Mass Dispel</a>
-
-- First eSports team I founded before eSports was a <a href="http://prntscr.com/kh9mam">thing</a>
-- I was team founder, second captain and played as AD carry and solo top
-
-Highlights of our tournament achievements:
-
-- Oyunmarketi LoL Tournament - #3
-- E-Cups LoL Tournament - #3
-- EU East and Nordic 5v5 Champions Club 28 - #4
-
-<hr />
-
-#### Other Tournament Achievements:
-
-- Multiple Electronic Sports League LoL 1v1 winnings
-- Multiple Hearthstone tournament winnings
-- Multiple Ultima Online 1v1 winnings
-- One DotA 1v1 winning
-
-#### Other Ranking Achievements: 
-- Raid Shadow Legends - Platinum Arena (Top 200 - 0.0001%)
-- Pokemon Go - Lvl30 2 weeks after release (Top 20 - 0.00001%) (I may or may not have wrote a bot that auto grinds levels ^^)
-- World of Warcraft Classic - Blackwing Lair Horde Highest DPS (#1 - 0.01%)
-- Clash of Clans - Champion I (Top 0.1%)
-- Hearthstone - Legend (Top 0.5%)
-- Factorio - 'There is no spoon' achievement, finished game in 6 hours (Top 2%)
-- Clash Royale - Arena 12 (Top 2%)
-- Starcraft 2 - Platinum
-- Team Fight Tactics - Hyper Roll Blue Tier
