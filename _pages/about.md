@@ -53,7 +53,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 - Hundreds of people play 200+ hours  
 - Average 4.8 star reviews (One of the highest rated games in its category)  
 - Featured as Game of the Day in the App Store in a few countries like United Kingdom, Australia, New Zealand, Turkey, Germany. 
-- Hit number #1 RPG and Puzzle in the App Store in hundreds of countries including United Kingdom, Australia, Sweden, Norway, Finland, New Zealand, Belgium, Ireland, Turkey, South Africa, Ukraine, UAE <a href="https://www.appannie.com/en/apps/ios/top/
+- Hit number #1 RPG and Puzzle in the App Store in dozens of countries including United Kingdom, Australia, Sweden, Norway, Finland, New Zealand, Belgium, Ireland, Turkey, South Africa, Ukraine, UAE <a href="https://www.appannie.com/en/apps/ios/top/
 ">Source</a>
 - \#1 Most Liked Incremental Game <a href="http://incrementalgame.com/">Source</a>
 - \#1 Highest Rated Incremental Game <a href="https://plaza.dsolver.ca/games">Source</a>
