@@ -8,7 +8,6 @@ narrow: true
 
 Currently:   
 - <a href="#colonist">Founder of Colonist.io: A web alternative to the top selling board game Settlers of Catan</a>  
-- <a href="#venge">Advisor @ Venge.io</a>  
 
 Previously I've founded:  
 - <a href="#breakpoint">Breakpoint Labs</a>
@@ -72,12 +71,6 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 <hr />
 
 ## Advisory
-
-#### <a id="venge" href="https://venge.io/">**Venge.io**</a>
-- Best performing native multiplayer FPS game on the web
-- 2nd most popular FPS on the web
-- 35 million played in 2021
-- I advised the team about product, business, game design
 
 #### <a id="barakatech" href="https://www.barakatech.com/">**Barakatech**</a>
 - Company founded by <a href="http://www.nokta.com">Nokta Media</a> founder's (Turkey's biggest social media conglomerate)
