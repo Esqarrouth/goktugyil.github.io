@@ -6,7 +6,7 @@ narrow: true
 
 ## Fitness
 
-I swam for a decade and attended EFSL championships. I played basketball in high school, football in university. Now I do weightlifting 3 time a week. 
+I swam for a decade and attended EFSL championships. I played basketball in high school, football in university. Now I do weightlifting 3 times a week.
 
 Here are my 1 Rep Maxes:
 
