@@ -1,10 +1,9 @@
 ---
 layout: defaults/page
+title: Fitness
 permalink: fitness.html
 narrow: true
 ---
-
-## Fitness
 
 I swam for a decade and attended EFSL championships. I played basketball in high school, football in university. Now I do weightlifting 3 times a week.
 

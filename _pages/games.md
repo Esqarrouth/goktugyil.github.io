@@ -1,10 +1,9 @@
 ---
 layout: defaults/page
+title: eSports
 permalink: games.html
 narrow: true
 ---
-
-## eSports
 
 #### Ranking Achievements: 
 - Raid Shadow Legends - Platinum Arena (Top 200 - 0.0001%)
