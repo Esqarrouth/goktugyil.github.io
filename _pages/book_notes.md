@@ -24,7 +24,7 @@ So I keep track of what I eat using <a href="https://cronometer.com/">Cronometer
 <a href="https://www.goodreads.com/review/show/2043443821">The Goal: A Process of Ongoing Improvement</a>|Eliyahu M. Goldratt, Jeff Cox|4/5
 <a href="https://www.goodreads.com/review/show/1316722170">Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture</a>|David Kushner|4/5
 <a href="https://www.goodreads.com/review/show/1318537811">The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results</a>|Gary Keller|4/5
-<a href="https://www.goodreads.com/review/show/2262566722">American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road|Nick Bilton|4/5
+<a href="https://www.goodreads.com/review/show/2262566722">American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road</a>|Nick Bilton|4/5
 <a href="https://www.goodreads.com/review/show/1316689528">The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</a>|Eric Ries|4/5
 <a href="https://www.goodreads.com/review/show/1316711601">The Checklist Manifesto: How to Get Things Right</a>|Atul Gawande|4/5
 <a href="https://www.goodreads.com/review/show/2262566290">Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World</a>|Don Tapscott,  Alex Tapscott|4/5
@@ -43,7 +43,6 @@ So I keep track of what I eat using <a href="https://cronometer.com/">Cronometer
 <a href="https://www.goodreads.com/review/show/2279097609">The Wealth of Nations (Giants of Political Thought)</a>|George H. Smith, Adam Smith|3/5
 <a href="https://www.goodreads.com/review/show/1316689475">Permission Marketing: Turning Strangers Into Friends And Friends Into Customers</a>|Seth Godin|3/5
 <a href="https://www.goodreads.com/review/show/1396570895">Man's Search for Meaning </a>|Viktor E. Frankl|2/5
-
 
 
 
