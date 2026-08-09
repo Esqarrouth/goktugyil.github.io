@@ -36,26 +36,25 @@ Previously I've advised:
 - 500K Monthly Active Players
 - 3K playing at any given time of the day
 - You can find more mind-blowing stats here in our <a href="https://blog.colonist.io/colonist-io-2023-summary/">2023 Summary</a>
-- <a href="https://www.youtube.com/watch?v=Z5VBej44TuI&ab_channel=DyLighted-Catan">Played</a> by <a href="https://www.youtube.com/c/MrBeast6000">Mr. Beast</a>, one of the world's most famous YouTubers with 70M+ subscribers
+- <a href="https://www.youtube.com/watch?v=Z5VBej44TuI&ab_channel=DyLighted-Catan">Played</a> by <a href="https://www.youtube.com/@MrBeast">Mr. Beast</a>, one of the world's most famous YouTubers with 70M+ subscribers
 
-#### <a id="breakpoint" href="https://www.breakpointcapital.net/">**Breakpoint Labs**</a> 
+#### <a id="breakpoint">**Breakpoint Labs**</a>
 We’ve worked on various projects in the cryptocurrency space. These include:  
-- <a href="https://www.breakpointcapital.net/">**Breakpoint Capital:**</a> A private crypto fund  
-- <a href="https://bitses.org/">**Bitses:**</a> A website with fundamental analyses of 100+ crypto assets, one of the biggest websites of its kind  
-- <a href="https://amoveo.exchange/">**Amoveo Exchange:**</a> A crypto to crypto exchange focused for the currency of Amoveo  
+- **Breakpoint Capital:** A private crypto fund
+- **Bitses:** A website with fundamental analyses of 100+ crypto assets, one of the biggest websites of its kind
+- **Amoveo Exchange:** A crypto to crypto exchange focused for the currency of Amoveo
 
 #### <a id="dawnofcrafting" href="http://www.dawnofcrafting.com/">**Dawn of Crafting**</a>
 - Crafting game for iOS devices  
 - Hundreds of people play 200+ hours  
 - Average 4.8 star reviews (One of the highest rated games in its category)  
 - Featured as Game of the Day in the App Store in countries such as the United Kingdom, Australia, New Zealand, Turkey, and Germany.
-- Hit #1 RPG and Puzzle in the App Store in dozens of countries including the United Kingdom, Australia, Sweden, Norway, Finland, New Zealand, Belgium, Ireland, Turkey, South Africa, Ukraine, and the UAE <a href="https://www.appannie.com/en/apps/ios/top/
-">Source</a>
+- Hit #1 RPG and Puzzle in the App Store in dozens of countries including the United Kingdom, Australia, Sweden, Norway, Finland, New Zealand, Belgium, Ireland, Turkey, South Africa, Ukraine, and the UAE
 - \#1 Most Liked Incremental Game <a href="http://incrementalgame.com/">Source</a>
-- \#1 Highest Rated Incremental Game <a href="https://plaza.dsolver.ca/games">Source</a>
+- \#1 Highest Rated Incremental Game
 - Passed Minecraft in the Paid Games category in the App Store for a couple of days <a href="https://prnt.sc/ik55qr">Source</a>
 - Featured on 10+ game blogs
-- Self-published in the West. IP licensed to <a href="https://www.taptap.com/app/74868">U77</a> for publishing in China
+- Self-published in the West. IP licensed to U77 for publishing in China
 - Dan Harmon (Creator of <a href="https://www.imdb.com/title/tt2861424/">Rick and Morty</a> & <a href="https://www.imdb.com/title/tt1439629/">Community</a>) plays DoC more than I watched Rick and Morty (and I watched it all 3 times)  
 
 #### <a id="kreix">**Kreix**</a>
@@ -85,7 +84,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 - Has over 1K+ members
 - Actively running
 
-#### <a id="metuesports" href="http://metuesports.com/">**METU eSports Society**</a>
+#### <a id="metuesports">**METU eSports Society**</a>
 
 - One of the first university eSports societies in the world
 - We helped establish eSports societies at more than 100 universities
