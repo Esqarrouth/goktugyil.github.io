@@ -177,12 +177,6 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 
 <hr />
 
-## Investments
-
-Coming soon
-
-<hr />
-
 ## Extra
 
 - [Details on gaming and eSports achievements]({{ site.baseurl}}{% link _pages/games.md %})
