@@ -13,7 +13,7 @@ Previously I've founded:
 Previously I've advised:
 - <a href="/about.html#barakatech">Barakatech</a>
 
-~~I'm open to~~ I crave any and all sort of feedback for every aspect and decision of my life. Please tell me what I need to hear, increase my awareness and make me wiser.
+~~I'm open to~~ I crave any and all sorts of feedback for every aspect and decision of my life. Please tell me what I need to hear, increase my awareness and make me wiser.
 
 <a href="mailto:goktugyil@gmail.com">Drop me a message</a>
 

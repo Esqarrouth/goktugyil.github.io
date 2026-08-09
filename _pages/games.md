@@ -7,7 +7,7 @@ narrow: true
 
 #### Ranking Achievements: 
 - Raid Shadow Legends - Platinum Arena (Top 200 - 0.0001%)
-- Pokemon Go - Lvl30 2 weeks after release (Top 20 - 0.00001%) (I may or may not have wrote a bot that auto grinds levels ^^)
+- Pokemon Go - Lvl 30 2 weeks after release (Top 20 - 0.00001%) (I may or may not have written a bot that auto-grinds levels ^^)
 - World of Warcraft Classic - Blackwing Lair Horde Highest DPS (#1 - 0.01%)
 - League of Legends - Turkey Server - Challenger League (Top 50 - 0.03%)
 - League of Legends - Europe West Server - Diamond League (Top 0.1%)
@@ -24,15 +24,15 @@ narrow: true
 
 - Official League of Legends team of METU eSports Society representing the university in tournaments
 - I was team founder, captain and played as a jungler
-- Interesting fact: 4 of team from CS department. 1 physics. 
+- Interesting fact: four team members were from the CS department; one was from physics.
 
 Highlights of our tournament achievements:
 
-- Collegiate Starleague (World wide NCAA of video games) ( Top 16 )
+- Collegiate Starleague (worldwide NCAA of video games) (Top 16)
 - Riot Games Turkey 1st University Tournament 2013 (3rd Place) 
 - Riot Games Turkey Grand Finals 2013
-- Riot Games Turkey - 2013 Spring Season Finals ( 4th place )
-- Riot Games Turkey - 2013 Winter Season Finals ( 4th place )
+- Riot Games Turkey - 2013 Spring Season Finals (4th place)
+- Riot Games Turkey - 2013 Winter Season Finals (4th place)
 
 <hr />
 
@@ -51,10 +51,10 @@ Highlights of our tournament achievements:
 
 #### Other Tournament Achievements:
 
-- Multiple Electronic Sports League LoL 1v1 winnings
-- Multiple Hearthstone tournament winnings
-- Multiple Ultima Online 1v1 winnings
-- One DotA 1v1 winning
+- Multiple Electronic Sports League LoL 1v1 wins
+- Multiple Hearthstone tournament wins
+- Multiple Ultima Online 1v1 wins
+- One DotA 1v1 win
 
 ## Games
 
@@ -70,7 +70,7 @@ No other MMORPG managed to be like UO. If no one else makes a modern version of 
 
 #### DotA Allstars
 
-This was the game we played when there wasn't much action in UO. The 3 coridors game design was a brilliant pvp concept. Its community and the MOBA concept evolved very quickly from the first phases. I've Played for thousands of hours. Attended some tournaments, had a lot of fun.
+This was the game we played when there wasn't much action in UO. The three-corridor game design was a brilliant PvP concept. Its community and the MOBA concept evolved very quickly from the first phases. I've played for thousands of hours, attended some tournaments, and had a lot of fun.
 
 <hr />
 
@@ -79,11 +79,11 @@ This was the game we played when there wasn't much action in UO. The 3 coridors 
 I was getting dragged into LoL every 6 months by my DotA friends. It was improving tremendously fast. After 2 years of following its progress, I decided to start playing it and ended up playing for thousands of hours. I created a university society, eSports teams and achieved rating levels equivalent to chess grandmaster. 
 
 I created a spreadsheet on all the champion stats, did research and discovered the most underused jungler champions that had potential.
-I played with the underused champions in a championship which reached 200K live viewers on Twitch. Immediately after, those 3 underused champions became the top pick and bans in all games. Every single player in LoL (20M at the time) was affected and had to change their play style because of my discovery. 
+I played with the underused champions in a championship which reached 200K live viewers on Twitch. Immediately after, those 3 underused champions became the top picks and bans in all games. Every single player in LoL (20M at the time) was affected and had to change their play style because of my discovery.
 
-I also popularized minute 5 dragon kills with 7 heroes. I was given the nickname Dragonslayer by commentators and started getting recognized by random 13 year kids on the streets.
+I also popularized five-minute dragon kills with 7 heroes. I was given the nickname Dragonslayer by commentators and started getting recognized by random 13-year-old kids on the streets.
 
-Here are my top Solo Que Rankings:
+Here are my top Solo Queue rankings:
 
 - Europe West Server - Diamond League (Top 0.1%)
 - Turkey Server - Challenger League (Top 50 - 0.03%)
@@ -98,19 +98,19 @@ This was the closest modern game to UO that I've played. Complete sandbox, craft
 
 #### Age of Empires II
 
-AoE, like UO, is a 20 year old game that was created almost perfectly. Luckily it was modernized and we can continue playing it. This is the game with the widest amount of skill gap between players in the world. No other balanced game will allow even 1v3 between players. AoE makes it possible to do 1v7 because of the ridiculously high skill cap people can reach.  
+AoE, like UO, is a 20-year-old game that was created almost perfectly. Luckily it was modernized and we can continue playing it. This is the game with the widest skill gap between players in the world. No other balanced game will allow even 1v3 between players. AoE makes it possible to do 1v7 because of the ridiculously high skill cap people can reach.
 
-I've reached 1850+ rating. Roughly top 1000. But I know one of the elite can beat 3 of me at the same time. 
+I've reached a 1850+ rating, roughly the top 1000. But I know one elite player can beat 3 of me at the same time.
 
 <hr />
 
 #### Other Games
 
-I've listed the top 5 games I spent my time on. The common theme is every one of them is an online pvp game that requires a lot of skill and strategy. 
+I've listed the top 5 games I spent my time on. The common theme is that every one of them is an online PvP game that requires a lot of skill and strategy.
 
-I play single player games too, but can't play as much since single player game contents are always less than multiplayer games. I like the genres: PvP, MMORPG, MOBA, Strategy, Simulation, Survival, Crafting, Sandbox.
+I play single-player games too, but can't play as much since single-player game content is always less than multiplayer game content. I like the genres: PvP, MMORPG, MOBA, Strategy, Simulation, Survival, Crafting, Sandbox.
 
-A screen shot of my Xfire account from 2012: http://prntscr.com/kh8u5g
+A screenshot of my Xfire account from 2012: http://prntscr.com/kh8u5g
 
 I was roughly the first to find the cloning bug in Pokemon Silver. 
 

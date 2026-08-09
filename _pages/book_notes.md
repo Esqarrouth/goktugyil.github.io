@@ -9,7 +9,7 @@ narrow: true
 ― Ralph Waldo Emerson
 
 I like remembering things :).
-So I keep track of what I eat using <a href="https://cronometer.com/">Cronometer</a> and take notes about the books I read using <a href="https://www.goodreads.com/review/list/44243874-goktug-yilmaz?order=d&shelf=read&sort=date_read">Goodreads</a>. Unlike book summaries or reviews these are just some interesting things that I learned which I would like to read again from time to time. I review all my notes yearly. I've lost notes of some of the other books that I've read. 
+So I keep track of what I eat using <a href="https://cronometer.com/">Cronometer</a> and take notes about the books I read using <a href="https://www.goodreads.com/review/list/44243874-goktug-yilmaz?order=d&shelf=read&sort=date_read">Goodreads</a>. Unlike book summaries or reviews, these are just some interesting things that I learned which I would like to read again from time to time. I review all my notes yearly. I've lost notes for some of the other books that I've read.
 
 
 | Book        | Author           | Star |
@@ -43,8 +43,6 @@ So I keep track of what I eat using <a href="https://cronometer.com/">Cronometer
 <a href="https://www.goodreads.com/review/show/2279097609">The Wealth of Nations (Giants of Political Thought)</a>|George H. Smith, Adam Smith|3/5
 <a href="https://www.goodreads.com/review/show/1316689475">Permission Marketing: Turning Strangers Into Friends And Friends Into Customers</a>|Seth Godin|3/5
 <a href="https://www.goodreads.com/review/show/1396570895">Man's Search for Meaning </a>|Viktor E. Frankl|2/5
-
-
 
 
 
