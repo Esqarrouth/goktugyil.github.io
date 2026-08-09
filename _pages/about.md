@@ -161,7 +161,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 - Only open sourced 4 scripts. Have 50+ more scripts like these
 - Some private scripts were leaked and were used by thousands of players 
 - Some groups used my tools for farming items and selling them for more than $500K profits
-- Produest PvP automation: Perfect PvP mage that could take out the best 20 ping mages in the world with 300 ping connection
+- Proudest PvP automation: Perfect PvP mage that could take out the best 20 ping mages in the world with 300 ping connection
 - Proudest economy automation: Crafting factory with 20+ agents. Used this method to become the richest guild in 3 months in the server UODemise (6 year server at the time). Made so much money that we experienced inflation. Every item doubled in price. We owned the economy, we owned the world.
 
 
