@@ -4,7 +4,7 @@ permalink: about.html
 narrow: true
 ---
 
-### Entrepreneur, engineer, gamer, biohacker, digital nomad.
+### Engineer, entrepreneur, gamer, biohacker.
 
 Currently:   
 - <a href="#colonist">Founder of Colonist.io: A web alternative to the top selling board game Settlers of Catan</a>  
