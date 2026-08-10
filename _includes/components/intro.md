@@ -1,4 +1,4 @@
-### Engineer, entrepreneur, investor, gamer. 
+### Entrepreneur, engineer, gamer, biohacker, digital nomad.
 
 Currently:   
 - <a href="/about.html#colonist">Founder @ Colonist.io: A web alternative to the top selling board game Settlers of Catan</a>  
