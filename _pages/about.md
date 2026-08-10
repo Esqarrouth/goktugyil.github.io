@@ -17,6 +17,7 @@ Previously I've founded:
 - <a href="#kreix">Bunch of failed companies and projects</a>
 
 Previously I've advised:
+- <a href="#venge">Venge.io</a>
 - <a href="#barakatech">Barakatech</a>
 
 ~~I'm open to~~ I crave any and all sorts of feedback for every aspect and decision of my life. Please tell me what I need to hear, increase my awareness and make me wiser.
@@ -36,25 +37,25 @@ Previously I've advised:
 - 500K Monthly Active Players
 - 3K playing at any given time of the day
 - You can find more mind-blowing stats here in our <a href="https://blog.colonist.io/colonist-io-2023-summary/">2023 Summary</a>
-- <a href="https://www.youtube.com/watch?v=Z5VBej44TuI&ab_channel=DyLighted-Catan">Played</a> by <a href="https://www.youtube.com/@MrBeast">Mr. Beast</a>, one of the world's most famous YouTubers with 70M+ subscribers
+- <a href="https://www.youtube.com/watch?v=Z5VBej44TuI&ab_channel=DyLighted-Catan">Played</a> by <a href="https://www.youtube.com/@MrBeast">Mr. Beast</a>, one of the world's most famous YouTubers with 510M+ subscribers
 
-#### <a id="breakpoint">**Breakpoint Labs**</a>
+#### <a id="breakpoint" href="https://web.archive.org/web/20240523113754/https://breakpointcapital.net/">**Breakpoint Labs**</a>
 We’ve worked on various projects in the cryptocurrency space. These include:  
-- **Breakpoint Capital:** A private crypto fund
-- **Bitses:** A website with fundamental analyses of 100+ crypto assets, one of the biggest websites of its kind
-- **Amoveo Exchange:** A crypto to crypto exchange focused for the currency of Amoveo
+- <a href="https://web.archive.org/web/20240523113754/https://breakpointcapital.net/">**Breakpoint Capital:**</a> A private crypto fund
+- <a href="https://web.archive.org/web/20200519165411/https://bitses.org/tr/">**Bitses:**</a> A website with fundamental analyses of 100+ crypto assets, one of the biggest websites of its kind
+- <a href="https://web.archive.org/web/20180812065241/https://amoveo.exchange/trade/index">**Amoveo Exchange:**</a> A crypto to crypto exchange focused for the currency of Amoveo
 
 #### <a id="dawnofcrafting" href="http://www.dawnofcrafting.com/">**Dawn of Crafting**</a>
 - Crafting game for iOS devices  
 - Hundreds of people play 200+ hours  
 - Average 4.8 star reviews (One of the highest rated games in its category)  
 - Featured as Game of the Day in the App Store in countries such as the United Kingdom, Australia, New Zealand, Turkey, and Germany.
-- Hit #1 RPG and Puzzle in the App Store in dozens of countries including the United Kingdom, Australia, Sweden, Norway, Finland, New Zealand, Belgium, Ireland, Turkey, South Africa, Ukraine, and the UAE
+- Hit #1 RPG and Puzzle in the App Store in dozens of countries including the United Kingdom, Australia, Sweden, Norway, Finland, New Zealand, Belgium, Ireland, Turkey, South Africa, Ukraine, and the UAE <a href="https://web.archive.org/web/20220216041150/https://www.appannie.com/en/apps/ios/top/">Source</a>
 - \#1 Most Liked Incremental Game <a href="http://incrementalgame.com/">Source</a>
-- \#1 Highest Rated Incremental Game
+- \#1 Highest Rated Incremental Game <a href="https://web.archive.org/web/20250819181305/https://plaza.dsolver.ca/games">Source</a>
 - Passed Minecraft in the Paid Games category in the App Store for a couple of days <a href="https://prnt.sc/ik55qr">Source</a>
 - Featured on 10+ game blogs
-- Self-published in the West. IP licensed to U77 for publishing in China
+- Self-published in the West. IP licensed to <a href="https://web.archive.org/web/20220118184008/https://www.taptap.com/app/74868">U77</a> for publishing in China
 - Dan Harmon (Creator of <a href="https://www.imdb.com/title/tt2861424/">Rick and Morty</a> & <a href="https://www.imdb.com/title/tt1439629/">Community</a>) plays DoC more than I watched Rick and Morty (and I watched it all 3 times)  
 
 #### <a id="kreix">**Kreix**</a>
@@ -71,6 +72,12 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 
 ## Advisory
 
+#### <a id="venge" href="https://venge.io/">**Venge.io**</a>
+- Best performing native multiplayer FPS game on the web
+- 2nd most popular FPS on the web
+- 35 million played in 2021
+- I advised the team about product, business, game design
+
 #### <a id="barakatech" href="https://www.barakatech.com/">**Barakatech**</a>
 - Company founded by <a href="http://www.nokta.com">Nokta Media</a> founders (Turkey's biggest social media conglomerate)
 - I advised the team about blockchain technologies from product, engineering and business perspectives
@@ -84,7 +91,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 - Has over 1K+ members
 - Actively running
 
-#### <a id="metuesports">**METU eSports Society**</a>
+#### <a id="metuesports" href="https://web.archive.org/web/20221003185524/http://www.metuesports.com/">**METU eSports Society**</a>
 
 - One of the first university eSports societies in the world
 - We helped establish eSports societies at more than 100 universities

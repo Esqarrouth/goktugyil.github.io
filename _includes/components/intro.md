@@ -11,6 +11,7 @@ Previously I've founded:
 - <a href="/about.html#kreix">Bunch of failed companies and projects</a>
 
 Previously I've advised:
+- <a href="/about.html#venge">Venge.io</a>
 - <a href="/about.html#barakatech">Barakatech</a>
 
 ~~I'm open to~~ I crave any and all sorts of feedback for every aspect and decision of my life. Please tell me what I need to hear, increase my awareness and make me wiser.
