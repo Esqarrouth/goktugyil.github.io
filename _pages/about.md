@@ -49,7 +49,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 - Crafting game for iOS devices  
 - Hundreds of people play 200+ hours  
 - Average 4.8 star reviews (One of the highest rated games in its category)  
-- Featured as Game of the Day in the App Store in countries such as the United Kingdom, Australia, New Zealand, Turkey, and Germany.
+- Featured as Game of the Day in the App Store in countries such as the <a href="{{ site.baseurl }}/theme/img/dawn-of-crafting-game-of-the-day-uk.png">United Kingdom</a>, Australia, New Zealand, Turkey, and Germany.
 - Hit #1 RPG and Puzzle in the App Store in dozens of countries including the United Kingdom, Australia, Sweden, Norway, Finland, New Zealand, Belgium, Ireland, Turkey, South Africa, Ukraine, and the UAE <a href="https://web.archive.org/web/20220216041150/https://www.appannie.com/en/apps/ios/top/">Source</a>
 - \#1 Most Liked Incremental Game <a href="http://incrementalgame.com/">Source</a>
 - \#1 Highest Rated Incremental Game <a href="https://web.archive.org/web/20250819181305/https://plaza.dsolver.ca/games">Source</a>
