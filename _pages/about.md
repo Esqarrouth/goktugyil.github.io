@@ -4,7 +4,7 @@ permalink: about.html
 narrow: true
 ---
 
-### Engineer, entrepreneur, investor, gamer. 
+### Engineer, entrepreneur, gamer, biohacker.
 
 Currently:   
 - <a href="#colonist">Founder of Colonist.io: A web alternative to the top selling board game Settlers of Catan</a>  
@@ -81,6 +81,16 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 #### <a id="barakatech" href="https://www.barakatech.com/">**Barakatech**</a>
 - Company founded by <a href="http://www.nokta.com">Nokta Media</a> founders (Turkey's biggest social media conglomerate)
 - I advised the team about blockchain technologies from product, engineering and business perspectives
+
+<hr />
+
+## Investing
+
+- I primarily invest through early-stage-focused fund managers and angels.
+- I invest directly in companies only when I feel unusually close to the product, people, mission, or problem.
+- I don’t treat investment returns as a personal achievement. What interests me is learning how founders, technology, markets, and incentives interact; participating in a company’s journey in a small way; and putting capital to productive work rather than simply chasing gains.
+- Earlier, I spent years with a crypto-only portfolio and also experimented with broad direct startup investing.
+- My current conclusion is that I would rather identify exceptional people who consistently find and support great founders than try to personally pick every winning company. I believe I have better odds evaluating the evaluators.
 
 <hr />
 
