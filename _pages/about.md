@@ -36,10 +36,10 @@ Previously I've advised:
 - Strategy game inspired from Catan in browser, mobile and Discord
 - 500K Monthly Active Players
 - 3K playing at any given time of the day
-- You can find more mind-blowing stats here in our <a href="https://blog.colonist.io/colonist-io-2023-summary/">2023 Summary</a>
+- You can find more mind-blowing stats here in our <a href="https://blog.colonist.io/colonist-io-2025-summary/">2025 Summary</a>
 - <a href="https://www.youtube.com/watch?v=Z5VBej44TuI&ab_channel=DyLighted-Catan">Played</a> by <a href="https://www.youtube.com/@MrBeast">Mr. Beast</a>, one of the world's most famous YouTubers with 510M+ subscribers
 
-#### <a id="breakpoint" href="https://web.archive.org/web/20240523113754/https://breakpointcapital.net/">**Breakpoint Labs**</a>
+#### <span id="breakpoint"><strong>Breakpoint Labs</strong></span>
 We’ve worked on various projects in the cryptocurrency space. These include:  
 - <a href="https://web.archive.org/web/20240523113754/https://breakpointcapital.net/">**Breakpoint Capital:**</a> A private crypto fund
 - <a href="https://web.archive.org/web/20200519165411/https://bitses.org/tr/">**Bitses:**</a> A website with fundamental analyses of 100+ crypto assets, one of the biggest websites of its kind
@@ -55,7 +55,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 - \#1 Highest Rated Incremental Game <a href="https://web.archive.org/web/20250819181305/https://plaza.dsolver.ca/games">Source</a>
 - Passed Minecraft in the Paid Games category in the App Store for a couple of days <a href="https://prnt.sc/ik55qr">Source</a>
 - Featured on 10+ game blogs
-- Self-published in the West. IP licensed to <a href="https://web.archive.org/web/20220118184008/https://www.taptap.com/app/74868">U77</a> for publishing in China
+- Self-published in the West. IP licensed to <a href="https://www.taptap.io/app/49814">TapTap</a> for publishing in China
 - Dan Harmon (Creator of <a href="https://www.imdb.com/title/tt2861424/">Rick and Morty</a> & <a href="https://www.imdb.com/title/tt1439629/">Community</a>) plays DoC more than I watched Rick and Morty (and I watched it all 3 times)  
 
 #### <a id="kreix">**Kreix**</a>
@@ -74,7 +74,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 
 #### <a id="venge" href="https://venge.io/">**Venge.io**</a>
 - Best performing native multiplayer FPS game on the web
-- 2nd most popular FPS on the web
+- 2nd most popular FPS on the web at its peak
 - 35 million played in 2021
 - I advised the team about product, business, game design
 
@@ -86,7 +86,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 
 ## Founded Groups
 
-#### <a id="mobilemonday" href="https://www.meetup.com/MobileMondayAnkara/">**Mobile Monday Ankara**</a>
+#### <a id="mobilemonday" href="https://web.archive.org/web/20191120200756/https://www.meetup.com/MobileMondayAnkara/">**Mobile Monday Ankara**</a>
 - First meetup in Ankara about mobile technologies
 - Has over 1K+ members
 - Actively running
@@ -108,7 +108,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 
 <a href="https://stackexchange.com/users/3055586/esq"><img src="https://stackexchange.com/users/flair/3055586.png" width="208" height="58" alt="profile for Esq on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Esq on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-- I regularly use Stack Overflow
+- I used Stack Overflow regularly in the past
 - Top 0.68% this year
 - Impact: ~10m people reached
 - The number of programmers I could help with Stack Overflow is just mind-blowing
