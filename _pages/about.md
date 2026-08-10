@@ -74,7 +74,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 
 #### <a id="venge" href="https://venge.io/">**Venge.io**</a>
 - Best performing native multiplayer FPS game on the web
-- 2nd most popular FPS on the web at its peak
+- Most popular FPS on the web at its peak
 - 35 million played in 2021
 - I advised the team about product, business, game design
 
