@@ -86,7 +86,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 
 ## Founded Groups
 
-#### <a id="mobilemonday" href="https://web.archive.org/web/20191120200756/https://www.meetup.com/MobileMondayAnkara/">**Mobile Monday Ankara**</a>
+#### <a id="mobilemonday" href="https://web.archive.org/web/20151020013345/https://www.meetup.com/MobileMondayAnkara/">**Mobile Monday Ankara**</a>
 - First meetup in Ankara about mobile technologies
 - Has over 1K+ members
 - Actively running
