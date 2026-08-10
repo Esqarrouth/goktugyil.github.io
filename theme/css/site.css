@@ -49,6 +49,12 @@ h2[id]::before {
     margin-top: -80px;
 }
 
+.swift-project-title {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+}
+
 /* Goku addition for github style tables */
 table {
     padding: 0; }

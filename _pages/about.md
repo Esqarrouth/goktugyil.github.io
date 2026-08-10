@@ -113,44 +113,20 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 - Impact: ~10m people reached
 - The number of programmers I could help with Stack Overflow is just mind-blowing
 
-#### <a href="https://github.com/esqarrouth/ezswiftextensions">EZSwiftExtensions</a> <a href="http://cocoapods.org/pods/EZSwiftExtensions"><img src="https://img.shields.io/cocoapods/dt/EZSwiftExtensions.svg?label=Total%20Downloads&colorB=28B9FE"></a>
+### Swift Projects
 
-<a class="github-button" href="https://github.com/esqarrouth/ezswiftextensions/subscription" data-icon="octicon-eye" data-show-count="true" aria-label="Watch esqarrouth/ezswiftextensions on GitHub">Watch</a>
-<a class="github-button" href="https://github.com/esqarrouth/ezswiftextensions" data-icon="octicon-star" data-show-count="true" aria-label="Star esqarrouth/ezswiftextensions on GitHub">Star</a> 
-<a class="github-button" href="https://github.com/esqarrouth/ezswiftextensions/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork esqarrouth/ezswiftextensions on GitHub">Fork</a> 
-<a class="github-button" href="https://github.com/esqarrouth/ezswiftextensions/issues" data-icon="octicon-issue-opened" data-show-count="true" aria-label="Issue esqarrouth/ezswiftextensions on GitHub">Issue</a>
-
-😏 How Swift standard types and classes were supposed to work. A collection of useful extensions for the Swift Standard Library, Foundation, and UIKit
-
-- I gave 4 talks in the Bay Area about EZSwiftExtensions  
-- Thousands of people use EZSwiftExtensions to simplify their development  
-
-#### <a href="https://github.com/esqarrouth/QorumLogs/">QorumLogs</a> <a href="http://cocoapods.org/pods/QorumLogs"><img src="https://img.shields.io/cocoapods/dt/QorumLogs.svg?label=Total%20Downloads&colorB=28B9FE"></a>
-
-<a class="github-button" href="https://github.com/esqarrouth/QorumLogs/subscription" data-icon="octicon-eye" data-show-count="true" aria-label="Watch esqarrouth/QorumLogs on GitHub">Watch</a>
-<a class="github-button" href="https://github.com/esqarrouth/QorumLogs" data-icon="octicon-star" data-show-count="true" aria-label="Star esqarrouth/QorumLogs on GitHub">Star</a> 
-<a class="github-button" href="https://github.com/esqarrouth/QorumLogs/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork esqarrouth/QorumLogs on GitHub">Fork</a> 
-<a class="github-button" href="https://github.com/esqarrouth/QorumLogs/issues" data-icon="octicon-issue-opened" data-show-count="true" aria-label="Issue esqarrouth/QorumLogs on GitHub">Issue</a>
-
-📕 Swift Logging Utility for Xcode & Google Docs. Uses Google Sheets as a database for user logs
-
-#### <a href="https://github.com/esqarrouth/EZSwipeController">EZSwipeController</a> <a href="http://cocoapods.org/pods/EZSwipeController"><img src="https://img.shields.io/cocoapods/dt/EZSwipeController.svg?label=Total%20Downloads&colorB=28B9FE"></a>
-
-<a class="github-button" href="https://github.com/esqarrouth/EZSwipeController/subscription" data-icon="octicon-eye" data-show-count="true" aria-label="Watch esqarrouth/EZSwipeController on GitHub">Watch</a>
-<a class="github-button" href="https://github.com/esqarrouth/EZSwipeController" data-icon="octicon-star" data-show-count="true" aria-label="Star esqarrouth/EZSwipeController on GitHub">Star</a> 
-<a class="github-button" href="https://github.com/esqarrouth/EZSwipeController/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork esqarrouth/EZSwipeController on GitHub">Fork</a> 
-<a class="github-button" href="https://github.com/esqarrouth/EZSwipeController/issues" data-icon="octicon-issue-opened" data-show-count="true" aria-label="Issue esqarrouth/EZSwipeController on GitHub">Issue</a>
-
-👆 Easy to use UIPageViewController to create a view navigation like Snapchat/Tinder/iOS Main Pages
-
-#### <a href="https://github.com/esqarrouth/EZLoadingActivity">EZLoadingActivity</a> <a href="http://cocoapods.org/pods/EZLoadingActivity"><img src="https://img.shields.io/cocoapods/dt/EZLoadingActivity.svg?label=Total%20Downloads&colorB=28B9FE"></a>
-
-<a class="github-button" href="https://github.com/esqarrouth/EZLoadingActivity/subscription" data-icon="octicon-eye" data-show-count="true" aria-label="Watch esqarrouth/EZLoadingActivity on GitHub">Watch</a>
-<a class="github-button" href="https://github.com/esqarrouth/EZLoadingActivity" data-icon="octicon-star" data-show-count="true" aria-label="Star esqarrouth/EZLoadingActivity on GitHub">Star</a> 
-<a class="github-button" href="https://github.com/esqarrouth/EZLoadingActivity/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork esqarrouth/EZLoadingActivity on GitHub">Fork</a> 
-<a class="github-button" href="https://github.com/esqarrouth/EZLoadingActivity/issues" data-icon="octicon-issue-opened" data-show-count="true" aria-label="Issue esqarrouth/EZLoadingActivity on GitHub">Issue</a>
-
-🐣 Lightweight Swift loading activity for iOS7+. Really simple to use, just add the class and write 1 line of code
+- <span class="swift-project-title"><a href="https://github.com/esqarrouth/ezswiftextensions">EZSwiftExtensions</a> <a class="github-button" href="https://github.com/esqarrouth/ezswiftextensions" data-icon="octicon-star" data-show-count="true" aria-label="Star esqarrouth/ezswiftextensions on GitHub">Star</a></span>
+  - 😏 How Swift standard types and classes were supposed to work. A collection of useful extensions for the Swift Standard Library, Foundation and UIKit.
+  - 349K+ <a href="https://cocoapods.org/pods/EZSwiftExtensions">CocoaPods</a> downloads until 2018
+- <span class="swift-project-title"><a href="https://github.com/esqarrouth/QorumLogs/">QorumLogs</a> <a class="github-button" href="https://github.com/esqarrouth/QorumLogs" data-icon="octicon-star" data-show-count="true" aria-label="Star esqarrouth/QorumLogs on GitHub">Star</a></span>
+  - 📕 Swift logging for Xcode and Google Docs. Uses Google Sheets as a database for user logs.
+  - 42K+ <a href="https://cocoapods.org/pods/QorumLogs">CocoaPods</a> downloads until 2018
+- <span class="swift-project-title"><a href="https://github.com/esqarrouth/EZSwipeController">EZSwipeController</a> <a class="github-button" href="https://github.com/esqarrouth/EZSwipeController" data-icon="octicon-star" data-show-count="true" aria-label="Star esqarrouth/EZSwipeController on GitHub">Star</a></span>
+  - 👆 Easy-to-use UIPageViewController navigation like Snapchat, Tinder and iOS main pages.
+  - 26K+ <a href="https://cocoapods.org/pods/EZSwipeController">CocoaPods</a> downloads until 2018
+- <span class="swift-project-title"><a href="https://github.com/esqarrouth/EZLoadingActivity">EZLoadingActivity</a> <a class="github-button" href="https://github.com/esqarrouth/EZLoadingActivity" data-icon="octicon-star" data-show-count="true" aria-label="Star esqarrouth/EZLoadingActivity on GitHub">Star</a></span>
+  - 🐣 Lightweight loading activity for iOS 7+. Add the class and write one line of code.
+  - 70K+ <a href="https://cocoapods.org/pods/EZLoadingActivity">CocoaPods</a> downloads until 2018
 
 #### <a href="http://www.easyuo.com/psl.php?page=mypsl&scripter=Esqarrouth">EasyUO Scripts</a>
 
