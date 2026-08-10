@@ -91,7 +91,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 - Has over 1K+ members
 - Actively running
 
-#### <a id="metuesports" href="https://web.archive.org/web/20221003185524/http://www.metuesports.com/">**METU eSports Society**</a>
+#### <a id="metuesports" href="https://web.archive.org/web/20141017032407/http://www.metuesports.com/">**METU eSports Society**</a>
 
 - One of the first university eSports societies in the world
 - We helped establish eSports societies at more than 100 universities
