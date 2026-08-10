@@ -7,8 +7,8 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            Goktug Yilmaz  # Site title
-name:             Goktug Yilmaz              # Your name
+title:            Goku  # Site title
+name:             Goku              # Your name
 avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
