@@ -198,6 +198,7 @@ I have not failed. i've just found 10.000 ways that won't work.|Thomas Edison
 Overnight success takes decades of daily work.|Paulo Coelho
 Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it. If you aren't sure which way to do something, do it both ways and see which works better.|John Carmack
 If you trust in yourself. . .and believe in your dreams. . .and follow your star. . . you'll still get beaten by people who spent their time working hard and learning things and weren't so lazy.|Terry Pratchett
+Success is working on things I enjoy with people I like, feeling free to choose what I work on, and having enough money to live without financial stress.|Adapted from Josh Kaufman, The Personal MBA
 
 ---
 
@@ -261,6 +262,11 @@ No one can whistle a symphony. It takes an orchestra to play it.| H.E. Luccock
 Teamwork is the secret that make common people achieve uncommon result. | Ifeanyi Enoch
 Fortunes are built in the down market, and collected in the up market.|Jason Calacanis
 What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.|Warren Buffett
+Tactics is knowing what to do when there is something to do; strategy is knowing what to do when there is nothing to do.|Savielly Tartakower
+No man can become rich without himself enriching others.|Andrew Carnegie
+In order to win, you must first survive.|Warren Buffett
+If you want success, figure out the price, then pay it.|Scott Adams, How to Fail at Almost Everything and Still Win Big
+There are two types of people: people who join a company because it will probably succeed, and people who join because they want to make it succeed.|Adapted from Mathilde Collin, Product Hunt Radio
 
 ---
 
