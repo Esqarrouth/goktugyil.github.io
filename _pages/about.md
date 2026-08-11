@@ -6,8 +6,14 @@ narrow: true
 
 ### Engineer, entrepreneur, gamer, biohacker.
 
-Currently:   
-- <a href="#colonist">Founder of Colonist.io: A web alternative to the top selling board game Settlers of Catan</a>  
+- I've been working on Colonist for the last 8 years.
+  - I've been working on a Company OS project and trying to move all operating processes into AI.
+- Recently, I've been working on a Personal OS.
+- Lately, I've mostly been playing <a href="https://blog.colonist.io/announcing-colonist-rush/">Colonist Rush</a>.
+- I've been improving my health, mainly by cutting body fat.
+- I've been living in different places as a <a href="https://nomads.com/@goktugyil">digital nomad</a>, mostly exploring Southeast Asia at the moment.
+
+~~I'm open to~~ I crave any and all sorts of feedback for every aspect and decision of my life. Please tell me what I need to hear, increase my awareness and make me wiser.
 
 Previously I've founded:  
 - <a href="#breakpoint">Breakpoint Labs</a>
@@ -19,8 +25,6 @@ Previously I've founded:
 Previously I've advised:
 - <a href="#venge">Venge.io</a>
 - <a href="#barakatech">Barakatech</a>
-
-~~I'm open to~~ I crave any and all sorts of feedback for every aspect and decision of my life. Please tell me what I need to hear, increase my awareness and make me wiser.
 
 <hr />
 
