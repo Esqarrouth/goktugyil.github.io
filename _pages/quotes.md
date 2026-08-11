@@ -38,20 +38,18 @@ He who is only an athlete is too crude, too vulgar, too much a savage. He who is
 | Quote        | Author           | 
 | ------------- |:-------------:| 
 It’s better to walk alone, than with a crowd going in the wrong direction.|Diane Grant
-The one who follows the crowd will usually go no further than the crowd.|Albert Eintstein
+The one who follows the crowd will usually go no further than the crowd.|Albert Einstein
 If we wanna change we gotta fight for it, aint nobody gonna give it to us, we just gonna have to take it.|2pac
 Atheism is a religion like not collecting stamps is a hobby.|Penn Jillette
 I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success... Such emotions make a man forget food, sleep, friends, love, everything.|Nikola Tesla
 The closer you get to excellence in your life, the more friends you'll lose. People love you when you're average because it makes them comfortable. But when you pursue greatness it makes people uncomfortable. Be prepared to lose some people on your journey.|Tony A. Gaskins Jr.
 The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.|George Bernard Shaw
 One doesn't discover new lands without consenting to lose sight of the shore for a very long time.|André Gide
-Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth.|Arthur Conan Doyle
-Don’t know the key to success, but the key to failure is trying to please everybody.|Bill Cosby
+Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth.|Sherlock Holmes, The Sign of Four
 The less confident you are, the more serious you have to act.|Tara Ploughman
-Philosophy is dead. Scientists have become the bearers of the torch of discovery in our quest for knowledge.|Stephen Hawkings
+Philosophy is dead. Scientists have become the bearers of the torch of discovery in our quest for knowledge.|Stephen Hawking
 I can calculate the motion of heavenly bodies, but not the madness of people.|Isaac Newton
 I have studied these things - you have not.|Isaac Newton
-Discipline is hard – harder than trustworthiness and skill and perhaps even selflessness. We are by nature flawed and inconstant creatures. We can’t even keep from snacking in between meals. We are not built for discipline. We are built for novelty and excitement, not for careful attention to detail. Discipline is something we have to work at.|Atul Gawande
 We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about.|Einstein
 Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.|Mark Twain
 Any word you have to hunt for in a thesaurus is the wrong word.|Stephen King
@@ -181,6 +179,7 @@ The phrase, “I can’t,” denotes a lack of investment as opposed to a lack o
 | ------------- |:-------------:| 
 If a man has not found what he will die for, he isn't fit to live.|Martin Luther King, Jr.
 Focusing is about saying no.|Steve Jobs
+Discipline is hard – harder than trustworthiness and skill and perhaps even selflessness. We are by nature flawed and inconstant creatures. We can’t even keep from snacking in between meals. We are not built for discipline. We are built for novelty and excitement, not for careful attention to detail. Discipline is something we have to work at.|Atul Gawande
 If you gave me six hours to chop down a tree, I’d spend the first four hours sharpening my axe.|Abraham Lincoln
 Whatever the mind of man can conceive and believe, it can achieve.|W. Clement Stone
 We will be relentless in our pursuit for perfection. We won't ever be perfect - but in the process we will achieve greatness.|Vince Lombard
@@ -387,6 +386,7 @@ Humor is laughing at what you haven't got when you ought to have it. |Langston H
 Humor is a rubber sword - it allows you to make a point without drawing blood. |Mary Hirsch
 Defining and analyzing humor is a pastime of humorless people.| Robert Benchley 
 Analyzing humor is like dissecting a frog. Few people are interested and the frog dies of it. | E. B. White
+Don’t know the key to success, but the key to failure is trying to please everybody.|Bill Cosby
 
 ---
 
