@@ -324,6 +324,7 @@ I just find phones distracting. I can't stand when people's cell phones are ring
 However gifted you are, you alone can't change the world.|L
 There's only one certainty in life. A strong man stands above and conquers all!|Vegeta
 Once you question your beliefs it's all over.|Naruto
+If we only focus on making the best moves, we will never get the better of our opponent. When necessary, we must be willing to take big risks and be prepared to lose everything. Unless we change how we fight, humanity cannot win.|Erwin Smith, Attack on Titan, “Crushing Blow”
 
 ---
 
@@ -364,6 +365,9 @@ The most sacred thing I do is care and provide for my workers, my family. I give
 Never hate your enemies. It clouds your judgement.|The Godfather
 War is peace. Freedom is slavery. Ignorance is strength.|George Orwell
 The secret to happiness is burying all your true feelings and living a life of bland compromise.|Lois Griffin
+As one approaches the end, one begins to see life as it truly is.|Hercule Poirot, Agatha Christie’s Poirot
+Everything before the word “but” is horseshit.|Jon Snow, Game of Thrones
+There’s an old saying in show business: The show must go wrong. Everything always goes wrong, and you just have to deal with it.|Andy Dwyer, Parks and Recreation
 
 ---
 
@@ -399,6 +403,7 @@ Humor is a rubber sword - it allows you to make a point without drawing blood. |
 Defining and analyzing humor is a pastime of humorless people.| Robert Benchley 
 Analyzing humor is like dissecting a frog. Few people are interested and the frog dies of it. | E. B. White
 Don’t know the key to success, but the key to failure is trying to please everybody.|Bill Cosby
+Software is like sex; it’s better when it’s free.|Linus Torvalds (attributed)
 
 ---
 
