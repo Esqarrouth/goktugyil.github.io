@@ -210,7 +210,7 @@ It doesn’t matter how many times you failed, you only have to be right once.|M
 Inventing a job is better than finding a job.|Larry Summers
 No plan ever survives its first encounter with the enemy.|Douglas MacArthur
 A forecast communicates more certainty than actually exists.|Goku
-Good artists copy. Great artists steal.|Picasso?Jobs?Fuck it -Goktug Yilmaz
+Good artists copy. Great artists steal.|Picasso?Jobs?Fuck it -Goku Yilmaz
 Success is a menace. It fools smart people into thinking they cant lose.|Bill Gates
 All of a sudden we're working harder than our fathers, who we laughed at for how hard they worked.|Steve Wozniak
 Only the paranoid survive.|Andrew Grove
