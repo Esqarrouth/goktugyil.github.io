@@ -88,6 +88,7 @@ A coward dies a thousand times, a soldier dies but once.|2pac
 It is no measure of health to be well adjusted to a profoundly sick society.|Jiddu Krishnamurti
 If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas.|George Bernard Shaw
 A developed country is not a place where the poor have cars. It’s where the rich use public transport.|Enrique Penalosa
+At the Fed level, libertarian; at the state level, Republican; at the local level, Democrat; and at the family and friends level, a socialist.|Nassim Nicholas Taleb, Skin in the Game
 When given a choice, choose the thing that scares you a little. If it's 100% safe, it is holding you back.|Jeff Atwood
 If you're going through hell, keep going.|Winston Churchill
 the brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something. Because the brick walls are there to stop people who don't want it badly enough.|Randy Pausch
@@ -208,6 +209,7 @@ Success is a choice. The odds are we won’t succeed. But if something is import
 It doesn’t matter how many times you failed, you only have to be right once.|Mark Cuban
 Inventing a job is better than finding a job.|Larry Summers
 No plan ever survives its first encounter with the enemy.|Douglas MacArthur
+A forecast communicates more certainty than actually exists.|Goku
 Good artists copy. Great artists steal.|Picasso?Jobs?Fuck it -Goktug Yilmaz
 Success is a menace. It fools smart people into thinking they cant lose.|Bill Gates
 All of a sudden we're working harder than our fathers, who we laughed at for how hard they worked.|Steve Wozniak
@@ -277,6 +279,7 @@ All of science and technology and culture and learning and academics is built up
 Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.|John Carmack
 AI is regularly cited as the "field I would most like to be in" by scientists in other disciplines. A student in physics might reasonably feel that all the good ideas have already been taken by Galileo, Newton, Einstein, and the rest. AI, on the other hand, still has openings for several full-time Einsteins and Edisons.|Stuart Russell
 UI is important because it affects the feelings, the emotions, and the mood of your users. If the UI is wrong and the user feels like they can't control your software, they literally won't be happy and they'll blame it on your software. If the UI is smart and things work the way the user expected them to work, they will be cheerful as they manage to accomplish small goals.|Rudd-O
+Science is more incrementally accurate guesses.|Goku
 
 ---
 
