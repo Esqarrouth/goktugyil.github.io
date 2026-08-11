@@ -31,6 +31,8 @@ Focusing is about saying no.|Steve Jobs
 Ideologies separate us. Dreams and anguish bring us together. | Eugene Ionesco
 If you gave me six hours to chop down a tree, I’d spend the first four hours sharpening my axe.|Abraham Lincoln
 You get simplicity by finding a slightly more sophisticated building block to build your theories out of.|Alan Kay
+The happiness of your life depends upon the quality of your thoughts.|Marcus Aurelius, Meditations 3.9 (loose translation)
+He who is only an athlete is too crude, too vulgar, too much a savage. He who is a scholar only is too soft, too effeminate. The ideal citizen is the scholar-athlete, the man of thought and the man of action.|Adapted from Plato, Republic 3, 410b-d
 
 ---
 
@@ -67,6 +69,7 @@ If you understand what you're doing, you're not learning anything.|Abraham Linco
 My relationship to power and authority is that I'm all for it. ... Ninety-five percent of the people in the world need to be told what to do and how to behave.|Schwarzenegger
 If you can't explain it simply, you don't understand it well enough.|Albert Einstein
 The future is already here — it's just not very evenly distributed.|William Gibson
+Logic will get you from A to B. Imagination will take you everywhere.|Albert Einstein
 The imagination of nature is far, far greater than the imagination of man.|Richard Feynman
 In our own time, different societies have wildly varying ideas of what's ok and what isn't. So you can try diffing other cultures' ideas against ours as well. ... In one culture x is ok, and in another it's considered shocking. My hypothesis is that the side that's shocked is most likely to be the mistaken one.|Paul Graham
 I like to find (a) simple solutions (b) to overlooked problems (c) that actually need to be solved, and (d) deliver them as informally as possible, (e) starting with a very crude version 1, then (f) iterating rapidly.|Paul Graham
@@ -211,6 +214,7 @@ All of a sudden we're working harder than our fathers, who we laughed at for how
 Only the paranoid survive.|Andrew Grove
 Fake it till you become it.|Amy Cuddy
 Nothing demotivates people like the equal treatment of unequals. When you hire a bozo and treat him the same as a rock star, it deflates the rock star.|Joe Kraus
+What we failed to understand was that by dummy-proofing all the systems, that we would have a system where only dummies wanted to work there, which was exactly what happened.|Reed Hastings
 There is only one success – to be able to spend your life in your own way.|Christopher Morley
 If you’re not living life on the edge, you’re taking up too much space.|Jim Whittaker
 The road to success is always under construction.|Arnold Palmer
@@ -391,6 +395,7 @@ Those who don't learn from history are doomed to repeat it. Those who do learn f
 Those who don't clear history are doomed to explain it.|u/C00kies4ever 
 People’s happiness depends on their expectations, not their conditions.|???
 People desperately want to believe they are safe. They look for reasons why bad things happen so they can keep being safe. When bad things happen to someone who didn't "deserve" it or didn't do anything to cause it, this makes them realize it could happen to them too. This makes them feel afraid. Because they are afraid, they attack the thing that is causing the fear. Unfortunately, that means they attack the victim and not the perpetrator.|u/mnh5
+It's easier to fool people than to convince them that they have been fooled.|???
 
 ---
 
