@@ -50,20 +50,14 @@ The less confident you are, the more serious you have to act.|Tara Ploughman
 Philosophy is dead. Scientists have become the bearers of the torch of discovery in our quest for knowledge.|Stephen Hawking
 I can calculate the motion of heavenly bodies, but not the madness of people.|Isaac Newton
 I have studied these things - you have not.|Isaac Newton
-We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about.|Einstein
+We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about.|Charles Kingsley
 Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.|Mark Twain
-Any word you have to hunt for in a thesaurus is the wrong word.|Stephen King
 I would rather be first in a village than second in Rome.|Julius Caesar
-If you must break the law, do it to seize power: In all other cases observe it.|Julius Caesar
 Men are moved by two levers only: Fear and self-interest.|Napoleon Bonaparte
 My nature is that I have to excite myself with a big challenge.|Garry Kasparov
 One man is worth ten thousand if he is extraordinary.|Heraclitus
-Whatever you're thinking think bigger.|Tony Hsieh
-When you are ready to quit you are closer than you think.|Bob Parsons
 If you understand what you're doing, you're not learning anything.|Abraham Lincoln
-My relationship to power and authority is that I'm all for it. ... Ninety-five percent of the people in the world need to be told what to do and how to behave.|Schwarzenegger
 If you can't explain it simply, you don't understand it well enough.|Albert Einstein
-The future is already here — it's just not very evenly distributed.|William Gibson
 Logic will get you from A to B. Imagination will take you everywhere.|Albert Einstein
 The imagination of nature is far, far greater than the imagination of man.|Richard Feynman
 In our own time, different societies have wildly varying ideas of what's ok and what isn't. So you can try diffing other cultures' ideas against ours as well. ... In one culture x is ok, and in another it's considered shocking. My hypothesis is that the side that's shocked is most likely to be the mistaken one.|Paul Graham
@@ -181,6 +175,7 @@ If a man has not found what he will die for, he isn't fit to live.|Martin Luther
 Focusing is about saying no.|Steve Jobs
 Discipline is hard – harder than trustworthiness and skill and perhaps even selflessness. We are by nature flawed and inconstant creatures. We can’t even keep from snacking in between meals. We are not built for discipline. We are built for novelty and excitement, not for careful attention to detail. Discipline is something we have to work at.|Atul Gawande
 If you gave me six hours to chop down a tree, I’d spend the first four hours sharpening my axe.|Abraham Lincoln
+When you are ready to quit you are closer than you think.|Bob Parsons
 Whatever the mind of man can conceive and believe, it can achieve.|W. Clement Stone
 We will be relentless in our pursuit for perfection. We won't ever be perfect - but in the process we will achieve greatness.|Vince Lombard
 Art is never finished, only abandoned.|Leonardo da Vinci
@@ -208,6 +203,7 @@ It doesn’t matter how many times you failed, you only have to be right once.|M
 Inventing a job is better than finding a job.|Larry Summers
 No plan ever survives its first encounter with the enemy.|Douglas MacArthur
 A forecast communicates more certainty than actually exists.|Goku
+Whatever you're thinking think bigger.|Tony Hsieh
 Good artists copy. Great artists steal.|Picasso?Jobs?Fuck it -Goku Yilmaz
 Success is a menace. It fools smart people into thinking they cant lose.|Bill Gates
 All of a sudden we're working harder than our fathers, who we laughed at for how hard they worked.|Steve Wozniak
@@ -278,6 +274,7 @@ Story in a game is like a story in a porn movie. It's expected to be there, but 
 AI is regularly cited as the "field I would most like to be in" by scientists in other disciplines. A student in physics might reasonably feel that all the good ideas have already been taken by Galileo, Newton, Einstein, and the rest. AI, on the other hand, still has openings for several full-time Einsteins and Edisons.|Stuart Russell
 UI is important because it affects the feelings, the emotions, and the mood of your users. If the UI is wrong and the user feels like they can't control your software, they literally won't be happy and they'll blame it on your software. If the UI is smart and things work the way the user expected them to work, they will be cheerful as they manage to accomplish small goals.|Rudd-O
 You get simplicity by finding a slightly more sophisticated building block to build your theories out of.|Alan Kay
+The future is already here — it's just not very evenly distributed.|William Gibson
 Science is more incrementally accurate guesses.|Goku
 
 ---
@@ -369,6 +366,7 @@ Never judge a book by its movie.|J.W. Eagan
 Autobiography is probably the most respectable form of lying.| Humphrey Carpenter
 Reading well is one of the great pleasures that solitude can afford you.| Harold Bloom 
 For every sentence of masterpiece I write 99 sentences of crap. I try hard to make sure that the crap winds up in the wastebasket.|Ernest Hemingway
+Any word you have to hunt for in a thesaurus is the wrong word.|Stephen King
 
 ---
 
@@ -443,6 +441,10 @@ You need to see like a designer and think like a backend developer.|Vikas Bhagav
     <tr><td>There is no good and evil, there is only power, and those too weak to seek it.</td><td>Lord Voldemort</td></tr>
     <tr><td>Industry does not care. They only hire people because it hasn&#39;t been automated yet. So, don&#39;t talk about decency and ethics, we cannot afford it and remain in business.</td><td>Zeitgeist</td></tr>
     <tr><td>Slavery was never abolished, it was only extended to include all the colors.</td><td>Tatyana’s Thoughts</td></tr>
+    <tr><td>If you must break the law, do it to seize power: In all other cases observe it.</td><td>Julius Caesar</td></tr>
+    <tr><td>My relationship to power and authority is that I&#39;m all for it. ... Ninety-five percent of the people in the world need to be told what to do and how to behave.</td><td>Arnold Schwarzenegger</td></tr>
   </tbody>
 </table>
 </details>
+
+Last update: August 11, 2026
