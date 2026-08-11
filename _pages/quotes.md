@@ -27,10 +27,7 @@ Learning never exhausts the mind.|Leonardo da Vinci
 The noblest pleasure is the joy of understanding.|Leonardo da Vinci
 Nothing strengthens authority so much as silence.|Leonardo da Vinci
 How ridiculous and how strange to be surprised at anything which happens in life.|Marcus Aurelius
-Focusing is about saying no.|Steve Jobs
 Ideologies separate us. Dreams and anguish bring us together. | Eugene Ionesco
-If you gave me six hours to chop down a tree, I’d spend the first four hours sharpening my axe.|Abraham Lincoln
-You get simplicity by finding a slightly more sophisticated building block to build your theories out of.|Alan Kay
 The happiness of your life depends upon the quality of your thoughts.|Marcus Aurelius, Meditations 3.9 (loose translation)
 He who is only an athlete is too crude, too vulgar, too much a savage. He who is a scholar only is too soft, too effeminate. The ideal citizen is the scholar-athlete, the man of thought and the man of action.|Adapted from Plato, Republic 3, 410b-d
 
@@ -183,6 +180,8 @@ The phrase, “I can’t,” denotes a lack of investment as opposed to a lack o
 | Quote        | Author           | 
 | ------------- |:-------------:| 
 If a man has not found what he will die for, he isn't fit to live.|Martin Luther King, Jr.
+Focusing is about saying no.|Steve Jobs
+If you gave me six hours to chop down a tree, I’d spend the first four hours sharpening my axe.|Abraham Lincoln
 Whatever the mind of man can conceive and believe, it can achieve.|W. Clement Stone
 We will be relentless in our pursuit for perfection. We won't ever be perfect - but in the process we will achieve greatness.|Vince Lombard
 Art is never finished, only abandoned.|Leonardo da Vinci
@@ -279,6 +278,7 @@ All of science and technology and culture and learning and academics is built up
 Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.|John Carmack
 AI is regularly cited as the "field I would most like to be in" by scientists in other disciplines. A student in physics might reasonably feel that all the good ideas have already been taken by Galileo, Newton, Einstein, and the rest. AI, on the other hand, still has openings for several full-time Einsteins and Edisons.|Stuart Russell
 UI is important because it affects the feelings, the emotions, and the mood of your users. If the UI is wrong and the user feels like they can't control your software, they literally won't be happy and they'll blame it on your software. If the UI is smart and things work the way the user expected them to work, they will be cheerful as they manage to accomplish small goals.|Rudd-O
+You get simplicity by finding a slightly more sophisticated building block to build your theories out of.|Alan Kay
 Science is more incrementally accurate guesses.|Goku
 
 ---
