@@ -30,6 +30,13 @@ How ridiculous and how strange to be surprised at anything which happens in life
 Ideologies separate us. Dreams and anguish bring us together. | Eugene Ionesco
 The happiness of your life depends upon the quality of your thoughts.|Marcus Aurelius, Meditations 3.9 (loose translation)
 He who is only an athlete is too crude, too vulgar, too much a savage. He who is a scholar only is too soft, too effeminate. The ideal citizen is the scholar-athlete, the man of thought and the man of action.|Adapted from Plato, Republic 3, 410b-d
+You can't classify me as black or white. I am something much greater. I am gray.|Goku
+To reach your dreams, you must sacrifice everything else you don't need.|Goku
+Victory is worth the sacrifice.|Goku
+If you have a list of all the things you shouldn't do, you can turn that into a recipe for succeeding just by negating.|Paul Graham, The 18 Mistakes That Kill Startups
+The easiest way to navigate a ship through a tight spot is to look at other shipwrecks and steer away from them.|Goku
+The laws of nature are greater than the laws of man.|Goku
+The best lessons are learned through the worst pain.|Goku
 
 ---
 
@@ -276,6 +283,7 @@ UI is important because it affects the feelings, the emotions, and the mood of y
 You get simplicity by finding a slightly more sophisticated building block to build your theories out of.|Alan Kay
 The future is already here — it's just not very evenly distributed.|William Gibson
 Science is more incrementally accurate guesses.|Goku
+For me, art is properly indented code.|Goku
 
 ---
 
@@ -409,6 +417,9 @@ I think better, because I think as the machine that I am.|Eray Ozkural
 I like ur hard nose but ur personal expectation of urself can't always hold true to others. In summation. NAPALM. It's my fav leadership acronym Not All People Are Like Me. U r good. Others not so much. Pick ur battles.|Brutis37/Kegan
 Şirketleşmek için uğraşmayın, yaptığınız iş sizi şirketleştirsin.|Abdurrahman Nakipoğlu
 You need to see like a designer and think like a backend developer.|Vikas Bhagavatula
+PMF tutturamayana kız yok burada.|Berkay
+Fotoğraf çeken nerdler Apple'da, fotoğraf çekmeyen nerdler Google'da.|Furkan
+Koca gemiler batıyor kıyı kenarlarında, kanolar geçiyor okyanusları. Mesele, dalgalarla boğuşmayı değil, onları tanımayı öğrenmekte.|Çağrı Mumcuoğlu
 
 
 
@@ -441,6 +452,8 @@ You need to see like a designer and think like a backend developer.|Vikas Bhagav
     <tr><td>There is no good and evil, there is only power, and those too weak to seek it.</td><td>Lord Voldemort</td></tr>
     <tr><td>Industry does not care. They only hire people because it hasn&#39;t been automated yet. So, don&#39;t talk about decency and ethics, we cannot afford it and remain in business.</td><td>Zeitgeist</td></tr>
     <tr><td>Slavery was never abolished, it was only extended to include all the colors.</td><td>Tatyana’s Thoughts</td></tr>
+    <tr><td>If something doesn't have a pirated version, then it isn't worth checking out.</td><td>Goku</td></tr>
+    <tr><td>If your girlfriend doesn't have a personal goal, her personal goal is to make your life miserable.</td><td>Goku</td></tr>
     <tr><td>If you must break the law, do it to seize power: In all other cases observe it.</td><td>Julius Caesar</td></tr>
     <tr><td>My relationship to power and authority is that I&#39;m all for it. ... Ninety-five percent of the people in the world need to be told what to do and how to behave.</td><td>Arnold Schwarzenegger</td></tr>
   </tbody>
