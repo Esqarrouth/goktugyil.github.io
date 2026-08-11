@@ -64,7 +64,6 @@ One man is worth ten thousand if he is extraordinary.|Heraclitus
 Whatever you're thinking think bigger.|Tony Hsieh
 When you are ready to quit you are closer than you think.|Bob Parsons
 If you understand what you're doing, you're not learning anything.|Abraham Lincoln
-I do not accept or acknowledge many of the established 'social rules'. I view them as irrelevant noise.|Breivik
 My relationship to power and authority is that I'm all for it. ... Ninety-five percent of the people in the world need to be told what to do and how to behave.|Schwarzenegger
 If you can't explain it simply, you don't understand it well enough.|Albert Einstein
 The future is already here — it's just not very evenly distributed.|William Gibson
@@ -168,7 +167,6 @@ Nothing in the world can take the place of persistence. Talent will not; nothing
 You want to know the difference between a master and a beginner? The master has failed more times than the beginner has even tried.|Stephen McCranie
 When experts are wrong, it's often because they're experts on an earlier version of the world.|Paul Graham
 A man is worth just as much as the things about he busies himself.|Marcus Aurelius
-There is freedom of speech, but I cannot guarantee freedom after speech.|Idi Amin
 It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.|Charlie Munger
 Strategy without tactics is the slowest route to victory. Tactics without strategy are the noise before defeat.|Sun Tzu
 I never allow myself to have an opinion on anything that I don’t know the other side’s argument better than they do.|Charlie Munger
@@ -426,3 +424,17 @@ You need to see like a designer and think like a backend developer.|Vikas Bhagav
 
 
 
+
+<details id="context-dependent-quotes">
+<summary>Context-dependent quotes</summary>
+
+<p>Saved for context or discussion. Inclusion does not mean endorsement.</p>
+
+<table>
+  <thead><tr><th>Quote</th><th>Author</th></tr></thead>
+  <tbody>
+    <tr><td>I do not accept or acknowledge many of the established &#39;social rules&#39;. I view them as irrelevant noise.</td><td></td></tr>
+    <tr><td>There is freedom of speech, but I cannot guarantee freedom after speech.</td><td></td></tr>
+  </tbody>
+</table>
+</details>
