@@ -48,6 +48,8 @@ The bigger the circle of known, the larger the contact with unknown.|Phoenix Hou
 Life becomes easy when it becomes natural, for nature never struggles. But man is never free of it.|Siddha
 The laws of nature are greater than the laws of man.|Goku
 The best lessons come from the worst pain.|Goku
+Supplements are medicine being sold to you to make up for your nutritionally deficient diet.|Goku
+The most efficient system in your body is your gut feeling during social interactions.|Goku
 
 ---
 
@@ -223,6 +225,7 @@ A modern disease related to old fashion food is the most ludicrous thing I’ve 
 It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn’t agree with experiment, it’s wrong.|Richard Feynman, “Seeking New Laws” (popular paraphrase)
 Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.|William Blake, The Marriage of Heaven and Hell
 The only person who can truly play is the one who arrives whole. As long as you need something from it, you are its prisoner.|Unknown
+Just because you do not take an interest in politics doesn’t mean politics won’t take an interest in you.|Pericles (attributed)
 
 ---
 
@@ -322,6 +325,7 @@ In order to win, you must first survive.|Warren Buffett
 If you want success, figure out the price, then pay it.|Scott Adams, How to Fail at Almost Everything and Still Win Big
 There are two types of people: people who join a company because it will probably succeed, and people who join because they want to make it succeed.|Adapted from Mathilde Collin, Product Hunt Radio
 If you don’t like a rule, follow it, reach the top, and change it.|Unknown
+It is rare for founders to be millionaires. Especially before the age of 40. We've been exposed to too many survivor bias.|Goku
 
 ---
 
