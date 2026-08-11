@@ -35,8 +35,19 @@ To reach your dreams, you must sacrifice everything else you don't need.|Goku
 Victory is worth the sacrifice.|Goku
 If you have a list of all the things you shouldn't do, you can turn that into a recipe for succeeding just by negating.|Paul Graham, The 18 Mistakes That Kill Startups
 The easiest way to navigate a ship through a tight spot is to look at other shipwrecks and steer away from them.|Goku
+Become a god by creating a world.|Goku
+The world doesn’t change itself.|Goku
+Don’t follow ideologies. Don’t try to change people. Change yourself: your thinking and habits.<br><br>Don’t create conflict. Become peaceful, remain skeptical, seek truth, and bring people together.|Goku
+Modern society leaves you no time for self-improvement or real education.|Goku
+Do not compare yourself to others. If you do so, you are insulting yourself.|Unknown
+Think a thousand times before making a decision, but once decided, never turn back, even through a thousand difficulties.|Unknown
+Life is like a mirror. If you frown at it, it frowns back; if you smile, it returns the greeting.|Unknown
+You’re entitled to your labor. You’re not entitled to the fruit of your labor.|Unknown
+The death of all principles starts with a single compromise.|Unknown
+The bigger the circle of known, the larger the contact with unknown.|Phoenix Hou
+Life becomes easy when it becomes natural, for nature never struggles. But man is never free of it.|Siddha
 The laws of nature are greater than the laws of man.|Goku
-The best lessons are learned through the worst pain.|Goku
+The best lessons come from the worst pain.|Goku
 
 ---
 
@@ -108,6 +119,9 @@ Nothing is so dangerous to the progress of the human mind than to assume that ou
 Cause two suckers can't agree on something a thousand motherfuckers die for nothing|Geto Boys
 All men have fears, but the brave put down their fears and go forward, sometimes to death, but always to victory.|Dale Carnegie
 The present is theirs; the future, for which I really worked, is mine.|Nikola Tesla
+One thing I have seen over and over again in life is that there is virtually no correlation between intelligence and common sense.|Vincent Bugliosi
+Instinct is something which transcends knowledge.|Nikola Tesla, My Inventions
+If you want to shine like the sun, first burn like the sun.|A. P. J. Abdul Kalam
 The world is a comedy to those that think; a tragedy to those that feel.|Horace Walpole
 Language is humanity’s oldest, and possibly best, growth hack. The right words, in the right order, at the right time, can do wonders.|Kissmetrics
 If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own.|Henry Ford
@@ -171,6 +185,44 @@ It is remarkable how much long-term advantage people like us have gotten by tryi
 Strategy without tactics is the slowest route to victory. Tactics without strategy are the noise before defeat.|Sun Tzu
 I never allow myself to have an opinion on anything that I don’t know the other side’s argument better than they do.|Charlie Munger
 The phrase, “I can’t,” denotes a lack of investment as opposed to a lack of potential or ability.|Rob Jones
+So the first biological lesson of history is that life is competition. Competition is not only the life of trade, it is the trade of life.|Will and Ariel Durant, The Lessons of History
+Inequality is not only natural and inborn, it grows with the complexity of civilization.|Will and Ariel Durant, The Lessons of History
+Freedom and equality are sworn and everlasting enemies, and when one prevails the other dies.|Will and Ariel Durant, The Lessons of History
+The conservative who resists change is as valuable as the radical who proposes it.|Will and Ariel Durant, The Lessons of History
+Generations of men establish a growing mastery over the earth, but they are destined to become fossils in its soil.|Will and Ariel Durant, The Lessons of History
+History reports that the men who can manage men manage the men who can manage only things, and the men who can manage money manage all.|Will and Ariel Durant, The Lessons of History
+If you’re not humble, life will visit humbleness upon you.|Mike Tyson
+Tactics is knowing what to do when there is something to do; strategy is knowing what to do when there is nothing to do.|Savielly Tartakower
+No man can get rich himself unless he enriches others.|Earl Nightingale, The Strangest Secret
+A mind is like a parachute. It doesn’t work if it is not open.|Unknown
+You can’t go back and make a new start, but you can start right now and make a brand new ending.|James R. Sherman, Rejection
+In my whole life, I have known no wise people, over a broad subject-matter area, who didn’t read all the time. None, zero.|Charlie Munger, Berkshire Hathaway Annual Meeting (2004)
+Fools say they learn by experience. I prefer to profit by other people’s experience.|Otto von Bismarck
+I live in that solitude which is painful in youth, but delicious in the years of maturity.|Albert Einstein, Self-Portrait, Out of My Later Years
+The first principle is that you must not fool yourself, and you are the easiest person to fool.|Richard Feynman, Cargo Cult Science
+I myself am a question which is addressed to the world, and I must communicate my answer.|Carl Jung, Memories, Dreams, Reflections
+To be absolutely certain about something, one must know everything or nothing about it.|Unknown
+If you’re lonely when you’re alone, you’re in bad company.|Jean-Paul Sartre
+A wise man will be master of his mind; a fool will be its slave.|Publilius Syrus
+It is not death that a man should fear, but he should fear never beginning to live.|Marcus Aurelius, Meditations 12.1 (paraphrase)
+Intelligence is something we are born with. Thinking is a skill that must be learned.|Edward de Bono
+The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.|F. Scott Fitzgerald, The Crack-Up
+Gratitude is not only the greatest of virtues, but the parent of all the others.|Cicero, Pro Plancio 33.80 (modern paraphrase)
+To do two things at once is to do neither.|Publilius Syrus, Moral Sayings 7
+A tree is judged by its fruit.|Jesus
+A man who dares to waste one hour of time has not discovered the value of life.|Charles Darwin, letter to Susan Darwin (1836)
+The iron rule in life, in a historical sense, is that if you’re lucky enough to be in a leadership position eventually you have to pass the baton.|Charlie Munger, CNBC interview (2010)
+Inside every cynical person is a disappointed idealist.|George Carlin
+For any day that stings, two better days it brings.|Joey DeMaio, “Master of the Wind”
+The opposite of play isn’t work. It’s depression.|Brian Sutton-Smith
+The wise man is self-sufficient. Nevertheless, he desires friends, neighbours, and associates, no matter how much he is sufficient unto himself.|Seneca, Moral Letters 9.3
+We were the prisoners of our own fantasy.|Blind Guardian, “Valhalla”
+Extraordinary claims require extraordinary evidence.|Carl Sagan, Broca’s Brain
+You’re unhappy because you’re not healthy enough to be happy. Your body is craving something all the time. How are you psychologically emotionally ever going to be happy unless you can please the body?|Goku
+A modern disease related to old fashion food is the most ludicrous thing I’ve ever heard in my life.|Unknown
+It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn’t agree with experiment, it’s wrong.|Richard Feynman, “Seeking New Laws” (popular paraphrase)
+Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.|William Blake, The Marriage of Heaven and Hell
+The only person who can truly play is the one who arrives whole. As long as you need something from it, you are its prisoner.|Unknown
 
 ---
 
@@ -199,6 +251,8 @@ Overnight success takes decades of daily work.|Paulo Coelho
 Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it. If you aren't sure which way to do something, do it both ways and see which works better.|John Carmack
 If you trust in yourself. . .and believe in your dreams. . .and follow your star. . . you'll still get beaten by people who spent their time working hard and learning things and weren't so lazy.|Terry Pratchett
 Success is working on things I enjoy with people I like, feeling free to choose what I work on, and having enough money to live without financial stress.|Adapted from Josh Kaufman, The Personal MBA
+Start with a shitty version, then update like a madman.|Goku
+There are only two problems in life: you know what you want but don’t know how to get it, or you don’t know what you want.|Steve Snyder, quoted by David Allen
 
 ---
 
@@ -267,6 +321,7 @@ No man can become rich without himself enriching others.|Andrew Carnegie
 In order to win, you must first survive.|Warren Buffett
 If you want success, figure out the price, then pay it.|Scott Adams, How to Fail at Almost Everything and Still Win Big
 There are two types of people: people who join a company because it will probably succeed, and people who join because they want to make it succeed.|Adapted from Mathilde Collin, Product Hunt Radio
+If you don’t like a rule, follow it, reach the top, and change it.|Unknown
 
 ---
 
@@ -368,6 +423,9 @@ The secret to happiness is burying all your true feelings and living a life of b
 As one approaches the end, one begins to see life as it truly is.|Hercule Poirot, Agatha Christie’s Poirot
 Everything before the word “but” is horseshit.|Jon Snow, Game of Thrones
 There’s an old saying in show business: The show must go wrong. Everything always goes wrong, and you just have to deal with it.|Andy Dwyer, Parks and Recreation
+The nature of life is not permanence, but flux.|Mr. Carson, Downton Abbey
+Mister Worf, villains who twirl their moustaches are easy to spot. Those who clothe themselves in good deeds are well camouflaged.|Jean-Luc Picard, Star Trek: The Next Generation, “The Drumhead”
+Reality is a construct of simple-minded fools who can’t function in the absence of boundaries.|Adam Soong, Star Trek: Picard, “Mercy”
 
 ---
 
@@ -404,6 +462,7 @@ Defining and analyzing humor is a pastime of humorless people.| Robert Benchley
 Analyzing humor is like dissecting a frog. Few people are interested and the frog dies of it. | E. B. White
 Don’t know the key to success, but the key to failure is trying to please everybody.|Bill Cosby
 Software is like sex; it’s better when it’s free.|Linus Torvalds (attributed)
+Meaning of life: craft stuff, kill noobs.|Goku
 
 ---
 
@@ -431,6 +490,7 @@ You need to see like a designer and think like a backend developer.|Vikas Bhagav
 PMF tutturamayana kız yok burada.|Berkay
 Fotoğraf çeken nerdler Apple'da, fotoğraf çekmeyen nerdler Google'da.|Furkan
 Koca gemiler batıyor kıyı kenarlarında, kanolar geçiyor okyanusları. Mesele, dalgalarla boğuşmayı değil, onları tanımayı öğrenmekte.|Çağrı Mumcuoğlu
+You were born free. The aim is to die free from everything imposed upon you since birth.|Ada
 
 
 
