@@ -211,7 +211,6 @@ All of a sudden we're working harder than our fathers, who we laughed at for how
 Only the paranoid survive.|Andrew Grove
 Fake it till you become it.|Amy Cuddy
 Nothing demotivates people like the equal treatment of unequals. When you hire a bozo and treat him the same as a rock star, it deflates the rock star.|Joe Kraus
-Industry does not care. They only hire people because it hasn't been automated yet. So, don't talk about decency and ethics, we cannot afford it and remain in business.|Zeitgeist
 There is only one success – to be able to spend your life in your own way.|Christopher Morley
 If you’re not living life on the edge, you’re taking up too much space.|Jim Whittaker
 The road to success is always under construction.|Arnold Palmer
@@ -297,18 +296,15 @@ If the king does not lead, how can he expect his subordinates to follow.|Lelouch
 World is a game and people are just mere pawns.|Lelouch vi Britannia
 A man who has not mastered the use of the mask can never prevail.|Schneizel el Britannia
 Mankind's history is war. Peace is an illusion.|Schneizel el Britannia
-The true nature of people is this, they want to be controlled. By their nation, their religion, their traditions and figures of grand authority. Above all the emperor must play his part.|Schneizel el Britannia
 The biggest human flaw is that we're so pitifully fragile in our bodies, our hearts, and our relationships with each other.|Lloyd Asplund
 You need to make a choice, do you abandon science to preserve your heart, or abandon your heart and sacrifice yourself to science?|Lloyd Asplund
 The people who don't like what they've got are the same people who invent things, and make discoveries, and advance civilization. They made airplanes 'cause they wanted to fly, and they made cars and trains because they wanted to go from place to place. It's as simple as that. The only reason that we've got all the things we have now is because a certain group of people got together and used their talent or imagination or genius or whatever to make it all possible. Ordinary people are probably better off living their ordinary little lives in an ordinary manner.|Kyon
 There's no such thing as love. It's just a pathetic notion that you lesser life forms cling to so you don't feel so alone.|Emperor Zing
-A skilled dictator is much more beneficial to humanity than a democracy of ignorant people.|Gene Smilas
 Once you have your dream what will you do with your life? The pleasure of a dream is that its a fantasy. If it happens it was never a dream.|FMA
 Water: 35 liters, Carbon: 20 kg, Ammonia: 4 liters, Lime:1.5 kg, Phosphrus: 800 g, salt: 250g, saltpeter:100g, Sulfer: 80g, Fluorine: 7.5 g, iron: 5.6 g, Silicon: 3g, and 15 other elements in small quantities.... thats the total chemical makeup of the average adult body. Modern science knows all of this, but there has never been a single example of succesful human trasmutation. It's like there's some missing ingredient..... Scientists have been trying to find it for hundreds of years, pouring tons of money into research, and to this day they don't have a theory. For that matter, the elements found in a human being is all junk that you can buy in any market with a child's allowence. Humans are pretty cheaply made.|Edward Elric
 People can say there is a balance, a logic that everything happens for a reason... But the truth is far less designed. No matter how hard you work, when you die, you die. Some spend their entire life trying to scratch their way to the top, and still die in poverty. While others are born into wealth without ever working at all. It's a cruel and random world. And yet the chaos is all so beautiful.|Dante
 I just find phones distracting. I can't stand when people's cell phones are ringing when I'm trying to talk.|L
 However gifted you are, you alone can't change the world.|L
-This world is rotten, and those who are making it rot deserve to die. Someone has to do it, so why not me? Even if it means sacrificing my own mind and soul, it's worth it. Because the world... can't go on like this. I wonder... what if someone else had picked up this notebook? Is there anyone out there other than me who'd be willing to eliminate the vermin from the world? If I don't do it, then who will? That's just it: there's no one. But I can do it. In fact, I'm the only one who can. I'll do it. Using the Death Note, I'll change the world.|Light Yagami
 There's only one certainty in life. A strong man stands above and conquers all!|Vegeta
 Once you question your beliefs it's all over.|Naruto
 
@@ -340,7 +336,6 @@ You must begin by gaining power over yourself; then another; then a group, an or
 Believing in something is easy, doing something about it is hard.|Ali G
 The simple truth is, the people want to be protected, they just don't want to know how.|Roger McCourt
 I don't want to be a product of my environment. I want my environment to be a product of me.|Frank Costello
-There is no good and evil, there is only power, and those too weak to seek it.|Lord Voldemort
 The thing about smart mother fuckers is that sometimes, they sound like crazy mother fuckers to stupid mother fuckers.|Walking Dead
 The thing about a battle plan is, it only works if soldiers follow orders.|Dominic 
 You know what the romans did when they marched into a country? They gave the king a choice, join or die. Those who joined flourished with the empire. Those who didn't... Either way the romans took the country.|Dominic 
@@ -394,7 +389,6 @@ Analyzing humor is like dissecting a frog. Few people are interested and the fro
 | ------------- |:-------------:| 
 Those who don't learn from history are doomed to repeat it. Those who do learn from history are doomed to watch everyone else repeat it.|???
 Those who don't clear history are doomed to explain it.|u/C00kies4ever 
-Slavery was never abolished, it was only extended to include all the colors.|Tatyana’s Thoughts
 People’s happiness depends on their expectations, not their conditions.|???
 People desperately want to believe they are safe. They look for reasons why bad things happen so they can keep being safe. When bad things happen to someone who didn't "deserve" it or didn't do anything to cause it, this makes them realize it could happen to them too. This makes them feel afraid. Because they are afraid, they attack the thing that is causing the fear. Unfortunately, that means they attack the victim and not the perpetrator.|u/mnh5
 
@@ -435,6 +429,12 @@ You need to see like a designer and think like a backend developer.|Vikas Bhagav
   <tbody>
     <tr><td>I do not accept or acknowledge many of the established &#39;social rules&#39;. I view them as irrelevant noise.</td><td></td></tr>
     <tr><td>There is freedom of speech, but I cannot guarantee freedom after speech.</td><td></td></tr>
+    <tr><td>A skilled dictator is much more beneficial to humanity than a democracy of ignorant people.</td><td>Gene Smilas</td></tr>
+    <tr><td>The true nature of people is this, they want to be controlled. By their nation, their religion, their traditions and figures of grand authority. Above all the emperor must play his part.</td><td>Schneizel el Britannia</td></tr>
+    <tr><td>This world is rotten, and those who are making it rot deserve to die. Someone has to do it, so why not me? Even if it means sacrificing my own mind and soul, it&#39;s worth it. Because the world... can&#39;t go on like this. I wonder... what if someone else had picked up this notebook? Is there anyone out there other than me who&#39;d be willing to eliminate the vermin from the world? If I don&#39;t do it, then who will? That&#39;s just it: there&#39;s no one. But I can do it. In fact, I&#39;m the only one who can. I&#39;ll do it. Using the Death Note, I&#39;ll change the world.</td><td>Light Yagami</td></tr>
+    <tr><td>There is no good and evil, there is only power, and those too weak to seek it.</td><td>Lord Voldemort</td></tr>
+    <tr><td>Industry does not care. They only hire people because it hasn&#39;t been automated yet. So, don&#39;t talk about decency and ethics, we cannot afford it and remain in business.</td><td>Zeitgeist</td></tr>
+    <tr><td>Slavery was never abolished, it was only extended to include all the colors.</td><td>Tatyana’s Thoughts</td></tr>
   </tbody>
 </table>
 </details>
