@@ -1,0 +1,2 @@
+- Always read every Markdown file in `plan/` before starting website work. Treat that folder as the canonical project plan. Update the relevant file when project status, decisions, or milestones change.
+- Whenever a page is substantially updated, update its visible Last update date as part of the same change.

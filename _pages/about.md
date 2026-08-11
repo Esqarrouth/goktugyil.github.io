@@ -180,4 +180,4 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 
 Oh, and somewhere gathering dust, I also have an MS in Software Engineering from METU
 
-Last update: November 2021
+Last update: August 11, 2026
