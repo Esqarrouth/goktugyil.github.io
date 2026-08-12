@@ -39,6 +39,9 @@ If you have a list of all the things you shouldn't do, you can turn that into a 
 The easiest way to navigate a ship through a tight spot is to look at other shipwrecks and steer away from them.|Goku
 Don't take over the world, become a god by creating a world.|Goku
 The world doesn’t change itself.|Goku
+Some people are immune to buffs. They have a block-buffs debuff.|Goku
+You gotta let that energy out somehow, or you’ll be depressed or in jail. Best outlets: the gym, music, business, video games, and sports.|Goku
+People with a few days of knowledge often think they’ve found a genius idea. What they don’t consider is that people who have been building in the space for years have likely heard it a thousand times already. If it were easy, it would already be implemented.|Goku
 Don’t follow ideologies. Don’t try to change people. Change yourself: your thinking and habits.<br><br>Don’t create conflict. Become peaceful, remain skeptical, seek truth, and bring people together.|Goku
 Modern society leaves you no time for self-improvement or real education.|Goku
 Do not compare yourself to others. If you do so, you are insulting yourself.|Unknown
@@ -534,6 +537,7 @@ You were born free. The aim is to die free from everything imposed upon you sinc
   <thead><tr><th>Quote</th><th>Author</th></tr></thead>
   <tbody>
     <tr><td>I do not accept or acknowledge many of the established &#39;social rules&#39;. I view them as irrelevant noise.</td><td></td></tr>
+    <tr><td>As an Ottoman bloodline, you’re meant for fighting, war, glory, murder, conquest, death, razing, destruction, and pillaging.</td><td>Goku</td></tr>
     <tr><td>There is freedom of speech, but I cannot guarantee freedom after speech.</td><td></td></tr>
     <tr><td>A skilled dictator is much more beneficial to humanity than a democracy of ignorant people.</td><td>Gene Smilas</td></tr>
     <tr><td>The true nature of people is this, they want to be controlled. By their nation, their religion, their traditions and figures of grand authority. Above all the emperor must play his part.</td><td>Schneizel el Britannia</td></tr>
