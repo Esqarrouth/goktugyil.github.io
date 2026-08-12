@@ -1,3 +1,4 @@
+- First read `/Users/goku/Library/CloudStorage/Dropbox/Mac (3)/Documents/Code/goku-agents/AGENTS.md`, then follow these project-specific rules.
 - Always read every Markdown file in `plan/` before starting website work. Treat that folder as the canonical project plan. Update the relevant file when project status, decisions, or milestones change.
 - Whenever a page is substantially updated, update its visible Last update date as part of the same change.
 - Quote reviews: work one existing category at a time in batches of at most 15, show the exact quote, attribution, and keep/move/context-dependent/remove recommendation before editing, preserve intentional attributions unless explicitly approved otherwise, and request approval before creating a category.
