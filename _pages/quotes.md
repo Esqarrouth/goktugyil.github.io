@@ -10,6 +10,7 @@ narrow: true
 <a href="#business">Business Quotes</a>  
 <a href="#tech">Tech Quotes</a>  
 <a href="#anime">Anime Quotes</a>  
+<a href="#game">Game Quotes</a><br>
 <a href="#movie">Movie Quotes</a>  
 <a href="#book">Book Quotes</a>  
 <a href="#humour">Humour Quotes</a>  
@@ -36,7 +37,7 @@ To reach your dreams, you must sacrifice everything else you don't need.|Goku
 Victory is worth the sacrifice.|Goku
 If you have a list of all the things you shouldn't do, you can turn that into a recipe for succeeding just by negating.|Paul Graham, The 18 Mistakes That Kill Startups
 The easiest way to navigate a ship through a tight spot is to look at other shipwrecks and steer away from them.|Goku
-Become a god by creating a world.|Goku
+Don't take over the world, become a god by creating a world.|Goku
 The world doesn’t change itself.|Goku
 Don’t follow ideologies. Don’t try to change people. Change yourself: your thinking and habits.<br><br>Don’t create conflict. Become peaceful, remain skeptical, seek truth, and bring people together.|Goku
 Modern society leaves you no time for self-improvement or real education.|Goku
@@ -220,7 +221,7 @@ The iron rule in life, in a historical sense, is that if you’re lucky enough t
 Inside every cynical person is a disappointed idealist.|George Carlin
 For any day that stings, two better days it brings.|Joey DeMaio, “Master of the Wind”
 The opposite of play isn’t work. It’s depression.|Brian Sutton-Smith
-The wise man is self-sufficient. Nevertheless, he desires friends, neighbours, and associates, no matter how much he is sufficient unto himself.|Seneca, Moral Letters 9.3
+The wise man is self-sufficient. Nevertheless, he desires friends, neighbours, and associates, no matter how much he is sufficient unto himself.|Seneca, Moral Letters
 We were the prisoners of our own fantasy.|Blind Guardian, “Valhalla”
 Extraordinary claims require extraordinary evidence.|Carl Sagan, Broca’s Brain
 You’re unhappy because you’re not healthy enough to be happy. Your body is craving something all the time. How are you psychologically emotionally ever going to be happy unless you can please the body?|Goku
@@ -391,6 +392,15 @@ If we only focus on making the best moves, we will never get the better of our o
 
 ---
 
+## <a id="game">Game Quotes</a>
+
+| Quote        | Author           |
+| ------------- |:-------------:|
+There is no "good" or "evil", Only the truly powerful will survive!|Esqarrouth
+Meaning of life: Craft stuff, kill noobs.|Esqarrouth
+
+---
+
 ## <a id="movie">Movie Quotes</a>
 
 | Quote        | Author           | 
@@ -470,7 +480,6 @@ Defining and analyzing humor is a pastime of humorless people.| Robert Benchley
 Analyzing humor is like dissecting a frog. Few people are interested and the frog dies of it. | E. B. White
 Don’t know the key to success, but the key to failure is trying to please everybody.|Bill Cosby
 Software is like sex; it’s better when it’s free.|Linus Torvalds (attributed)
-Meaning of life: craft stuff, kill noobs.|Goku
 
 ---
 
@@ -495,7 +504,7 @@ I think better, because I think as the machine that I am.|Eray Ozkural
 I like ur hard nose but ur personal expectation of urself can't always hold true to others. In summation. NAPALM. It's my fav leadership acronym Not All People Are Like Me. U r good. Others not so much. Pick ur battles.|Brutis37/Kegan
 Şirketleşmek için uğraşmayın, yaptığınız iş sizi şirketleştirsin.|Abdurrahman Nakipoğlu
 You need to see like a designer and think like a backend developer.|Vikas Bhagavatula
-PMF tutturamayana kız yok burada.|Berkay
+Product Market Fit tutturamayana kız yok burada.|Berkay
 Fotoğraf çeken nerdler Apple'da, fotoğraf çekmeyen nerdler Google'da.|Furkan
 Koca gemiler batıyor kıyı kenarlarında, kanolar geçiyor okyanusları. Mesele, dalgalarla boğuşmayı değil, onları tanımayı öğrenmekte.|Çağrı Mumcuoğlu
 You were born free. The aim is to die free from everything imposed upon you since birth.|Ada
