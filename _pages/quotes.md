@@ -537,7 +537,7 @@ You were born free. The aim is to die free from everything imposed upon you sinc
   <thead><tr><th>Quote</th><th>Author</th></tr></thead>
   <tbody>
     <tr><td>I do not accept or acknowledge many of the established &#39;social rules&#39;. I view them as irrelevant noise.</td><td></td></tr>
-    <tr><td>As an Ottoman bloodline, you’re meant for fighting, war, glory, murder, conquest, death, razing, destruction, and pillaging.</td><td>Goku</td></tr>
+    <tr><td>As an Ottoman bloodline, you’re meant for fighting, war, glory, murder, conquest, glory, death, razing, destruction, and pillaging. You gotta let that energy out properly or you’ll either be depressed or in jail. Best ways: the gym, music, business, video games, and sports.</td><td>Goku</td></tr>
     <tr><td>There is freedom of speech, but I cannot guarantee freedom after speech.</td><td></td></tr>
     <tr><td>A skilled dictator is much more beneficial to humanity than a democracy of ignorant people.</td><td>Gene Smilas</td></tr>
     <tr><td>The true nature of people is this, they want to be controlled. By their nation, their religion, their traditions and figures of grand authority. Above all the emperor must play his part.</td><td>Schneizel el Britannia</td></tr>
