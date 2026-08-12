@@ -260,7 +260,7 @@ Focused, hard work is the real key to success. Keep your eyes on the goal, and j
 If you trust in yourself. . .and believe in your dreams. . .and follow your star. . . you'll still get beaten by people who spent their time working hard and learning things and weren't so lazy.|Terry Pratchett
 Success is working on things I enjoy with people I like, feeling free to choose what I work on, and having enough money to live without financial stress.|Adapted from Josh Kaufman, The Personal MBA
 Start with a shitty version, then update like a madman.|Goku
-There are only two problems in life: you know what you want but don’t know how to get it, or you don’t know what you want.|Steve Snyder, quoted by David Allen
+There are only two problems in life: you know what you want but don’t know how to get it, or you don’t know what you want.|Steve Snyder, quoted by David Allen, Getting Things Done
 
 ---
 
