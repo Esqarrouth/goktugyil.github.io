@@ -10,7 +10,7 @@ narrow: true
   - I've been working on a Company OS project and trying to move all operating processes into AI.
 - Recently, I've been working on a Personal OS.
 - Lately, I've mostly been playing <a href="https://blog.colonist.io/announcing-colonist-rush/">Colonist Rush</a>.
-- I've been improving my health, mainly by cutting body fat.
+- I've been improving my health, lately by cutting body fat and strengthening tendons.
 - I've been living in different places as a <a href="https://nomads.com/@goktugyil">digital nomad</a>, mostly exploring Southeast Asia at the moment.
 
 ~~I'm open to~~ I crave any and all sorts of feedback for every aspect and decision of my life. Please tell me what I need to hear, increase my awareness and make me wiser.
@@ -184,4 +184,4 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 
 Oh, and somewhere gathering dust, I also have an MS in Software Engineering from METU
 
-Last update: August 11, 2026
+Last update: August 12, 2026
