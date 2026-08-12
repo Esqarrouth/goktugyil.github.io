@@ -15,6 +15,7 @@ narrow: true
 <a href="#humour">Humour Quotes</a>  
 <a href="#internet">Internet Quotes</a>  
 <a href="#friend">Friend Quotes</a>  
+<a href="#dangerous-ideas">Dangerous Ideas</a>
 
 ---
 
@@ -514,8 +515,9 @@ You were born free. The aim is to die free from everything imposed upon you sinc
 
 
 
-<details id="context-dependent-quotes">
-<summary>Context-dependent quotes</summary>
+---
+
+## <a id="dangerous-ideas">Dangerous Ideas</a>
 
 <p>Saved for context or discussion. Inclusion does not mean endorsement.</p>
 
@@ -536,6 +538,7 @@ You were born free. The aim is to die free from everything imposed upon you sinc
     <tr><td>My relationship to power and authority is that I&#39;m all for it. ... Ninety-five percent of the people in the world need to be told what to do and how to behave.</td><td>Arnold Schwarzenegger</td></tr>
   </tbody>
 </table>
-</details>
+
+---
 
 Last update: August 12, 2026
