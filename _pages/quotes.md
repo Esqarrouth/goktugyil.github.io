@@ -50,6 +50,8 @@ The laws of nature are greater than the laws of man.|Goku
 The best lessons come from the worst pain.|Goku
 Supplements are medicine being sold to you to make up for your nutritionally deficient diet.|Goku
 The most efficient system in your body is your gut feeling during social interactions.|Goku
+Changing the system and society is always harder than changing yourself.|Alex Cortes (attributed)
+For a change to happen in the world, someone has to pay.|Garry Tan (attributed)
 
 ---
 
@@ -226,6 +228,7 @@ It doesn’t matter how beautiful your theory is, it doesn’t matter how smart 
 Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.|William Blake, The Marriage of Heaven and Hell
 The only person who can truly play is the one who arrives whole. As long as you need something from it, you are its prisoner.|Unknown
 Just because you do not take an interest in politics doesn’t mean politics won’t take an interest in you.|Pericles (attributed)
+He cannot be held to the same standard as you and I.|Howard Hughes’s lawyer (attributed)
 
 ---
 
@@ -535,4 +538,4 @@ You were born free. The aim is to die free from everything imposed upon you sinc
 </table>
 </details>
 
-Last update: August 11, 2026
+Last update: August 12, 2026
