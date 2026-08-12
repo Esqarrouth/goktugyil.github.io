@@ -40,7 +40,6 @@ The easiest way to navigate a ship through a tight spot is to look at other ship
 Don't take over the world, become a god by creating a world.|Goku
 The world doesn’t change itself.|Goku
 Some people are immune to buffs. They have a block-buffs debuff.|Goku
-You gotta let that energy out somehow, or you’ll be depressed or in jail. Best outlets: the gym, music, business, video games, and sports.|Goku
 People with a few days of knowledge often think they’ve found a genius idea. What they don’t consider is that people who have been building in the space for years have likely heard it a thousand times already. If it were easy, it would already be implemented.|Goku
 Don’t follow ideologies. Don’t try to change people. Change yourself: your thinking and habits.<br><br>Don’t create conflict. Become peaceful, remain skeptical, seek truth, and bring people together.|Goku
 Modern society leaves you no time for self-improvement or real education.|Goku
