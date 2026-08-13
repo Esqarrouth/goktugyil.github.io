@@ -35,7 +35,7 @@ He who is only an athlete is too crude, too vulgar, too much a savage. He who is
 You can't classify me as black or white. I am something much greater. I am gray.|Goku
 To reach your dreams, you must sacrifice everything else you don't need.|Goku
 Victory is worth the sacrifice.|Goku
-If you have a list of all the things you shouldn't do, you can turn that into a recipe for succeeding just by negating.|Paul Graham, The 18 Mistakes That Kill Startups
+If you have a list of all the things you shouldn't do, you can turn that into a recipe for succeeding just by negating.|Paul Graham
 The easiest way to navigate a ship through a tight spot is to look at other shipwrecks and steer away from them.|Goku
 Don't take over the world, become a god by creating a world.|Goku
 The world doesn’t change itself.|Goku
@@ -103,7 +103,7 @@ A coward dies a thousand times, a soldier dies but once.|2pac
 It is no measure of health to be well adjusted to a profoundly sick society.|Jiddu Krishnamurti
 If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas.|George Bernard Shaw
 A developed country is not a place where the poor have cars. It’s where the rich use public transport.|Enrique Penalosa
-At the Fed level, libertarian; at the state level, Republican; at the local level, Democrat; and at the family and friends level, a socialist.|Nassim Nicholas Taleb, Skin in the Game
+At the Fed level, libertarian; at the state level, Republican; at the local level, Democrat; and at the family and friends level, a socialist.|Nassim Nicholas Taleb
 When given a choice, choose the thing that scares you a little. If it's 100% safe, it is holding you back.|Jeff Atwood
 If you're going through hell, keep going.|Winston Churchill
 the brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something. Because the brick walls are there to stop people who don't want it badly enough.|Randy Pausch
@@ -204,32 +204,32 @@ Tactics is knowing what to do when there is something to do; strategy is knowing
 No man can get rich himself unless he enriches others.|Earl Nightingale, The Strangest Secret
 A mind is like a parachute. It doesn’t work if it is not open.|Unknown
 You can’t go back and make a new start, but you can start right now and make a brand new ending.|James R. Sherman, Rejection
-In my whole life, I have known no wise people, over a broad subject-matter area, who didn’t read all the time. None, zero.|Charlie Munger, Berkshire Hathaway Annual Meeting (2004)
-Only a fool learns from his own mistakes. The wise man learns from the mistakes of others.|Otto von Bismarck (paraphrase)
-I live in that solitude which is painful in youth, but delicious in the years of maturity.|Albert Einstein, Self-Portrait, Out of My Later Years
-The first principle is that you must not fool yourself, and you are the easiest person to fool.|Richard Feynman, Cargo Cult Science
-I myself am a question which is addressed to the world, and I must communicate my answer.|Carl Jung, Memories, Dreams, Reflections
+In my whole life, I have known no wise people, over a broad subject-matter area, who didn’t read all the time. None, zero.|Charlie Munger
+Only a fool learns from his own mistakes. The wise man learns from the mistakes of others.|Otto von Bismarck
+I live in that solitude which is painful in youth, but delicious in the years of maturity.|Albert Einstein
+The first principle is that you must not fool yourself, and you are the easiest person to fool.|Richard Feynman
+I myself am a question which is addressed to the world, and I must communicate my answer.|Carl Jung
 To be absolutely certain about something, one must know everything or nothing about it.|Unknown
 If you’re lonely when you’re alone, you’re in bad company.|Jean-Paul Sartre
 A wise man will be master of his mind; a fool will be its slave.|Publilius Syrus
 It is not death that a man should fear, but he should fear never beginning to live.|Marcus Aurelius, Meditations
 Intelligence is something we are born with. Thinking is a skill that must be learned.|Edward de Bono
-The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.|F. Scott Fitzgerald, The Crack-Up
+The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.|F. Scott Fitzgerald
 Gratitude is not only the greatest of virtues, but the parent of all the others.|Cicero, Pro Plancio
-To do two things at once is to do neither.|Publilius Syrus, Moral Sayings 7
+To do two things at once is to do neither.|Publilius Syrus
 A tree is judged by its fruit.|Jesus
-A man who dares to waste one hour of time has not discovered the value of life.|Charles Darwin, letter to Susan Darwin (1836)
-The iron rule in life, in a historical sense, is that if you’re lucky enough to be in a leadership position eventually you have to pass the baton.|Charlie Munger, CNBC interview (2010)
+A man who dares to waste one hour of time has not discovered the value of life.|Charles Darwin
+The iron rule in life, in a historical sense, is that if you’re lucky enough to be in a leadership position eventually you have to pass the baton.|Charlie Munger
 Inside every cynical person is a disappointed idealist.|George Carlin
 For any day that stings, two better days it brings.|Joey DeMaio, “Master of the Wind”
 The opposite of play isn’t work. It’s depression.|Brian Sutton-Smith
 The wise man is self-sufficient. Nevertheless, he desires friends, neighbours, and associates, no matter how much he is sufficient unto himself.|Seneca, Moral Letters
 We were the prisoners of our own fantasy.|Blind Guardian, “Valhalla”
-Extraordinary claims require extraordinary evidence.|Carl Sagan, Broca’s Brain
+Extraordinary claims require extraordinary evidence.|Carl Sagan
 You’re unhappy because you’re not healthy enough to be happy. Your body is craving something all the time. How are you psychologically emotionally ever going to be happy unless you can please the body?|Goku
 A modern disease related to old fashion food is the most ludicrous thing I’ve ever heard in my life.|Unknown
-It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn’t agree with experiment, it’s wrong.|Richard Feynman, “Seeking New Laws” (popular paraphrase)
-Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.|William Blake, The Marriage of Heaven and Hell
+It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn’t agree with experiment, it’s wrong.|Richard Feynman
+Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.|William Blake
 The only person who can truly play is the one who arrives whole. As long as you need something from it, you are its prisoner.|Unknown
 Just because you do not take an interest in politics doesn’t mean politics won’t take an interest in you.|Pericles
 He cannot be held to the same standard as you and I.|Howard Hughes’s lawyer
