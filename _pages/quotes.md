@@ -444,7 +444,7 @@ As one approaches the end, one begins to see life as it truly is.|Hercule Poirot
 Everything before the word “but” is horseshit.|Jon Snow, Game of Thrones
 There’s an old saying in show business: The show must go wrong. Everything always goes wrong, and you just have to deal with it.|Andy Dwyer, Parks and Recreation
 The nature of life is not permanence, but flux.|Mr. Carson, Downton Abbey
-Mister Worf, villains who twirl their moustaches are easy to spot. Those who clothe themselves in good deeds are well camouflaged.|Jean-Luc Picard, Star Trek: The Next Generation, “The Drumhead”
+Villains who twirl their moustaches are easy to spot. Those who clothe themselves in good deeds are well camouflaged.|Jean-Luc Picard, Star Trek: TNG, “The Drumhead”
 Reality is a construct of simple-minded fools who can’t function in the absence of boundaries.|Adam Soong, Star Trek: Picard, “Mercy”
 
 ---
