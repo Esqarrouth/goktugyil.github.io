@@ -215,7 +215,7 @@ A wise man will be master of his mind; a fool will be its slave.|Publilius Syrus
 It is not death that a man should fear, but he should fear never beginning to live.|Marcus Aurelius, Meditations 12.1 (paraphrase)
 Intelligence is something we are born with. Thinking is a skill that must be learned.|Edward de Bono
 The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.|F. Scott Fitzgerald, The Crack-Up
-Gratitude is not only the greatest of virtues, but the parent of all the others.|Cicero, Pro Plancio 33.80 (modern paraphrase)
+Gratitude is not only the greatest of virtues, but the parent of all the others.|Cicero, Pro Plancio
 To do two things at once is to do neither.|Publilius Syrus, Moral Sayings 7
 A tree is judged by its fruit.|Jesus
 A man who dares to waste one hour of time has not discovered the value of life.|Charles Darwin, letter to Susan Darwin (1836)
