@@ -128,7 +128,7 @@ Cause two suckers can't agree on something a thousand motherfuckers die for noth
 All men have fears, but the brave put down their fears and go forward, sometimes to death, but always to victory.|Dale Carnegie
 The present is theirs; the future, for which I really worked, is mine.|Nikola Tesla
 One thing I have seen over and over again in life is that there is virtually no correlation between intelligence and common sense.|Vincent Bugliosi
-Instinct is something which transcends knowledge.|Nikola Tesla, My Inventions
+Instinct is something which transcends knowledge.|Nikola Tesla
 If you want to shine like the sun, first burn like the sun.|A. P. J. Abdul Kalam
 The world is a comedy to those that think; a tragedy to those that feel.|Horace Walpole
 Language is humanity’s oldest, and possibly best, growth hack. The right words, in the right order, at the right time, can do wonders.|Kissmetrics
@@ -193,17 +193,17 @@ It is remarkable how much long-term advantage people like us have gotten by tryi
 Strategy without tactics is the slowest route to victory. Tactics without strategy are the noise before defeat.|Sun Tzu
 I never allow myself to have an opinion on anything that I don’t know the other side’s argument better than they do.|Charlie Munger
 The phrase, “I can’t,” denotes a lack of investment as opposed to a lack of potential or ability.|Rob Jones
-So the first biological lesson of history is that life is competition. Competition is not only the life of trade, it is the trade of life.|Will and Ariel Durant, The Lessons of History
-Inequality is not only natural and inborn, it grows with the complexity of civilization.|Will and Ariel Durant, The Lessons of History
-Freedom and equality are sworn and everlasting enemies, and when one prevails the other dies.|Will and Ariel Durant, The Lessons of History
-The conservative who resists change is as valuable as the radical who proposes it.|Will and Ariel Durant, The Lessons of History
-Generations of men establish a growing mastery over the earth, but they are destined to become fossils in its soil.|Will and Ariel Durant, The Lessons of History
-History reports that the men who can manage men manage the men who can manage only things, and the men who can manage money manage all.|Will and Ariel Durant, The Lessons of History
+So the first biological lesson of history is that life is competition. Competition is not only the life of trade, it is the trade of life.|Will and Ariel Durant
+Inequality is not only natural and inborn, it grows with the complexity of civilization.|Will and Ariel Durant
+Freedom and equality are sworn and everlasting enemies, and when one prevails the other dies.|Will and Ariel Durant
+The conservative who resists change is as valuable as the radical who proposes it.|Will and Ariel Durant
+Generations of men establish a growing mastery over the earth, but they are destined to become fossils in its soil.|Will and Ariel Durant
+History reports that the men who can manage men manage the men who can manage only things, and the men who can manage money manage all.|Will and Ariel Durant
 If you’re not humble, life will visit humbleness upon you.|Mike Tyson
 Tactics is knowing what to do when there is something to do; strategy is knowing what to do when there is nothing to do.|Savielly Tartakower
-No man can get rich himself unless he enriches others.|Earl Nightingale, The Strangest Secret
+No man can get rich himself unless he enriches others.|Earl Nightingale
 A mind is like a parachute. It doesn’t work if it is not open.|Unknown
-You can’t go back and make a new start, but you can start right now and make a brand new ending.|James R. Sherman, Rejection
+You can’t go back and make a new start, but you can start right now and make a brand new ending.|James R. Sherman
 In my whole life, I have known no wise people, over a broad subject-matter area, who didn’t read all the time. None, zero.|Charlie Munger
 Only a fool learns from his own mistakes. The wise man learns from the mistakes of others.|Otto von Bismarck
 I live in that solitude which is painful in youth, but delicious in the years of maturity.|Albert Einstein
@@ -221,10 +221,10 @@ A tree is judged by its fruit.|Jesus
 A man who dares to waste one hour of time has not discovered the value of life.|Charles Darwin
 The iron rule in life, in a historical sense, is that if you’re lucky enough to be in a leadership position eventually you have to pass the baton.|Charlie Munger
 Inside every cynical person is a disappointed idealist.|George Carlin
-For any day that stings, two better days it brings.|Joey DeMaio, “Master of the Wind”
+For any day that stings, two better days it brings.|Joey DeMaio
 The opposite of play isn’t work. It’s depression.|Brian Sutton-Smith
 The wise man is self-sufficient. Nevertheless, he desires friends, neighbours, and associates, no matter how much he is sufficient unto himself.|Seneca, Moral Letters
-We were the prisoners of our own fantasy.|Blind Guardian, “Valhalla”
+We were the prisoners of our own fantasy.|Blind Guardian
 Extraordinary claims require extraordinary evidence.|Carl Sagan
 You’re unhappy because you’re not healthy enough to be happy. Your body is craving something all the time. How are you psychologically emotionally ever going to be happy unless you can please the body?|Goku
 A modern disease related to old fashion food is the most ludicrous thing I’ve ever heard in my life.|Unknown
