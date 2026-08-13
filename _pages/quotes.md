@@ -54,8 +54,8 @@ The laws of nature are greater than the laws of man.|Goku
 The best lessons come from the worst pain.|Goku
 Supplements are medicine being sold to you to make up for your nutritionally deficient diet.|Goku
 The most efficient system in your body is your gut feeling during social interactions.|Goku
-Changing the system and society is always harder than changing yourself.|Alex Cortes (attributed)
-For a change to happen in the world, someone has to pay.|Garry Tan (attributed)
+Changing the system and society is always harder than changing yourself.|Alex Cortes
+For a change to happen in the world, someone has to pay.|Garry Tan
 
 ---
 
@@ -231,8 +231,8 @@ A modern disease related to old fashion food is the most ludicrous thing I’ve 
 It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn’t agree with experiment, it’s wrong.|Richard Feynman, “Seeking New Laws” (popular paraphrase)
 Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.|William Blake, The Marriage of Heaven and Hell
 The only person who can truly play is the one who arrives whole. As long as you need something from it, you are its prisoner.|Unknown
-Just because you do not take an interest in politics doesn’t mean politics won’t take an interest in you.|Pericles (attributed)
-He cannot be held to the same standard as you and I.|Howard Hughes’s lawyer (attributed)
+Just because you do not take an interest in politics doesn’t mean politics won’t take an interest in you.|Pericles
+He cannot be held to the same standard as you and I.|Howard Hughes’s lawyer
 
 ---
 
@@ -481,7 +481,7 @@ Humor is a rubber sword - it allows you to make a point without drawing blood. |
 Defining and analyzing humor is a pastime of humorless people.| Robert Benchley 
 Analyzing humor is like dissecting a frog. Few people are interested and the frog dies of it. | E. B. White
 Don’t know the key to success, but the key to failure is trying to please everybody.|Bill Cosby
-Software is like sex; it’s better when it’s free.|Linus Torvalds (attributed)
+Software is like sex; it’s better when it’s free.|Linus Torvalds
 
 ---
 
