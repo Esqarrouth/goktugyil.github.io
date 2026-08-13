@@ -4,32 +4,32 @@ permalink: quotes.html
 narrow: true
 ---
 
-<a href="#wise">Wise Quotes</a>  
-<a href="#famous">Famous Quotes</a>  
-<a href="#work">Work Quotes</a>  
-<a href="#business">Business Quotes</a>  
-<a href="#tech">Tech Quotes</a>  
-<a href="#anime">Anime Quotes</a>  
+<a href="#wise">Wise Quotes</a><br>
+<a href="#famous">Famous Quotes</a><br>
+<a href="#work">Work Quotes</a><br>
+<a href="#business">Business Quotes</a><br>
+<a href="#tech">Tech Quotes</a><br>
+<a href="#anime">Anime Quotes</a><br>
 <a href="#game">Game Quotes</a><br>
-<a href="#movie">Movie Quotes</a>  
-<a href="#book">Book Quotes</a>  
-<a href="#humour">Humour Quotes</a>  
-<a href="#internet">Internet Quotes</a>  
-<a href="#friend">Friend Quotes</a>  
+<a href="#movie">Movie Quotes</a><br>
+<a href="#book">Book Quotes</a><br>
+<a href="#humour">Humour Quotes</a><br>
+<a href="#internet">Internet Quotes</a><br>
+<a href="#friend">Friend Quotes</a><br>
 <a href="#dangerous-ideas">Dangerous Ideas</a>
 
 ---
 
 ## <a id="wise">Wise Quotes</a>
 
-| Quote        | Author           | 
-| ------------- |:-------------:| 
+|Quote|Author|
+|-------------|:-------------:|
 Simplicity is the ultimate sophistication.|Leonardo da Vinci
 Learning never exhausts the mind.|Leonardo da Vinci
 The noblest pleasure is the joy of understanding.|Leonardo da Vinci
 Nothing strengthens authority so much as silence.|Leonardo da Vinci
 How ridiculous and how strange to be surprised at anything which happens in life.|Marcus Aurelius
-Ideologies separate us. Dreams and anguish bring us together. | Eugene Ionesco
+Ideologies separate us. Dreams and anguish bring us together.|Eugene Ionesco
 The happiness of your life depends upon the quality of your thoughts.|Marcus Aurelius, Meditations
 He who is only an athlete is too crude, too vulgar, too much a savage. He who is a scholar only is too soft, too effeminate. The ideal citizen is the scholar-athlete, the man of thought and the man of action.|Plato
 You can't classify me as black or white. I am something much greater. I am gray.|Goku
@@ -61,8 +61,8 @@ For a change to happen in the world, someone has to pay.|Garry Tan
 
 ## <a id="famous">Famous Quotes</a>
 
-| Quote        | Author           | 
-| ------------- |:-------------:| 
+|Quote|Author|
+|-------------|:-------------:|
 It’s better to walk alone, than with a crowd going in the wrong direction.|Diane Grant
 The one who follows the crowd will usually go no further than the crowd.|Albert Einstein
 If we wanna change we gotta fight for it, aint nobody gonna give it to us, we just gonna have to take it.|2pac
@@ -91,13 +91,13 @@ I like to find (a) simple solutions (b) to overlooked problems (c) that actually
 When you find something you can't say, what do you do with it? My advice is, don't say it. Or at least, pick your battles. ... Argue with idiots, and you become an idiot. ... The most important thing is to be able to think what you want, not to say what you want.|Paul Graham
 In every period of history, people believe things that were just ridiculous, and believe them so strongly that you would have gotten in terrible trouble for saying otherwise. ... It's tantalizing to think we believe things that people in the future will find ridiculous. What WOULD someone coming back to visit us in a time machine have to be careful not to say?|Paul Graham
 The people you can say heretical things to without getting jumped on are also the most interesting to know.|Paul Graham
-The statements that make people mad are the ones they worry might be believed. I suspect the statements that make people are maddest are those they worry might be true.|Paul Graham
-Its hard to do a really good job on anything you don't think about in the shower.|Paul Graham
+The statements that make people mad are the ones they worry might be believed. I suspect the statements that make people maddest are those they worry might be true.|Paul Graham
+It’s hard to do a really good job on anything you don't think about in the shower.|Paul Graham
 In an artificial world, only extremists live naturally.|Paul Graham
 I've been surprised again and again by just how much more important persistence is than raw intelligence.|Paul Graham
 We become what we behold. We shape our tools and then our tools shape us.|Marshall McLuhan
 In times of change learners inherit the earth; while the learned find themselves beautifully equipped to deal with a world that no longer exists.|Eric Hoffer
-I want to grow. I want to be better. You Grow. We all grow. We're made to grow. You either evolve or you disappear.|2pac
+I want to grow. I want to be better. You grow. We all grow. We're made to grow. You either evolve or you disappear.|2pac
 If you can make it through the night, there's a brighter day.|2pac
 A coward dies a thousand times, a soldier dies but once.|2pac
 It is no measure of health to be well adjusted to a profoundly sick society.|Jiddu Krishnamurti
@@ -106,10 +106,10 @@ A developed country is not a place where the poor have cars. It’s where the ri
 At the Fed level, libertarian; at the state level, Republican; at the local level, Democrat; and at the family and friends level, a socialist.|Nassim Nicholas Taleb
 When given a choice, choose the thing that scares you a little. If it's 100% safe, it is holding you back.|Jeff Atwood
 If you're going through hell, keep going.|Winston Churchill
-the brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something. Because the brick walls are there to stop people who don't want it badly enough.|Randy Pausch
+The brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something. Because the brick walls are there to stop people who don't want it badly enough.|Randy Pausch
 War does not determine who is right - only who is left.|Bertrand Russell
 A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.|Lazarus Long
-Life isn't about finding yourself it is about creating yourself.|B.Shaw
+Life isn't about finding yourself; it is about creating yourself.|George Bernard Shaw
 In order to survive got to learn to live with regrets, On the rise to the top many drop, don’t forget.|Jay-Z
 Persistence is very important. You should not give up unless you are forced to give up.|Elon Musk
 It’s OK to have your eggs in one basket as long as you control what happens to that basket.|Elon Musk
@@ -123,7 +123,7 @@ I could either watch it happen or be a part of it.|Elon Musk
 If you go back a few hundred years, what we take for granted today would seem like magic – being able to talk to people over long distances, to transmit images, flying, accessing vast amounts of data like an oracle. These are all things that would have been considered magic a few hundred years ago.|Elon Musk
 Always listen to the experts. They'll tell you what can't be done, and why. Then do it.|Robert A. Heinlein
 The ways of God and government and girls are all mysterious, and it is not given to mortal man to understand them.|Robert A. Heinlein
-Nothing is so dangerous to the progress of the human mind than to assume that our views of science are ultimate. That there are no mysteries in nature, that our triumphs are complete, and that there are no new worlds to conquer.|Humphry Davy
+Nothing is so dangerous to the progress of the human mind as to assume that our views of science are ultimate. That there are no mysteries in nature, that our triumphs are complete, and that there are no new worlds to conquer.|Humphry Davy
 Cause two suckers can't agree on something a thousand motherfuckers die for nothing|Geto Boys
 All men have fears, but the brave put down their fears and go forward, sometimes to death, but always to victory.|Dale Carnegie
 The present is theirs; the future, for which I really worked, is mine.|Nikola Tesla
@@ -148,47 +148,47 @@ If knowledge is power, and its application your will, then wisdom is the sum of 
 A word to the wise is sufficient.|???
 Vision without action is daydreaming and action without vision is a nightmare.|???
 Entrepreneurship is living a few years of your life like most people won’t, so that you can spend the rest of your life like most people can’t.|???
-Weak people revenge. Strong people forgive. Intelligent people ignore.|???
+Weak people take revenge. Strong people forgive. Intelligent people ignore.|???
 The only failure is failure to learn.|???
 I will win, not immediately but definitely.|???
-Only generals that succeed can form dictatorships.|???
+Only successful generals can form dictatorships.|???
 Emotion is weakness.|???
 Never argue with idiots. Arguing is a waste of time. In any argument one person is right and one person is wrong. Why would the person who is right waste time with the person who is wrong? A stupid person will never be able to understand that they are stupid and wrong, but you make a fool of yourself when you treat stupid people as if they were smart and capable of understanding the truth. If they were smart and capable of understanding the truth then you wouldn’t be arguing in the first place. Arguing is for children. It is unbecoming of a man to be caught acting like a child.|Victor Pride
-A dream you dream alone is only a dream. A dream you dream together is reality. |John Lennon
-Hold fast to dreams for if dreams die, life is a broken-winged bird that cannot fly. |Langston Hughes
-I have tried 99 times and have failed, but on the 100th time came success. |Albert Einstein
-The greater the obstacle, the more glory in achieving it. |Moliere
-He who conquers others is strong. He who conquers himself is mighty. ―|Lao Tzu Think
-The achievement of one goal should be the starting point of another. | Alexander Graham Bell
-He who dares wins. |Winston Churchill
-Your ideas are like diamonds without the refining process, they are just a dirty rock, but by cutting away the impurities, they become priceless. |Paul Kearly
-You may be disappointed if you fail, but you are doomed if you do not try. |Beverly Sills
-Teamwork divides the task and multiplies the success. | Anon
-Teams share the burden and divide the grief. | Doug Smith
-Remember upon the conduct of each depends the fate of all. |Alexander the Great
-Finding good players is easy. Getting them to play as a team is another story. |Casey Stengel
-Build for your team a feeling of oneness, of dependence on one another and of strength to be derived by unity. |Vince Lombardi
-Without forgiveness, there can be no real freedom to act within a group. | Max DePree
-Alone we can do so little; together we can do so much. |Helen Keller
-Talent wins games, but teamwork and intelligence wins championships. | Michael Jordan
-If two men on the same job agree all the time, then one is useless. If they disagree all the time, both are useless. | Darryl F. Zanuck
-None of us is as smart as all of us.| Ken Blanchard
-The best teamwork comes from men who are working independently toward one goal in unison.| James Cash Penney
-In order to succeed you must fail so that you know what not to do the next time. | Anthony J. D'Angelo
-People who are afraid to fail can never experience the joys of success.| Pete Zafra
-Do not go where the path may lead, go instead where there is no path and leave a trail.| Ralph Waldo Emerson
-Impossible is a word to be found only in the dictionary of fools. |Napoleon Bonaparte 
+A dream you dream alone is only a dream. A dream you dream together is reality.|John Lennon
+Hold fast to dreams for if dreams die, life is a broken-winged bird that cannot fly.|Langston Hughes
+I have tried 99 times and have failed, but on the 100th time came success.|Unknown
+The greater the obstacle, the more glory in achieving it.|Moliere
+He who conquers others is strong. He who conquers himself is mighty.|Lao Tzu
+The achievement of one goal should be the starting point of another.|Alexander Graham Bell
+Who dares wins.|British SAS motto
+Your ideas are like diamonds without the refining process, they are just a dirty rock, but by cutting away the impurities, they become priceless.|Paul Kearly
+You may be disappointed if you fail, but you are doomed if you do not try.|Beverly Sills
+Teamwork divides the task and multiplies the success.|Unknown
+Teams share the burden and divide the grief.|Doug Smith
+Remember upon the conduct of each depends the fate of all.|Alexander the Great
+Finding good players is easy. Getting them to play as a team is another story.|Casey Stengel
+Build for your team a feeling of oneness, of dependence on one another and of strength to be derived by unity.|Vince Lombardi
+Without forgiveness, there can be no real freedom to act within a group.|Max DePree
+Alone we can do so little; together we can do so much.|Helen Keller
+Talent wins games, but teamwork and intelligence win championships.|Michael Jordan
+If two men on the same job agree all the time, then one is useless. If they disagree all the time, both are useless.|Darryl F. Zanuck
+None of us is as smart as all of us.|Ken Blanchard
+The best teamwork comes from men who are working independently toward one goal in unison.|James Cash Penney
+In order to succeed you must fail so that you know what not to do the next time.|Anthony J. D'Angelo
+People who are afraid to fail can never experience the joys of success.|Pete Zafra
+Do not go where the path may lead, go instead where there is no path and leave a trail.|Ralph Waldo Emerson
+Impossible is a word to be found only in the dictionary of fools.|Napoleon Bonaparte
 Success is doing ordinary things extraordinarily well.|Jim Rohn
 You just can't beat the person who never gives up.|Babe Ruth
-The only man who never makes mistakes is the man who never does anything. |Theodore Roosevelt
+The only man who never makes mistakes is the man who never does anything.|Theodore Roosevelt
 The greatest barrier to success is the fear of failure.|Sven Goran Eriksson
-Try to become not a man of success, but try rather to become a man of value.| Albert Einstein
-If people knew how hard I worked to gain my mastery, it wouldn't seem so wonderful.|Michelangelo 
+Try not to become a man of success, but rather a man of value.|Albert Einstein
+If people knew how hard I worked to gain my mastery, it wouldn't seem so wonderful.|Michelangelo
 The quality of a person's life is in direct proportion to their commitment to excellence, regardless of their chosen field of endeavor.|Vince Lombardi
 Nothing in the world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education is not; the world is full of educated failures. Persistence and determination alone are omnipotent.|Calvin Coolidge
 You want to know the difference between a master and a beginner? The master has failed more times than the beginner has even tried.|Stephen McCranie
 When experts are wrong, it's often because they're experts on an earlier version of the world.|Paul Graham
-A man is worth just as much as the things about he busies himself.|Marcus Aurelius
+A man is worth just as much as the things about which he busies himself.|Marcus Aurelius
 It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.|Charlie Munger
 Strategy without tactics is the slowest route to victory. Tactics without strategy are the noise before defeat.|Sun Tzu
 I never allow myself to have an opinion on anything that I don’t know the other side’s argument better than they do.|Charlie Munger
@@ -238,8 +238,8 @@ He cannot be held to the same standard as you and I.|Howard Hughes’s lawyer
 
 ## <a id="work">Work Quotes</a>
 
-| Quote        | Author           | 
-| ------------- |:-------------:| 
+|Quote|Author|
+|-------------|:-------------:|
 If a man has not found what he will die for, he isn't fit to live.|Martin Luther King, Jr.
 Focusing is about saying no.|Steve Jobs
 Discipline is hard – harder than trustworthiness and skill and perhaps even selflessness. We are by nature flawed and inconstant creatures. We can’t even keep from snacking in between meals. We are not built for discipline. We are built for novelty and excitement, not for careful attention to detail. Discipline is something we have to work at.|Atul Gawande
@@ -253,8 +253,8 @@ You want to know how to paint a perfect painting? It's easy. Make yourself perfe
 Yesterday's home runs don't win today's games.|Babe Ruth
 Your twenties are always an apprenticeship, but you don't always know what for.|Jan Houtema
 Creativity is people who care enough to keep thinking about something until they find the simplest way to do it.|Tim Cook
-The secret of getting ahead is getting started.| Mark Twain
-Success is a journey, not a destination.| Ben Sweetland
+The secret of getting ahead is getting started.|Mark Twain
+Success is a journey, not a destination.|Ben Sweetland
 The journey of a thousand miles begins with a single step.|Chinese proverb
 I have not failed. i've just found 10.000 ways that won't work.|Thomas Edison
 Overnight success takes decades of daily work.|Paulo Coelho
@@ -268,8 +268,8 @@ There are only two problems in life: you know what you want but don’t know how
 
 ## <a id="business">Business Quotes</a>
 
-| Quote        | Author           | 
-| ------------- |:-------------:| 
+|Quote|Author|
+|-------------|:-------------:|
 Success is a choice. The odds are we won’t succeed. But if something is important enough, then you should do it anyway.|Elon Musk
 It doesn’t matter how many times you failed, you only have to be right once.|Mark Cuban
 Inventing a job is better than finding a job.|Larry Summers
@@ -300,30 +300,30 @@ Have no fear of perfection - you'll never reach it.|Salvador Dali
 In God we trust; all others must bring data.|W. Edwards Deming
 Reasonably smart people can rationalize anything, but entrepreneurs are especially gifted at this.|Ash Maurya
 A man without a smiling face must not open a shop.|Chinese Proverb
-Customers don't expect you to be perfect. They do expect you to fix things when they go wrong. |Donald Porter
-Every great business is built on friendship. |J.C. Penney
-The secret to success in business, and in life, is to serve others. Put others first in all you do. |Kevin Stirtz
-We are what we repeatedly do. Excellence then, is not a single act, but a habit. |Aristotle
-In business, three things are necessary: knowledge, temper, and time. |Owen Fellt
+Customers don't expect you to be perfect. They do expect you to fix things when they go wrong.|Donald Porter
+Every great business is built on friendship.|J.C. Penney
+The secret to success in business, and in life, is to serve others. Put others first in all you do.|Kevin Stirtz
+We are what we repeatedly do. Excellence then, is not a single act, but a habit.|Aristotle
+In business, three things are necessary: knowledge, temper, and time.|Owen Fellt
 While the law of competition may be sometimes hard for the individual, it is best for the race, because it ensures the survival of the fittest in every department.|Andrew Carnegie
-An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today. |Laurence J. Peter
-The golden rule for every business man is this: "Put yourself in your customer’s place."|Orison Swett Marden 
-Business opportunities are like buses, there’s always another one coming. |Richard Branson
-A man should never neglect his family for business. |Walt Disney
-A business has to be involving, it has to be fun, and it has to exercise your creative instincts. |Richard Branson
-To be successful, you have to have your heart in your business, and your business in your heart. |Thomas Watson, Sr.
-If you work just for money, you’ll never make it, but if you love what you’re doing and you always put the customer first, success will be yours. |Ray Kroc
-Out there in some garage is an entrepreneur who’s forging a bullet with your company’s name on it. |Gary Hamel
-I am a man of fixed and unbending principles, the first of which is to be flexible at all times |Senator Everet Dirksen
-Confidence is contagious; so is lack of confidence. |Vince Lombard
-Business people are like sharks, not just because we're gray and slightly oily, or because our teeth trail the innards of those we have eviscerated, but because we must move forward or die. |Stanley Bing
- Drive your business. Let not your business drive you. |Benjamin Franklin
-The secret of business is to know something that nobody else knows. |Aristotle
-No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution. |Niccolo Machiavelli
-I am a great believer in luck, and I find that the harder I work the more luck I have. |Thomas Jefferson
-The achievements of an organization are the results of the combined effort of each individual. | Vince Lombardi
-No one can whistle a symphony. It takes an orchestra to play it.| H.E. Luccock
-Teamwork is the secret that make common people achieve uncommon result. | Ifeanyi Enoch
+An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.|Laurence J. Peter
+The golden rule for every business man is this: "Put yourself in your customer’s place."|Orison Swett Marden
+Business opportunities are like buses, there’s always another one coming.|Richard Branson
+A man should never neglect his family for business.|Walt Disney
+A business has to be involving, it has to be fun, and it has to exercise your creative instincts.|Richard Branson
+To be successful, you have to have your heart in your business, and your business in your heart.|Thomas Watson, Sr.
+If you work just for money, you’ll never make it, but if you love what you’re doing and you always put the customer first, success will be yours.|Ray Kroc
+Out there in some garage is an entrepreneur who’s forging a bullet with your company’s name on it.|Gary Hamel
+I am a man of fixed and unbending principles, the first of which is to be flexible at all times|Senator Everet Dirksen
+Confidence is contagious; so is lack of confidence.|Vince Lombard
+Business people are like sharks, not just because we're gray and slightly oily, or because our teeth trail the innards of those we have eviscerated, but because we must move forward or die.|Stanley Bing
+Drive your business. Let not your business drive you.|Benjamin Franklin
+The secret of business is to know something that nobody else knows.|Aristotle
+No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.|Niccolo Machiavelli
+I am a great believer in luck, and I find that the harder I work the more luck I have.|Thomas Jefferson
+The achievements of an organization are the results of the combined effort of each individual.|Vince Lombardi
+No one can whistle a symphony. It takes an orchestra to play it.|H.E. Luccock
+Teamwork is the secret that make common people achieve uncommon result.|Ifeanyi Enoch
 Fortunes are built in the down market, and collected in the up market.|Jason Calacanis
 What an investor needs is the ability to correctly evaluate selected businesses. Note that word “selected”: You don’t have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.|Warren Buffett
 Tactics is knowing what to do when there is something to do; strategy is knowing what to do when there is nothing to do.|Savielly Tartakower
@@ -338,8 +338,8 @@ It is rare for founders to be millionaires. Especially before the age of 40. We'
 
 ## <a id="tech">Tech Quotes</a>
 
-| Quote        | Author           | 
-| ------------- |:-------------:| 
+|Quote|Author|
+|-------------|:-------------:|
 As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow.|Doug McIlroy
 Ultimately you want to have the entire world's knowledge connected directly to your mind.|Sergey Brin
 Life's too short for bad software!|Balsamiq
@@ -361,8 +361,8 @@ For me, art is properly indented code.|Goku
 
 ## <a id="anime">Anime Quotes</a>
 
-| Quote        | Author           | 
-| ------------- |:-------------:| 
+|Quote|Author|
+|-------------|:-------------:|
 Humankind cannot gain anything without first giving something in return. To obtain, something of equal value must be lost.|Alphonse Elric
 A lesson without pain is meaningless. For you cannot gain anything without sacrificing something else in return. Although, if you can endure that pain and walk away from it, you'll find you have a heart strong enough to overcome any obstacle, yeah.. a heart made of full metal.|Edward Elric
 Nothing's perfect, the world's not perfect, but it's there for us, trying the best it can. That's what makes it so damn beautiful.|Roy Mustang
@@ -396,8 +396,8 @@ If we only focus on making the best moves, we will never get the better of our o
 
 ## <a id="game">Game Quotes</a>
 
-| Quote        | Author           |
-| ------------- |:-------------:|
+|Quote|Author|
+|-------------|:-------------:|
 There is no "good" or "evil", Only the truly powerful will survive!|Esqarrouth
 Meaning of life: Craft stuff, kill noobs.|Esqarrouth
 
@@ -405,8 +405,8 @@ Meaning of life: Craft stuff, kill noobs.|Esqarrouth
 
 ## <a id="movie">Movie Quotes</a>
 
-| Quote        | Author           | 
-| ------------- |:-------------:| 
+|Quote|Author|
+|-------------|:-------------:|
 Do or do not. There is no try.|Master Yoda
 Nobody exists on purpose. Nobody belongs anywhere. Everybody's going to die. Come watch TV?|Morty Smith
 All lives end. All hearts are broken. Caring is not an advantage.|Mycroft Holmes
@@ -418,7 +418,7 @@ Civilization rests on the principle that we treat our criminals better than they
 In chess the pawns go first.|Magneto
 A lion doesn't concern himself with the opinion of a sheep.|Tywin Lannister
 When one relies on sight to perceive the world, it is like trying to stare at the galaxy through a crack in the door.|Kreia
-I cannot force you to listen to reason, only hope that you will grow past these infantile delusions of right and wrong.|	Kreia
+I cannot force you to listen to reason, only hope that you will grow past these infantile delusions of right and wrong.|Kreia
 To believe in an ideal, is to be willing to betray it. It is something no Sith or Jedi has ever truly learned.|Kreia
 Be careful of charity and kindness, lest you do more harm with open hands then a clenched fist.|Kreia
 Do not see every enemy as an enemy, see them instead as an ally, whether they know it or not.|Kreia
@@ -430,8 +430,8 @@ Believing in something is easy, doing something about it is hard.|Ali G
 The simple truth is, the people want to be protected, they just don't want to know how.|Roger McCourt
 I don't want to be a product of my environment. I want my environment to be a product of me.|Frank Costello
 The thing about smart mother fuckers is that sometimes, they sound like crazy mother fuckers to stupid mother fuckers.|Walking Dead
-The thing about a battle plan is, it only works if soldiers follow orders.|Dominic 
-You know what the romans did when they marched into a country? They gave the king a choice, join or die. Those who joined flourished with the empire. Those who didn't... Either way the romans took the country.|Dominic 
+The thing about a battle plan is, it only works if soldiers follow orders.|Dominic
+You know what the romans did when they marched into a country? They gave the king a choice, join or die. Those who joined flourished with the empire. Those who didn't... Either way the romans took the country.|Dominic
 These invisible lines we draw on the world-- I realize they have no meaning. Why should a man lose his life for something illusory?|John Greer
 We have something in our favor that the Empire does not! For we are desperate!|Hondo Ohnaka
 Any man who must say I am the king is no true king.|Tywin Lanister
@@ -451,16 +451,16 @@ Reality is a construct of simple-minded fools who can’t function in the absenc
 
 ## <a id="book">Book Quotes</a>
 
-| Quote        | Author           | 
-| ------------- |:-------------:| 
-Books are like mirrors: if a fool looks in, you cannot expect a genius to look out.| J.K Rowling 
-A classic is a book that has never finished saying what it has to say.|Italo Calvino 
-Whenever you read a good book, somewhere in the world a door opens to allow in more light.| Vera Nazarian
-The books that the world calls immoral are books that show the world its own shame. |Oscar Wilde
+|Quote|Author|
+|-------------|:-------------:|
+Books are like mirrors: if a fool looks in, you cannot expect a genius to look out.|J.K Rowling
+A classic is a book that has never finished saying what it has to say.|Italo Calvino
+Whenever you read a good book, somewhere in the world a door opens to allow in more light.|Vera Nazarian
+The books that the world calls immoral are books that show the world its own shame.|Oscar Wilde
 Think before you speak. Read before you think.|Fran Lebowitz
 Never judge a book by its movie.|J.W. Eagan
-Autobiography is probably the most respectable form of lying.| Humphrey Carpenter
-Reading well is one of the great pleasures that solitude can afford you.| Harold Bloom 
+Autobiography is probably the most respectable form of lying.|Humphrey Carpenter
+Reading well is one of the great pleasures that solitude can afford you.|Harold Bloom
 For every sentence of masterpiece I write 99 sentences of crap. I try hard to make sure that the crap winds up in the wastebasket.|Ernest Hemingway
 Any word you have to hunt for in a thesaurus is the wrong word.|Stephen King
 
@@ -468,18 +468,18 @@ Any word you have to hunt for in a thesaurus is the wrong word.|Stephen King
 
 ## <a id="humour">Humour Quotes</a>
 
-| Quote        | Author           | 
-| ------------- |:-------------:| 
-The difference between genius and stupidity is; genius has its limits. | Albert Einstein 
-A person without a sense of humor is like a wagon without springs. It's jolted by every pebble on the road. | Henry Ward Beecher
-A well-developed sense of humor is the pole that adds balance to your steps as you walk the tightrope of life. | William Arthur Ward
-You can turn painful situations around through laughter. If you can find humor in anything, even poverty, you can survive it.| Bill Cosby
-Everything human is pathetic. The secret source of humor itself is not joy but sorrow. There is no humor in heaven. | Mark Twain
-I think the next best thing to solving a problem is finding some humor in it.| Frank Howard Clark
-Humor is laughing at what you haven't got when you ought to have it. |Langston Hughes
-Humor is a rubber sword - it allows you to make a point without drawing blood. |Mary Hirsch
-Defining and analyzing humor is a pastime of humorless people.| Robert Benchley 
-Analyzing humor is like dissecting a frog. Few people are interested and the frog dies of it. | E. B. White
+|Quote|Author|
+|-------------|:-------------:|
+The difference between genius and stupidity is; genius has its limits.|Albert Einstein
+A person without a sense of humor is like a wagon without springs. It's jolted by every pebble on the road.|Henry Ward Beecher
+A well-developed sense of humor is the pole that adds balance to your steps as you walk the tightrope of life.|William Arthur Ward
+You can turn painful situations around through laughter. If you can find humor in anything, even poverty, you can survive it.|Bill Cosby
+Everything human is pathetic. The secret source of humor itself is not joy but sorrow. There is no humor in heaven.|Mark Twain
+I think the next best thing to solving a problem is finding some humor in it.|Frank Howard Clark
+Humor is laughing at what you haven't got when you ought to have it.|Langston Hughes
+Humor is a rubber sword - it allows you to make a point without drawing blood.|Mary Hirsch
+Defining and analyzing humor is a pastime of humorless people.|Robert Benchley
+Analyzing humor is like dissecting a frog. Few people are interested and the frog dies of it.|E. B. White
 Don’t know the key to success, but the key to failure is trying to please everybody.|Bill Cosby
 Software is like sex; it’s better when it’s free.|Linus Torvalds
 
@@ -487,10 +487,10 @@ Software is like sex; it’s better when it’s free.|Linus Torvalds
 
 ## <a id="internet">Internet Quotes</a>
 
-| Quote        | Author           | 
-| ------------- |:-------------:| 
+|Quote|Author|
+|-------------|:-------------:|
 Those who don't learn from history are doomed to repeat it. Those who do learn from history are doomed to watch everyone else repeat it.|???
-Those who don't clear history are doomed to explain it.|u/C00kies4ever 
+Those who don't clear history are doomed to explain it.|u/C00kies4ever
 People’s happiness depends on their expectations, not their conditions.|???
 People desperately want to believe they are safe. They look for reasons why bad things happen so they can keep being safe. When bad things happen to someone who didn't "deserve" it or didn't do anything to cause it, this makes them realize it could happen to them too. This makes them feel afraid. Because they are afraid, they attack the thing that is causing the fear. Unfortunately, that means they attack the victim and not the perpetrator.|u/mnh5
 It's easier to fool people than to convince them that they have been fooled.|???
@@ -499,8 +499,8 @@ It's easier to fool people than to convince them that they have been fooled.|???
 
 ## <a id="friend">Friend Quotes</a>
 
-| Quote        | Author           | 
-| ------------- |:-------------:| 
+|Quote|Author|
+|-------------|:-------------:|
 You can't become a pokemon master in pallet town.|DBY
 I think better, because I think as the machine that I am.|Eray Ozkural
 I like ur hard nose but ur personal expectation of urself can't always hold true to others. In summation. NAPALM. It's my fav leadership acronym Not All People Are Like Me. U r good. Others not so much. Pick ur battles.|Brutis37/Kegan
@@ -510,20 +510,6 @@ Product Market Fit tutturamayana kız yok burada.|Berkay
 Fotoğraf çeken nerdler Apple'da, fotoğraf çekmeyen nerdler Google'da.|Furkan
 Koca gemiler batıyor kıyı kenarlarında, kanolar geçiyor okyanusları. Mesele, dalgalarla boğuşmayı değil, onları tanımayı öğrenmekte.|Çağrı Mumcuoğlu
 You were born free. The aim is to die free from everything imposed upon you since birth.|Ada
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---
@@ -553,4 +539,4 @@ You were born free. The aim is to die free from everything imposed upon you sinc
 
 ---
 
-Last update: August 12, 2026
+Last update: August 13, 2026
