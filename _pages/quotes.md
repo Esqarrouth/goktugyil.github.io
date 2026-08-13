@@ -205,7 +205,7 @@ No man can get rich himself unless he enriches others.|Earl Nightingale, The Str
 A mind is like a parachute. It doesn’t work if it is not open.|Unknown
 You can’t go back and make a new start, but you can start right now and make a brand new ending.|James R. Sherman, Rejection
 In my whole life, I have known no wise people, over a broad subject-matter area, who didn’t read all the time. None, zero.|Charlie Munger, Berkshire Hathaway Annual Meeting (2004)
-Fools say they learn by experience. I prefer to profit by other people’s experience.|Otto von Bismarck
+Only a fool learns from his own mistakes. The wise man learns from the mistakes of others.|Otto von Bismarck (paraphrase)
 I live in that solitude which is painful in youth, but delicious in the years of maturity.|Albert Einstein, Self-Portrait, Out of My Later Years
 The first principle is that you must not fool yourself, and you are the easiest person to fool.|Richard Feynman, Cargo Cult Science
 I myself am a question which is addressed to the world, and I must communicate my answer.|Carl Jung, Memories, Dreams, Reflections
