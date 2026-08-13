@@ -212,7 +212,7 @@ I myself am a question which is addressed to the world, and I must communicate m
 To be absolutely certain about something, one must know everything or nothing about it.|Unknown
 If you’re lonely when you’re alone, you’re in bad company.|Jean-Paul Sartre
 A wise man will be master of his mind; a fool will be its slave.|Publilius Syrus
-It is not death that a man should fear, but he should fear never beginning to live.|Marcus Aurelius, Meditations 12.1 (paraphrase)
+It is not death that a man should fear, but he should fear never beginning to live.|Marcus Aurelius, Meditations
 Intelligence is something we are born with. Thinking is a skill that must be learned.|Edward de Bono
 The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.|F. Scott Fitzgerald, The Crack-Up
 Gratitude is not only the greatest of virtues, but the parent of all the others.|Cicero, Pro Plancio
