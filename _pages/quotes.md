@@ -31,7 +31,7 @@ Nothing strengthens authority so much as silence.|Leonardo da Vinci
 How ridiculous and how strange to be surprised at anything which happens in life.|Marcus Aurelius
 Ideologies separate us. Dreams and anguish bring us together. | Eugene Ionesco
 The happiness of your life depends upon the quality of your thoughts.|Marcus Aurelius, Meditations
-He who is only an athlete is too crude, too vulgar, too much a savage. He who is a scholar only is too soft, too effeminate. The ideal citizen is the scholar-athlete, the man of thought and the man of action.|Adapted from Plato, Republic 3, 410b-d
+He who is only an athlete is too crude, too vulgar, too much a savage. He who is a scholar only is too soft, too effeminate. The ideal citizen is the scholar-athlete, the man of thought and the man of action.|Plato
 You can't classify me as black or white. I am something much greater. I am gray.|Goku
 To reach your dreams, you must sacrifice everything else you don't need.|Goku
 Victory is worth the sacrifice.|Goku
