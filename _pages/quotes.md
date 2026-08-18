@@ -153,11 +153,10 @@ The only failure is failure to learn.|???
 I will win, not immediately but definitely.|???
 Only successful generals can form dictatorships.|???
 Emotion is weakness.|???
-Never argue with idiots. Arguing is a waste of time. In any argument one person is right and one person is wrong. Why would the person who is right waste time with the person who is wrong? A stupid person will never be able to understand that they are stupid and wrong, but you make a fool of yourself when you treat stupid people as if they were smart and capable of understanding the truth. If they were smart and capable of understanding the truth then you wouldn’t be arguing in the first place. Arguing is for children. It is unbecoming of a man to be caught acting like a child.|Victor Pride
-A dream you dream alone is only a dream. A dream you dream together is reality.|John Lennon
+A dream you dream alone is only a dream. A dream you dream together is reality.|Yoko Ono
 Hold fast to dreams for if dreams die, life is a broken-winged bird that cannot fly.|Langston Hughes
 I have tried 99 times and have failed, but on the 100th time came success.|Unknown
-The greater the obstacle, the more glory in achieving it.|Moliere
+The greater the obstacle, the more glory in overcoming it.|Molière
 He who conquers others is strong. He who conquers himself is mighty.|Lao Tzu
 The achievement of one goal should be the starting point of another.|Alexander Graham Bell
 Who dares wins.|British SAS motto
@@ -521,6 +520,7 @@ You were born free. The aim is to die free from everything imposed upon you sinc
 <table>
   <thead><tr><th>Quote</th><th>Author</th></tr></thead>
   <tbody>
+    <tr><td>Never argue with idiots. Arguing is a waste of time. In any argument one person is right and one person is wrong. Why would the person who is right waste time with the person who is wrong? A stupid person will never be able to understand that they are stupid and wrong, but you make a fool of yourself when you treat stupid people as if they were smart and capable of understanding the truth. If they were smart and capable of understanding the truth then you wouldn’t be arguing in the first place. Arguing is for children. It is unbecoming of a man to be caught acting like a child.</td><td>Victor Pride</td></tr>
     <tr><td>I do not accept or acknowledge many of the established &#39;social rules&#39;. I view them as irrelevant noise.</td><td></td></tr>
     <tr><td>As an Ottoman bloodline, you’re meant for fighting, war, glory, murder, conquest, glory, death, razing, destruction, and pillaging. You gotta let that energy out properly or you’ll either be depressed or in jail. Best ways: the gym, music, business, video games, and sports.</td><td>Goku</td></tr>
     <tr><td>There is freedom of speech, but I cannot guarantee freedom after speech.</td><td></td></tr>
@@ -539,4 +539,4 @@ You were born free. The aim is to die free from everything imposed upon you sinc
 
 ---
 
-Last update: August 13, 2026
+Last update: August 18, 2026
