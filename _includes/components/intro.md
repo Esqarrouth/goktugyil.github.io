@@ -1,6 +1,6 @@
 ### Engineer, entrepreneur, gamer, biohacker.
 
-- I've been working on Colonist for the last 8 years.
+- I've been working on <a href="/about.html#colonist">Colonist</a> for the last 8 years.
   - I've been working on a Company OS project and trying to move all operating processes into AI.
 - Recently, I've been working on a Personal OS.
 - Lately, I've mostly been playing <a href="https://blog.colonist.io/announcing-colonist-rush/">Colonist Rush</a>.
