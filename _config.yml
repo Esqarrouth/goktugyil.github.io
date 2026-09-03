@@ -17,7 +17,7 @@ baseurl: ""
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
 include: ["_pages", "_portfolio"]
-exclude: ["AGENTS.md"]
+exclude: ["AGENTS.md", "plan"]
 
 # Turn the projects into a collection.
 collections:
@@ -65,4 +65,3 @@ defaults:
     values:
       show_profile: false
       layout: defaults/list
-
