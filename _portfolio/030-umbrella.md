@@ -20,7 +20,7 @@ Umbrella was a giant conglomerate which operated ruthlessly as a major internati
 From [http://residentevil.wikia.com/wiki/Umbrella_Corporation](http://residentevil.wikia.com/wiki/Umbrella_Corporation).
 
 <div class="card mb-3">
-    <img class="card-img-top" src = "http://via.placeholder.com/900x250/20c997/ffffff?text=screenshot"/>
+    <img class="card-img-top" src = "http://via.placeholder.com/900x250/20c997/ffffff?text=screenshot" alt="" />
     <div class="card-body bg-light">
         <div class="card-text">Screenshot of my work.</div>
     </div>

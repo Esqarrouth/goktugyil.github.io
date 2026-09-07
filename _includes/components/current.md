@@ -1,4 +1,4 @@
-### Engineer, entrepreneur, gamer, biohacker.
+## Engineer, entrepreneur, gamer, biohacker.
 
 - I've been working on <a href="/about.html#colonist">Colonist</a> for the last 8 years.
   - I've been working on a Company OS project and trying to move all operating processes into AI.

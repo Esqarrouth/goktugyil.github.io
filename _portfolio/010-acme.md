@@ -17,7 +17,7 @@ The company name in the Road Runner cartoons is ironic, since the word acme is d
 From [https://en.wikipedia.org/wiki/Acme_Corporation](https://en.wikipedia.org/wiki/Acme_Corporation).
 
 <div class="card mb-3">
-    <img class="card-img-top" src = "http://via.placeholder.com/900x250/20c997/ffffff?text=screenshot"/>
+    <img class="card-img-top" src = "http://via.placeholder.com/900x250/20c997/ffffff?text=screenshot" alt="" />
     <div class="card-body bg-light">
         <div class="card-text">Screenshot of my work.</div>
     </div>

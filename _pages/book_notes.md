@@ -1,5 +1,6 @@
 ---
 layout: defaults/page
+title: Book Notes
 permalink: book_notes.html
 narrow: true
 ---
@@ -43,7 +44,6 @@ So I keep track of what I eat using <a href="https://cronometer.com/">Cronometer
 <a href="https://www.goodreads.com/review/show/2279097609">The Wealth of Nations (Giants of Political Thought)</a>|George H. Smith, Adam Smith|3/5
 <a href="https://www.goodreads.com/review/show/1316689475">Permission Marketing: Turning Strangers Into Friends And Friends Into Customers</a>|Seth Godin|3/5
 <a href="https://www.goodreads.com/review/show/1396570895">Man's Search for Meaning </a>|Viktor E. Frankl|2/5
-
 
 
 

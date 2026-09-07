@@ -8,12 +8,12 @@ permalink: list/portfolio.html
     {% include components/all-skills.html %}
 </div>
 
-<div id="currently-showing">
-    <h2 class="d-flex align-items-center mb-3">
+<div id="currently-showing" role="status" aria-live="polite">
+    <p class="d-flex align-items-center mb-3">
         <span class="text-secondary mr-2">Showing everything matching:</span>
         <span class="border rounded p-2 mr-2 bg-light text-secondary" id="active-skill"></span>
-        <a class="btn btn-primary btn-small" href="javascript:void(0)" onclick="clearSkills()">clear</a>
-    </h2>
+        <button class="btn btn-primary btn-small" type="button" onclick="clearSkills()">clear</button>
+    </p>
 </div>
 
 {% assign sorted = site.portfolio | reverse %}
@@ -53,7 +53,7 @@ permalink: list/portfolio.html
             .addClass("bg-warning")
             .addClass("text-dark")
             .blur()
-        $("#active-skill").html(name)
+        $("#active-skill").text(name)
     }
 
     var clearSkills = function() {
@@ -66,4 +66,3 @@ permalink: list/portfolio.html
     }
 
 </script>
-

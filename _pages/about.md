@@ -1,5 +1,6 @@
 ---
 layout: defaults/page
+title: About
 permalink: about.html
 narrow: true
 ---
@@ -27,20 +28,20 @@ Previously I've advised:
 
 ## Founded Companies
 
-#### <a id="colonist" href="https://colonist.io/">**Colonist.io**</a>
+### [**Colonist.io**](https://colonist.io/) {#colonist}
 - Strategy game inspired from Catan in browser, mobile and Discord
 - 500K Monthly Active Players
 - 3K playing at any given time of the day
 - You can find more mind-blowing stats here in our <a href="https://blog.colonist.io/colonist-io-2025-summary/">2025 Summary</a>
 - <a href="https://www.youtube.com/watch?v=Z5VBej44TuI&ab_channel=DyLighted-Catan">Played</a> by <a href="https://www.youtube.com/@MrBeast">Mr. Beast</a>, one of the world's most famous YouTubers with 510M+ subscribers
 
-#### <span id="breakpoint"><strong>Breakpoint Labs</strong></span>
+### **Breakpoint Labs** {#breakpoint}
 We’ve worked on various projects in the cryptocurrency space. These include:  
 - <a href="https://web.archive.org/web/20240523113754/https://breakpointcapital.net/">**Breakpoint Capital:**</a> A private crypto fund
 - <a href="https://web.archive.org/web/20200519165411/https://bitses.org/tr/">**Bitses:**</a> A website with fundamental analyses of 100+ crypto assets, one of the biggest websites of its kind
 - <a href="https://web.archive.org/web/20180812065241/https://amoveo.exchange/trade/index">**Amoveo Exchange:**</a> A crypto to crypto exchange focused for the currency of Amoveo
 
-#### <a id="dawnofcrafting" href="http://www.dawnofcrafting.com/">**Dawn of Crafting**</a>
+### [**Dawn of Crafting**](http://www.dawnofcrafting.com/) {#dawnofcrafting}
 - Crafting game for iOS devices  
 - Hundreds of people play 200+ hours  
 - Average 4.8 star reviews (One of the highest rated games in its category)  
@@ -53,13 +54,13 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 - Self-published in the West. IP licensed to <a href="https://www.taptap.io/app/49814">TapTap</a> for publishing in China
 - Dan Harmon (Creator of <a href="https://www.imdb.com/title/tt2861424/">Rick and Morty</a> & <a href="https://www.imdb.com/title/tt1439629/">Community</a>) plays DoC more than I watched Rick and Morty (and I watched it all 3 times)  
 
-#### <a id="kreix">**Kreix**</a>
+### **Kreix** {#kreix}
 - Raised $50K government grant
 - Built 20+ mobile apps, mostly consumer focused  
 - Couldn't find strong Product-Market-Fit  
 - Apprenticeship period, foundation of my life   
 
-#### **Lumos Bilisim**
+### **Lumos Bilisim**
 - First company straight after college  
 - Did consulting web & mobile projects for small businesses  
 
@@ -67,13 +68,13 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 
 ## Advisory
 
-#### <a id="venge" href="https://venge.io/">**Venge.io**</a>
+### [**Venge.io**](https://venge.io/) {#venge}
 - Best performing native multiplayer FPS game on the web
 - Most popular FPS on the web at its peak
 - 35 million played in 2021
 - I advised the team about product, business, game design
 
-#### <a id="barakatech" href="https://www.barakatech.com/">**Barakatech**</a>
+### [**Barakatech**](https://www.barakatech.com/) {#barakatech}
 - Company founded by <a href="http://www.nokta.com">Nokta Media</a> founders (Turkey's biggest social media conglomerate)
 - I advised the team about blockchain technologies from product, engineering and business perspectives
 
@@ -91,12 +92,12 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 
 ## Founded Groups
 
-#### <a id="mobilemonday" href="https://web.archive.org/web/20151020013345/https://www.meetup.com/MobileMondayAnkara/">**Mobile Monday Ankara**</a>
+### [**Mobile Monday Ankara**](https://web.archive.org/web/20151020013345/https://www.meetup.com/MobileMondayAnkara/) {#mobilemonday}
 - First meetup in Ankara about mobile technologies
 - Has over 1K+ members
 - Actively running
 
-#### <a id="metuesports" href="https://web.archive.org/web/20141017032407/http://www.metuesports.com/">**METU eSports Society**</a>
+### [**METU eSports Society**](https://web.archive.org/web/20141017032407/http://www.metuesports.com/) {#metuesports}
 
 - One of the first university eSports societies in the world
 - We helped establish eSports societies at more than 100 universities
@@ -109,7 +110,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 
 - Contributors and users of my open source libraries include entrepreneurs, serial hackathon winners and employees of: Amazon, Facebook, Samsung, Epic Games, Electronic Arts, Ebay, Line, Yelp, Cloudflare, Evernote, Nubank
 
-#### <a href="https://stackoverflow.com/users/2589276/esqarrouth">Stack Overflow</a>
+### [Stack Overflow](https://stackoverflow.com/users/2589276/esqarrouth)
 
 <a href="https://stackexchange.com/users/3055586/esq"><img src="https://stackexchange.com/users/flair/3055586.png" width="208" height="58" alt="profile for Esq on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Esq on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
@@ -133,7 +134,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
   - 🐣 Lightweight loading activity for iOS 7+. Add the class and write one line of code.
   - 70K+ <a href="https://cocoapods.org/pods/EZLoadingActivity">CocoaPods</a> downloads until 2018
 
-#### <a href="http://www.easyuo.com/psl.php?page=mypsl&scripter=Esqarrouth">EasyUO Scripts</a>
+### [EasyUO Scripts](http://www.easyuo.com/psl.php?page=mypsl&scripter=Esqarrouth)
 
 <a class="github-button" href="http://www.easyuo.com/psl.php?page=mypsl&scripter=Esqarrouth" aria-label="EasyUO"> EasyUO </a>
 
@@ -145,7 +146,7 @@ We’ve worked on various projects in the cryptocurrency space. These include:
 - Proudest economy automation: Crafting factory with 20+ agents. Used this method to become the richest guild in 3 months in the server UODemise (6 year server at the time). Made so much money that we experienced inflation. Every item doubled in price. We owned the economy, we owned the world.
 
 
-#### <a href="https://github.com/runuo/runuo">RunUO</a>
+### [RunUO](https://github.com/runuo/runuo)
 
 <a class="github-button" href="https://github.com/runuo/runuo/subscription" data-icon="octicon-eye" data-show-count="true" aria-label="Watch runuo/runuo on GitHub">Watch</a>
 <a class="github-button" href="https://github.com/runuo/runuo" data-icon="octicon-star" data-show-count="true" aria-label="Star runuo/runuo on GitHub">Star</a> 

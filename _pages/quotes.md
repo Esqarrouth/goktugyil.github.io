@@ -1,5 +1,6 @@
 ---
 layout: defaults/page
+title: Quotes
 permalink: quotes.html
 narrow: true
 ---
@@ -20,7 +21,7 @@ narrow: true
 
 ---
 
-## <a id="wise">Wise Quotes</a>
+## Wise Quotes {#wise}
 
 |Quote|Author|
 |-------------|:-------------:|
@@ -59,7 +60,7 @@ For a change to happen in the world, someone has to pay.|Garry Tan
 
 ---
 
-## <a id="famous">Famous Quotes</a>
+## Famous Quotes {#famous}
 
 |Quote|Author|
 |-------------|:-------------:|
@@ -235,7 +236,7 @@ He cannot be held to the same standard as you and I.|Howard Hughes’s lawyer
 
 ---
 
-## <a id="work">Work Quotes</a>
+## Work Quotes {#work}
 
 |Quote|Author|
 |-------------|:-------------:|
@@ -265,7 +266,7 @@ There are only two problems in life: you know what you want but don’t know how
 
 ---
 
-## <a id="business">Business Quotes</a>
+## Business Quotes {#business}
 
 |Quote|Author|
 |-------------|:-------------:|
@@ -335,7 +336,7 @@ It is rare for founders to be millionaires. Especially before the age of 40. We'
 
 ---
 
-## <a id="tech">Tech Quotes</a>
+## Tech Quotes {#tech}
 
 |Quote|Author|
 |-------------|:-------------:|
@@ -358,7 +359,7 @@ For me, art is properly indented code.|Goku
 
 ---
 
-## <a id="anime">Anime Quotes</a>
+## Anime Quotes {#anime}
 
 |Quote|Author|
 |-------------|:-------------:|
@@ -393,7 +394,7 @@ If we only focus on making the best moves, we will never get the better of our o
 
 ---
 
-## <a id="game">Game Quotes</a>
+## Game Quotes {#game}
 
 |Quote|Author|
 |-------------|:-------------:|
@@ -402,7 +403,7 @@ Meaning of life: Craft stuff, kill noobs.|Esqarrouth
 
 ---
 
-## <a id="movie">Movie Quotes</a>
+## Movie Quotes {#movie}
 
 |Quote|Author|
 |-------------|:-------------:|
@@ -448,7 +449,7 @@ Reality is a construct of simple-minded fools who can’t function in the absenc
 
 ---
 
-## <a id="book">Book Quotes</a>
+## Book Quotes {#book}
 
 |Quote|Author|
 |-------------|:-------------:|
@@ -465,7 +466,7 @@ Any word you have to hunt for in a thesaurus is the wrong word.|Stephen King
 
 ---
 
-## <a id="humour">Humour Quotes</a>
+## Humour Quotes {#humour}
 
 |Quote|Author|
 |-------------|:-------------:|
@@ -484,7 +485,7 @@ Software is like sex; it’s better when it’s free.|Linus Torvalds
 
 ---
 
-## <a id="internet">Internet Quotes</a>
+## Internet Quotes {#internet}
 
 |Quote|Author|
 |-------------|:-------------:|
@@ -496,7 +497,7 @@ It's easier to fool people than to convince them that they have been fooled.|???
 
 ---
 
-## <a id="friend">Friend Quotes</a>
+## Friend Quotes {#friend}
 
 |Quote|Author|
 |-------------|:-------------:|
@@ -513,7 +514,7 @@ You were born free. The aim is to die free from everything imposed upon you sinc
 
 ---
 
-## <a id="dangerous-ideas">Dangerous Ideas</a>
+## Dangerous Ideas {#dangerous-ideas}
 
 <p>Saved for context or discussion. Inclusion does not mean endorsement.</p>
 

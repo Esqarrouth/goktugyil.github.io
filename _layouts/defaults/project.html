@@ -14,16 +14,15 @@ layout: default
 
 <script type="text/javascript">
     $(document).ready(function() {
-        var tpl = 
-            "<li class='nav-item'>\
-                <a class='nav-link bg-white mb-1' href='#header[idx]'>[name]</a>\
-            </li>"
-        $("h2").each(function(idx, h2) {
-            $(h2).attr("id", "header" + idx)
+        $("h2[id]").each(function(idx, h2) {
+            var id = $(h2).attr("id")
             var name = $(h2).text().trim()
-            var dom_string = tpl.replace("[name]", name).replace("[idx]", idx)
-            var header = $(dom_string)
-            $(".header-list").append(header)
+            var link = $("<a>", {
+                "class": "nav-link bg-white mb-1",
+                "href": "#" + id,
+                "text": name
+            })
+            $(".header-list").append($("<li>", { "class": "nav-item" }).append(link))
         })
     })
 </script>

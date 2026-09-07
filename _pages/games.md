@@ -5,7 +5,7 @@ permalink: games.html
 narrow: true
 ---
 
-#### Ranking Achievements: 
+## Ranking Achievements
 - Raid Shadow Legends - Platinum Arena (Top 200 - 0.0001%)
 - Pokemon Go - Lvl 30 2 weeks after release (Top 20 - 0.00001%) (I may or may not have written a bot that auto-grinds levels ^^)
 - World of Warcraft Classic - Blackwing Lair Horde Highest DPS (#1 - 0.01%)
@@ -20,7 +20,7 @@ narrow: true
 
 <hr />
 
-#### <a href="https://play.eslgaming.com/team/7299055/">METU AA</a>
+## [METU AA](https://play.eslgaming.com/team/7299055/)
 
 - Official League of Legends team of METU eSports Society representing the university in tournaments
 - I was team founder, captain and played as a jungler
@@ -36,7 +36,7 @@ Highlights of our tournament achievements:
 
 <hr />
 
-#### <a href="https://play.eslgaming.com/rainbowsix/north-america-pc/r6siege/pro/challenger-league-season-8-qualifier-1/team/6218080/">Mass Dispel</a>
+## [Mass Dispel](https://play.eslgaming.com/rainbowsix/north-america-pc/r6siege/pro/challenger-league-season-8-qualifier-1/team/6218080/)
 
 - First eSports team I founded before eSports was a <a href="http://prntscr.com/kh9mam">thing</a>
 - I was team founder, second captain and played as AD carry and solo top
@@ -49,7 +49,7 @@ Highlights of our tournament achievements:
 
 <hr />
 
-#### Other Tournament Achievements:
+## Other Tournament Achievements
 
 - Multiple Electronic Sports League LoL 1v1 wins
 - Multiple Hearthstone tournament wins
@@ -60,7 +60,7 @@ Highlights of our tournament achievements:
 
 <hr />
 
-#### Ultima Online
+### Ultima Online
 
 This is my all-time favorite game. A completely open sandbox and very realistic medieval world simulation made this more than a game, it was a world to live in. I've made hundreds of friends & enemies, learned how to code, automate tasks, AI, create and manage a guild, created websites, use the forums, hack Windows, theorycrafting due to UO. 
 
@@ -68,13 +68,13 @@ No other MMORPG managed to be like UO. If no one else makes a modern version of 
 
 <hr />
 
-#### DotA Allstars
+### DotA Allstars
 
 This was the game we played when there wasn't much action in UO. The three-corridor game design was a brilliant PvP concept. Its community and the MOBA concept evolved very quickly from the first phases. I've played for thousands of hours, attended some tournaments, and had a lot of fun.
 
 <hr />
 
-#### League of Legends
+### League of Legends
 
 I was getting dragged into LoL every 6 months by my DotA friends. It was improving tremendously fast. After 2 years of following its progress, I decided to start playing it and ended up playing for thousands of hours. I created a university society, eSports teams and achieved rating levels equivalent to chess grandmaster. 
 
@@ -90,13 +90,13 @@ Here are my top Solo Queue rankings:
 
 <hr />
 
-#### Rust
+### Rust
 
 This was the closest modern game to UO that I've played. Complete sandbox, crafting, no rules, trash-talking, guilds, murderers, friends, politics, trade. Its only downsides were 1. Being an FPS meant people using aiming scripts and 2. Houses that could be raided and every item you farmed just getting stolen from your house while you were asleep. So naturally I found a bug and placed containers that couldn't be stolen from. 
 
 <hr />
 
-#### Age of Empires II
+### Age of Empires II
 
 AoE, like UO, is a 20-year-old game that was created almost perfectly. Luckily it was modernized and we can continue playing it. This is the game with the widest skill gap between players in the world. No other balanced game will allow even 1v3 between players. AoE makes it possible to do 1v7 because of the ridiculously high skill cap people can reach.
 
@@ -104,7 +104,7 @@ I've reached a 1850+ rating, roughly the top 1000. But I know one elite player c
 
 <hr />
 
-#### Other Games
+### Other Games
 
 I've listed the top 5 games I spent my time on. The common theme is that every one of them is an online PvP game that requires a lot of skill and strategy.
 

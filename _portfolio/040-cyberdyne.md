@@ -18,7 +18,7 @@ A Series 800 Terminator, which is sent from the future and designed to kill huma
 From [http://terminator.wikia.com/wiki/Cyberdyne_Systems](http://terminator.wikia.com/wiki/Cyberdyne_Systems).
 
 <div class="card mb-3">
-    <img class="card-img-top" src = "http://via.placeholder.com/900x250/20c997/ffffff?text=screenshot"/>
+    <img class="card-img-top" src = "http://via.placeholder.com/900x250/20c997/ffffff?text=screenshot" alt="" />
     <div class="card-body bg-light">
         <div class="card-text">Screenshot of my work.</div>
     </div>

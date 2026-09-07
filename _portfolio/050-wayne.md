@@ -20,7 +20,7 @@ Wayne Enterprises and the Wayne Foundation are largely run by Bruce Wayne's busi
 From [https://en.wikipedia.org/wiki/Wayne_Enterprises](https://en.wikipedia.org/wiki/Wayne_Enterprises).
 
 <div class="card mb-3">
-    <img class="card-img-top" src = "http://via.placeholder.com/900x250/20c997/ffffff?text=screenshot"/>
+    <img class="card-img-top" src = "http://via.placeholder.com/900x250/20c997/ffffff?text=screenshot" alt="" />
     <div class="card-body bg-light">
         <div class="card-text">Screenshot of my work.</div>
     </div>
