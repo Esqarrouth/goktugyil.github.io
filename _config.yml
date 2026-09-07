@@ -18,7 +18,7 @@ description:      Personal website of Goku Yilmaz, an engineer, entrepreneur, ga
 baseurl: ""
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
-include: ["_pages", "_portfolio"]
+include: ["_pages"]
 exclude: ["AGENTS.md", "plan"]
 
 plugins:
@@ -58,12 +58,31 @@ defaults:
     values:
       show_profile: false
       layout: defaults/portfolio
+      sitemap: false
   -
     scope:
       path: "_projects"
     values:
       show_profile: false
       layout: defaults/project
+      sitemap: false
+  # Keep theme demo and test sources buildable and findable in the repository,
+  # but do not advertise them to search engines.
+  -
+    scope:
+      path: "theme/test"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "list/portfolio.html"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "list/projects.md"
+    values:
+      sitemap: false
   -
     scope:
       path: "list"
